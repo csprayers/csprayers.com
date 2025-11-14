@@ -1,0 +1,27 @@
+version: 1
+project:
+  title: Prayers for Computer Science
+  description: A collection of prayers for Computer Science students and professors
+  keywords:
+    - prayer
+    - computer science
+    - education
+    - faith
+  authors:
+    - name: CS Prayers Community
+  github: https://github.com/csprayers/csprayers.com
+
+site:
+  template: book-theme
+  title: Prayers for Computer Science
+  options:
+    logo: null
+    favicon: null
+  nav:
+    - title: Home
+      url: /
+    - title: Sample Prayers
+      url: /prayers
+  actions:
+    - title: GitHub
+      url: https://github.com/csprayers/csprayers.com

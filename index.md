@@ -1,0 +1,30 @@
+---
+title: Prayers for Computer Science
+---
+
+# Prayers for Computer Science
+
+Welcome to a collection of prayers written for those who study, teach, and practice the craft of computing.
+
+## About This Collection
+
+In the discipline of Computer Science, we encounter profound questions about logic, creation, beauty, and human flourishing. These prayers are offered as a resource for students and professors who wish to integrate their faith with their intellectual work.
+
+Whether you're starting a new semester, debugging stubborn code, wrestling with imposter syndrome, or preparing to teach a difficult concept, these prayers invite you to bring your whole self—mind, heart, and soul—before God.
+
+## Browse the Prayers
+
+Explore our collection of [Sample Prayers](prayers.md), including:
+
+- [A Prayer for the Beginning of a Semester](prayers/beginning-of-semester.md) - For professors and students as a new term begins
+- [A Prayer Before Debugging](prayers/before-debugging.md) - When the code will not run, and the error is hidden
+- [A Prayer for the Student Facing Imposter Syndrome](prayers/imposter-syndrome.md) - When you feel you do not belong
+- [A Prayer Before Teaching a Difficult Concept](prayers/teaching-difficult-concept.md) - For the professor preparing to explain what is hard
+
+---
+
+*"The heavens declare the glory of God; the skies proclaim the work of his hands."*
+— Psalm 19:1
+
+*"For from him and through him and for him are all things. To him be the glory forever! Amen."*
+— Romans 11:36
