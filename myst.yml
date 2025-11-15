@@ -104,679 +104,679 @@ project:
             - file: prayers/academic-year/transitions/retirement.md
               title: Retirement from teaching
 
-    - title: II. The Work of Learning (For Students)
-      children:
-        - title: Intellectual Struggle
-          children:
-            - file: prayers/learning/intellectual-struggle/concept-wont-click.md
-              title: When a concept won't "click"
-            - file: prayers/learning/intellectual-struggle/dense-textbook.md
-              title: Before reading a particularly dense textbook chapter
-            - file: prayers/learning/intellectual-struggle/impossible-problem-set.md
-              title: Starting a problem set that looks impossible
-            - file: prayers/learning/intellectual-struggle/everyone-else-understands.md
-              title: When everyone else seems to understand but you
-            - file: prayers/learning/intellectual-struggle/new-programming-language.md
-              title: Learning a new programming language
-            - file: prayers/learning/intellectual-struggle/proofs-first-time.md
-              title: Encountering proofs for the first time
-            - file: prayers/learning/intellectual-struggle/recursion.md
-              title: Wrestling with recursion
-            - file: prayers/learning/intellectual-struggle/pointers-and-memory.md
-              title: Understanding pointers and memory management
-            - file: prayers/learning/intellectual-struggle/big-o-notation.md
-              title: Grasping Big-O notation and complexity
-            - file: prayers/learning/intellectual-struggle/functional-programming.md
-              title: Making sense of lambda calculus or functional programming
+    # - title: II. The Work of Learning (For Students)
+    #   children:
+    #     - title: Intellectual Struggle
+    #       children:
+    #         - file: prayers/learning/intellectual-struggle/concept-wont-click.md
+    #           title: When a concept won't "click"
+    #         - file: prayers/learning/intellectual-struggle/dense-textbook.md
+    #           title: Before reading a particularly dense textbook chapter
+    #         - file: prayers/learning/intellectual-struggle/impossible-problem-set.md
+    #           title: Starting a problem set that looks impossible
+    #         - file: prayers/learning/intellectual-struggle/everyone-else-understands.md
+    #           title: When everyone else seems to understand but you
+    #         - file: prayers/learning/intellectual-struggle/new-programming-language.md
+    #           title: Learning a new programming language
+    #         - file: prayers/learning/intellectual-struggle/proofs-first-time.md
+    #           title: Encountering proofs for the first time
+    #         - file: prayers/learning/intellectual-struggle/recursion.md
+    #           title: Wrestling with recursion
+    #         - file: prayers/learning/intellectual-struggle/pointers-and-memory.md
+    #           title: Understanding pointers and memory management
+    #         - file: prayers/learning/intellectual-struggle/big-o-notation.md
+    #           title: Grasping Big-O notation and complexity
+    #         - file: prayers/learning/intellectual-struggle/functional-programming.md
+    #           title: Making sense of lambda calculus or functional programming
 
-        - title: Breakthrough Moments
-          children:
-            - file: prayers/learning/breakthrough/understanding-dawns.md
-              title: When understanding finally dawns
-            - file: prayers/learning/breakthrough/completing-challenge.md
-              title: Successfully completing a challenging assignment
-            - file: prayers/learning/breakthrough/first-compile-and-run.md
-              title: The first time your code compiles and runs correctly
-            - file: prayers/learning/breakthrough/solving-beyond-you.md
-              title: Solving a problem you thought was beyond you
-            - file: prayers/learning/breakthrough/unexpected-connection.md
-              title: Making an unexpected connection between concepts
-            - file: prayers/learning/breakthrough/why-it-works.md
-              title: Understanding why something you memorized actually works
+    #     - title: Breakthrough Moments
+    #       children:
+    #         - file: prayers/learning/breakthrough/understanding-dawns.md
+    #           title: When understanding finally dawns
+    #         - file: prayers/learning/breakthrough/completing-challenge.md
+    #           title: Successfully completing a challenging assignment
+    #         - file: prayers/learning/breakthrough/first-compile-and-run.md
+    #           title: The first time your code compiles and runs correctly
+    #         - file: prayers/learning/breakthrough/solving-beyond-you.md
+    #           title: Solving a problem you thought was beyond you
+    #         - file: prayers/learning/breakthrough/unexpected-connection.md
+    #           title: Making an unexpected connection between concepts
+    #         - file: prayers/learning/breakthrough/why-it-works.md
+    #           title: Understanding why something you memorized actually works
 
-        - title: Daily Work
-          children:
-            - file: prayers/learning/daily-work/late-night-coding.md
-              title: Beginning a late-night coding session
-            - file: prayers/learning/daily-work/opening-laptop.md
-              title: Opening your laptop to work on an assignment
-            - file: prayers/learning/daily-work/office-hours.md
-              title: Starting office hours visit (when you need help)
-            - file: prayers/learning/daily-work/asking-question.md
-              title: Before asking a question in class
-            - file: prayers/learning/daily-work/reviewing-notes.md
-              title: Reviewing notes after a lecture
-            - file: prayers/learning/daily-work/study-group.md
-              title: During a study group session
-            - file: prayers/learning/daily-work/reading-documentation.md
-              title: Reading documentation or Stack Overflow for help
+    #     - title: Daily Work
+    #       children:
+    #         - file: prayers/learning/daily-work/late-night-coding.md
+    #           title: Beginning a late-night coding session
+    #         - file: prayers/learning/daily-work/opening-laptop.md
+    #           title: Opening your laptop to work on an assignment
+    #         - file: prayers/learning/daily-work/office-hours.md
+    #           title: Starting office hours visit (when you need help)
+    #         - file: prayers/learning/daily-work/asking-question.md
+    #           title: Before asking a question in class
+    #         - file: prayers/learning/daily-work/reviewing-notes.md
+    #           title: Reviewing notes after a lecture
+    #         - file: prayers/learning/daily-work/study-group.md
+    #           title: During a study group session
+    #         - file: prayers/learning/daily-work/reading-documentation.md
+    #           title: Reading documentation or Stack Overflow for help
 
-        - title: Assessment
-          children:
-            - file: prayers/learning/assessment/before-exam.md
-              title: Before taking an exam
-            - file: prayers/learning/assessment/during-exam.md
-              title: During an exam (when stuck or panicking)
-            - file: prayers/learning/assessment/disappointing-grade.md
-              title: After receiving a disappointing grade
-            - file: prayers/learning/assessment/encouraging-grade.md
-              title: After receiving an encouraging grade
-            - file: prayers/learning/assessment/waiting-for-grades.md
-              title: Waiting for grades to be posted
-            - file: prayers/learning/assessment/code-review.md
-              title: Before a code review or presentation
-            - file: prayers/learning/assessment/technical-interview.md
-              title: During a technical interview
+    #     - title: Assessment
+    #       children:
+    #         - file: prayers/learning/assessment/before-exam.md
+    #           title: Before taking an exam
+    #         - file: prayers/learning/assessment/during-exam.md
+    #           title: During an exam (when stuck or panicking)
+    #         - file: prayers/learning/assessment/disappointing-grade.md
+    #           title: After receiving a disappointing grade
+    #         - file: prayers/learning/assessment/encouraging-grade.md
+    #           title: After receiving an encouraging grade
+    #         - file: prayers/learning/assessment/waiting-for-grades.md
+    #           title: Waiting for grades to be posted
+    #         - file: prayers/learning/assessment/code-review.md
+    #           title: Before a code review or presentation
+    #         - file: prayers/learning/assessment/technical-interview.md
+    #           title: During a technical interview
 
-    - title: III. The Work of Teaching (For Professors)
-      children:
-        - title: Preparation
-          children:
-            - file: prayers/teaching/preparation/planning-new-course.md
-              title: Planning a new course
-            - file: prayers/teaching/preparation/writing-syllabus.md
-              title: Writing a syllabus
-            - file: prayers/teaching/preparation/preparing-lecture.md
-              title: Preparing a lecture
-            - file: prayers/teaching/preparation/creating-assignment.md
-              title: Creating an assignment or project
-            - file: prayers/teaching/preparation/designing-exam.md
-              title: Designing an exam
-            - file: prayers/teaching/preparation/choosing-topics.md
-              title: Choosing which topics to include/exclude
-            - file: prayers/teaching/preparation/updating-materials.md
-              title: Updating course materials for a new semester
-            - file: prayers/teaching/preparation/learning-to-teach.md
-              title: Learning new material to teach it
+    # - title: III. The Work of Teaching (For Professors)
+    #   children:
+    #     - title: Preparation
+    #       children:
+    #         - file: prayers/teaching/preparation/planning-new-course.md
+    #           title: Planning a new course
+    #         - file: prayers/teaching/preparation/writing-syllabus.md
+    #           title: Writing a syllabus
+    #         - file: prayers/teaching/preparation/preparing-lecture.md
+    #           title: Preparing a lecture
+    #         - file: prayers/teaching/preparation/creating-assignment.md
+    #           title: Creating an assignment or project
+    #         - file: prayers/teaching/preparation/designing-exam.md
+    #           title: Designing an exam
+    #         - file: prayers/teaching/preparation/choosing-topics.md
+    #           title: Choosing which topics to include/exclude
+    #         - file: prayers/teaching/preparation/updating-materials.md
+    #           title: Updating course materials for a new semester
+    #         - file: prayers/teaching/preparation/learning-to-teach.md
+    #           title: Learning new material to teach it
 
-        - title: In the Classroom
-          children:
-            - file: prayers/teaching/classroom/before-class-begins.md
-              title: Before class begins (those few minutes alone)
-            - file: prayers/teaching/classroom/starting-lecture.md
-              title: Starting a lecture
-            - file: prayers/teaching/classroom/students-not-following.md
-              title: When you realize students aren't following
-            - file: prayers/teaching/classroom/question-unknown-answer.md
-              title: Answering a question you don't know the answer to
-            - file: prayers/teaching/classroom/teaching-twentieth-time.md
-              title: Teaching the same material for the 20th time
-            - file: prayers/teaching/classroom/students-engaged.md
-              title: When students are particularly engaged
-            - file: prayers/teaching/classroom/students-checked-out.md
-              title: When students seem checked out
-            - file: prayers/teaching/classroom/live-coding.md
-              title: Demonstrating live coding (and hoping it works)
-            - file: prayers/teaching/classroom/last-minutes.md
-              title: The last few minutes of class
+    #     - title: In the Classroom
+    #       children:
+    #         - file: prayers/teaching/classroom/before-class-begins.md
+    #           title: Before class begins (those few minutes alone)
+    #         - file: prayers/teaching/classroom/starting-lecture.md
+    #           title: Starting a lecture
+    #         - file: prayers/teaching/classroom/students-not-following.md
+    #           title: When you realize students aren't following
+    #         - file: prayers/teaching/classroom/question-unknown-answer.md
+    #           title: Answering a question you don't know the answer to
+    #         - file: prayers/teaching/classroom/teaching-twentieth-time.md
+    #           title: Teaching the same material for the 20th time
+    #         - file: prayers/teaching/classroom/students-engaged.md
+    #           title: When students are particularly engaged
+    #         - file: prayers/teaching/classroom/students-checked-out.md
+    #           title: When students seem checked out
+    #         - file: prayers/teaching/classroom/live-coding.md
+    #           title: Demonstrating live coding (and hoping it works)
+    #         - file: prayers/teaching/classroom/last-minutes.md
+    #           title: The last few minutes of class
 
-        - title: One-on-One Moments
-          children:
-            - file: prayers/teaching/one-on-one/before-office-hours.md
-              title: Before holding office hours
-            - file: prayers/teaching/one-on-one/struggling-student.md
-              title: During a difficult conversation with a struggling student
-            - file: prayers/teaching/one-on-one/career-advice.md
-              title: When a student comes seeking career advice
-            - file: prayers/teaching/one-on-one/recommendation-letter.md
-              title: Writing a letter of recommendation
-            - file: prayers/teaching/one-on-one/mentoring-research.md
-              title: Mentoring a student's research project
-            - file: prayers/teaching/one-on-one/academic-dishonesty.md
-              title: When you must address academic dishonesty
+    #     - title: One-on-One Moments
+    #       children:
+    #         - file: prayers/teaching/one-on-one/before-office-hours.md
+    #           title: Before holding office hours
+    #         - file: prayers/teaching/one-on-one/struggling-student.md
+    #           title: During a difficult conversation with a struggling student
+    #         - file: prayers/teaching/one-on-one/career-advice.md
+    #           title: When a student comes seeking career advice
+    #         - file: prayers/teaching/one-on-one/recommendation-letter.md
+    #           title: Writing a letter of recommendation
+    #         - file: prayers/teaching/one-on-one/mentoring-research.md
+    #           title: Mentoring a student's research project
+    #         - file: prayers/teaching/one-on-one/academic-dishonesty.md
+    #           title: When you must address academic dishonesty
 
-        - title: Assessment & Feedback
-          children:
-            - file: prayers/teaching/assessment/before-grading.md
-              title: Before grading a large stack of assignments
-            - file: prayers/teaching/assessment/while-grading.md
-              title: While grading (when your eyes grow weary)
-            - file: prayers/teaching/assessment/writing-feedback.md
-              title: Writing feedback that is both honest and encouraging
-            - file: prayers/teaching/assessment/calculating-grades.md
-              title: Calculating final grades
-            - file: prayers/teaching/assessment/failing-grade.md
-              title: When you must assign a failing grade
-            - file: prayers/teaching/assessment/exceptional-work.md
-              title: When you witness exceptional work
+    #     - title: Assessment & Feedback
+    #       children:
+    #         - file: prayers/teaching/assessment/before-grading.md
+    #           title: Before grading a large stack of assignments
+    #         - file: prayers/teaching/assessment/while-grading.md
+    #           title: While grading (when your eyes grow weary)
+    #         - file: prayers/teaching/assessment/writing-feedback.md
+    #           title: Writing feedback that is both honest and encouraging
+    #         - file: prayers/teaching/assessment/calculating-grades.md
+    #           title: Calculating final grades
+    #         - file: prayers/teaching/assessment/failing-grade.md
+    #           title: When you must assign a failing grade
+    #         - file: prayers/teaching/assessment/exceptional-work.md
+    #           title: When you witness exceptional work
 
-        - title: Professional Life
-          children:
-            - file: prayers/teaching/professional/faculty-meeting.md
-              title: Preparing for a faculty meeting
-            - file: prayers/teaching/professional/tenure-review.md
-              title: Before a tenure review
-            - file: prayers/teaching/professional/submitting-paper.md
-              title: Submitting a research paper
-            - file: prayers/teaching/professional/paper-rejection.md
-              title: Receiving a paper rejection
-            - file: prayers/teaching/professional/presenting-conference.md
-              title: Before presenting at a conference
-            - file: prayers/teaching/professional/new-research-project.md
-              title: Starting a new research project
-            - file: prayers/teaching/professional/research-dead-end.md
-              title: When research hits a dead end
-            - file: prayers/teaching/professional/applying-for-grants.md
-              title: Applying for grants
-            - file: prayers/teaching/professional/reviewing-papers.md
-              title: Reviewing others' papers
-            - file: prayers/teaching/professional/balancing-teaching-research.md
-              title: Balancing teaching and research
+    #     - title: Professional Life
+    #       children:
+    #         - file: prayers/teaching/professional/faculty-meeting.md
+    #           title: Preparing for a faculty meeting
+    #         - file: prayers/teaching/professional/tenure-review.md
+    #           title: Before a tenure review
+    #         - file: prayers/teaching/professional/submitting-paper.md
+    #           title: Submitting a research paper
+    #         - file: prayers/teaching/professional/paper-rejection.md
+    #           title: Receiving a paper rejection
+    #         - file: prayers/teaching/professional/presenting-conference.md
+    #           title: Before presenting at a conference
+    #         - file: prayers/teaching/professional/new-research-project.md
+    #           title: Starting a new research project
+    #         - file: prayers/teaching/professional/research-dead-end.md
+    #           title: When research hits a dead end
+    #         - file: prayers/teaching/professional/applying-for-grants.md
+    #           title: Applying for grants
+    #         - file: prayers/teaching/professional/reviewing-papers.md
+    #           title: Reviewing others' papers
+    #         - file: prayers/teaching/professional/balancing-teaching-research.md
+    #           title: Balancing teaching and research
 
-    - title: IV. Collaboration & Community
-      children:
-        - title: Working Together
-          children:
-            - file: prayers/collaboration/working-together/beginning-group-project.md
-              title: Beginning a group project (with hope)
-            - file: prayers/collaboration/working-together/group-conflict.md
-              title: During a group project (when conflict arises)
-            - file: prayers/collaboration/working-together/pair-programming.md
-              title: Pair programming
-            - file: prayers/collaboration/working-together/giving-code-review.md
-              title: Code review (giving feedback)
-            - file: prayers/collaboration/working-together/receiving-code-review.md
-              title: Code review (receiving feedback)
-            - file: prayers/collaboration/working-together/first-open-source.md
-              title: Contributing to open source for the first time
-            - file: prayers/collaboration/working-together/teammate-not-contributing.md
-              title: When your teammate isn't pulling their weight
-            - file: prayers/collaboration/working-together/you-not-contributing.md
-              title: When you're not pulling your weight
+    # - title: IV. Collaboration & Community
+    #   children:
+    #     - title: Working Together
+    #       children:
+    #         - file: prayers/collaboration/working-together/beginning-group-project.md
+    #           title: Beginning a group project (with hope)
+    #         - file: prayers/collaboration/working-together/group-conflict.md
+    #           title: During a group project (when conflict arises)
+    #         - file: prayers/collaboration/working-together/pair-programming.md
+    #           title: Pair programming
+    #         - file: prayers/collaboration/working-together/giving-code-review.md
+    #           title: Code review (giving feedback)
+    #         - file: prayers/collaboration/working-together/receiving-code-review.md
+    #           title: Code review (receiving feedback)
+    #         - file: prayers/collaboration/working-together/first-open-source.md
+    #           title: Contributing to open source for the first time
+    #         - file: prayers/collaboration/working-together/teammate-not-contributing.md
+    #           title: When your teammate isn't pulling their weight
+    #         - file: prayers/collaboration/working-together/you-not-contributing.md
+    #           title: When you're not pulling your weight
 
-        - title: Academic Community
-          children:
-            - file: prayers/collaboration/community/department-meeting.md
-              title: Before a department meeting
-            - file: prayers/collaboration/community/faculty-hiring.md
-              title: During faculty hiring decisions
-            - file: prayers/collaboration/community/welcoming-colleague.md
-              title: Welcoming a new colleague
-            - file: prayers/collaboration/community/colleague-leaves.md
-              title: When a colleague leaves or retires
-            - file: prayers/collaboration/community/cs-conference.md
-              title: At a CS conference or symposium
-            - file: prayers/collaboration/community/hackathon.md
-              title: During a hackathon
-            - file: prayers/collaboration/community/grace-hopper.md
-              title: At Grace Hopper or similar conference
-            - file: prayers/collaboration/community/competitive-community.md
-              title: When your research community feels competitive rather than collegial
+    #     - title: Academic Community
+    #       children:
+    #         - file: prayers/collaboration/community/department-meeting.md
+    #           title: Before a department meeting
+    #         - file: prayers/collaboration/community/faculty-hiring.md
+    #           title: During faculty hiring decisions
+    #         - file: prayers/collaboration/community/welcoming-colleague.md
+    #           title: Welcoming a new colleague
+    #         - file: prayers/collaboration/community/colleague-leaves.md
+    #           title: When a colleague leaves or retires
+    #         - file: prayers/collaboration/community/cs-conference.md
+    #           title: At a CS conference or symposium
+    #         - file: prayers/collaboration/community/hackathon.md
+    #           title: During a hackathon
+    #         - file: prayers/collaboration/community/grace-hopper.md
+    #           title: At Grace Hopper or similar conference
+    #         - file: prayers/collaboration/community/competitive-community.md
+    #           title: When your research community feels competitive rather than collegial
 
-        - title: Mentorship
-          children:
-            - file: prayers/collaboration/mentorship/taking-advisee.md
-              title: Taking on a new advisee
-            - file: prayers/collaboration/mentorship/assigned-advisor.md
-              title: Being assigned an advisor
-            - file: prayers/collaboration/mentorship/mentoring-clicks.md
-              title: When mentor and mentee click
-            - file: prayers/collaboration/mentorship/difficult-mentoring.md
-              title: When the mentoring relationship is difficult
-            - file: prayers/collaboration/mentorship/mentee-surpasses.md
-              title: Watching a mentee surpass you
-            - file: prayers/collaboration/mentorship/goodbye-to-advisee.md
-              title: Saying goodbye to a graduating advisee
+    #     - title: Mentorship
+    #       children:
+    #         - file: prayers/collaboration/mentorship/taking-advisee.md
+    #           title: Taking on a new advisee
+    #         - file: prayers/collaboration/mentorship/assigned-advisor.md
+    #           title: Being assigned an advisor
+    #         - file: prayers/collaboration/mentorship/mentoring-clicks.md
+    #           title: When mentor and mentee click
+    #         - file: prayers/collaboration/mentorship/difficult-mentoring.md
+    #           title: When the mentoring relationship is difficult
+    #         - file: prayers/collaboration/mentorship/mentee-surpasses.md
+    #           title: Watching a mentee surpass you
+    #         - file: prayers/collaboration/mentorship/goodbye-to-advisee.md
+    #           title: Saying goodbye to a graduating advisee
 
-    - title: V. The Practice of Programming
-      children:
-        - title: Creation
-          children:
-            - file: prayers/programming/creation/starting-new-project.md
-              title: Starting a new project
-            - file: prayers/programming/creation/first-line-of-code.md
-              title: Writing the first line of code
-            - file: prayers/programming/creation/choosing-tech-stack.md
-              title: Choosing a tech stack or architecture
-            - file: prayers/programming/creation/designing-system.md
-              title: Designing a system or algorithm
-            - file: prayers/programming/creation/creative-flow.md
-              title: When the creative flow is strong
-            - file: prayers/programming/creation/building-beautiful.md
-              title: Building something beautiful and functional
+    # - title: V. The Practice of Programming
+    #   children:
+    #     - title: Creation
+    #       children:
+    #         - file: prayers/programming/creation/starting-new-project.md
+    #           title: Starting a new project
+    #         - file: prayers/programming/creation/first-line-of-code.md
+    #           title: Writing the first line of code
+    #         - file: prayers/programming/creation/choosing-tech-stack.md
+    #           title: Choosing a tech stack or architecture
+    #         - file: prayers/programming/creation/designing-system.md
+    #           title: Designing a system or algorithm
+    #         - file: prayers/programming/creation/creative-flow.md
+    #           title: When the creative flow is strong
+    #         - file: prayers/programming/creation/building-beautiful.md
+    #           title: Building something beautiful and functional
 
-        - title: Debugging & Problem-Solving
-          children:
-            - file: prayers/programming/debugging/wont-compile.md
-              title: When the code won't compile
-            - file: prayers/programming/debugging/runtime-error.md
-              title: Facing a runtime error
-            - file: prayers/programming/debugging/hunting-bug.md
-              title: Hunting a subtle bug
-            - file: prayers/programming/debugging/hours-of-debugging.md
-              title: When you've been debugging for hours
-            - file: prayers/programming/debugging/reading-errors.md
-              title: Reading error messages
-            - file: prayers/programming/debugging/stack-overflow-error.md
-              title: Stack overflow (the bad kind)
-            - file: prayers/programming/debugging/memory-issues.md
-              title: Memory leaks and segmentation faults
-            - file: prayers/programming/debugging/finding-the-bug.md
-              title: When you find the bug (relief and sheepishness)
-            - file: prayers/programming/debugging/legacy-code.md
-              title: Dealing with legacy code
-            - file: prayers/programming/debugging/refactoring.md
-              title: Refactoring messy code
+    #     - title: Debugging & Problem-Solving
+    #       children:
+    #         - file: prayers/programming/debugging/wont-compile.md
+    #           title: When the code won't compile
+    #         - file: prayers/programming/debugging/runtime-error.md
+    #           title: Facing a runtime error
+    #         - file: prayers/programming/debugging/hunting-bug.md
+    #           title: Hunting a subtle bug
+    #         - file: prayers/programming/debugging/hours-of-debugging.md
+    #           title: When you've been debugging for hours
+    #         - file: prayers/programming/debugging/reading-errors.md
+    #           title: Reading error messages
+    #         - file: prayers/programming/debugging/stack-overflow-error.md
+    #           title: Stack overflow (the bad kind)
+    #         - file: prayers/programming/debugging/memory-issues.md
+    #           title: Memory leaks and segmentation faults
+    #         - file: prayers/programming/debugging/finding-the-bug.md
+    #           title: When you find the bug (relief and sheepishness)
+    #         - file: prayers/programming/debugging/legacy-code.md
+    #           title: Dealing with legacy code
+    #         - file: prayers/programming/debugging/refactoring.md
+    #           title: Refactoring messy code
 
-        - title: Testing
-          children:
-            - file: prayers/programming/testing/writing-tests.md
-              title: Writing tests
-            - file: prayers/programming/testing/all-tests-pass.md
-              title: When all tests pass (joy!)
-            - file: prayers/programming/testing/tests-fail.md
-              title: When tests fail (discovering what you missed)
-            - file: prayers/programming/testing/integration-testing.md
-              title: Integration testing
-            - file: prayers/programming/testing/user-testing.md
-              title: User testing
+    #     - title: Testing
+    #       children:
+    #         - file: prayers/programming/testing/writing-tests.md
+    #           title: Writing tests
+    #         - file: prayers/programming/testing/all-tests-pass.md
+    #           title: When all tests pass (joy!)
+    #         - file: prayers/programming/testing/tests-fail.md
+    #           title: When tests fail (discovering what you missed)
+    #         - file: prayers/programming/testing/integration-testing.md
+    #           title: Integration testing
+    #         - file: prayers/programming/testing/user-testing.md
+    #           title: User testing
 
-        - title: Deployment & Maintenance
-          children:
-            - file: prayers/programming/deployment/deploying-production.md
-              title: Deploying to production
-            - file: prayers/programming/deployment/deployment-fails.md
-              title: When deployment fails
-            - file: prayers/programming/deployment/monitoring-system.md
-              title: Monitoring a live system
-            - file: prayers/programming/deployment/system-failure.md
-              title: Responding to a system failure
-            - file: prayers/programming/deployment/maintaining-old-code.md
-              title: Maintaining code years after writing it
+    #     - title: Deployment & Maintenance
+    #       children:
+    #         - file: prayers/programming/deployment/deploying-production.md
+    #           title: Deploying to production
+    #         - file: prayers/programming/deployment/deployment-fails.md
+    #           title: When deployment fails
+    #         - file: prayers/programming/deployment/monitoring-system.md
+    #           title: Monitoring a live system
+    #         - file: prayers/programming/deployment/system-failure.md
+    #           title: Responding to a system failure
+    #         - file: prayers/programming/deployment/maintaining-old-code.md
+    #           title: Maintaining code years after writing it
 
-    - title: VI. Moments of Struggle & Doubt
-      children:
-        - title: Personal Challenges
-          children:
-            - file: prayers/struggle/personal/imposter-syndrome.md
-              title: Imposter syndrome
-            - file: prayers/struggle/personal/comparison.md
-              title: Comparison with peers
-            - file: prayers/struggle/personal/not-technical-enough.md
-              title: Feeling "not technical enough"
-            - file: prayers/struggle/personal/not-creative-enough.md
-              title: Feeling "not creative enough"
-            - file: prayers/struggle/personal/wrong-field.md
-              title: When you wonder if you chose the wrong field
-            - file: prayers/struggle/personal/burnout.md
-              title: During burnout
-            - file: prayers/struggle/personal/work-life-balance.md
-              title: When work-life balance is lost
-            - file: prayers/struggle/personal/late-nights-exhaustion.md
-              title: Late nights and exhaustion
-            - file: prayers/struggle/personal/missing-personal-events.md
-              title: Missing important personal events for deadlines
+    # - title: VI. Moments of Struggle & Doubt
+    #   children:
+    #     - title: Personal Challenges
+    #       children:
+    #         - file: prayers/struggle/personal/imposter-syndrome.md
+    #           title: Imposter syndrome
+    #         - file: prayers/struggle/personal/comparison.md
+    #           title: Comparison with peers
+    #         - file: prayers/struggle/personal/not-technical-enough.md
+    #           title: Feeling "not technical enough"
+    #         - file: prayers/struggle/personal/not-creative-enough.md
+    #           title: Feeling "not creative enough"
+    #         - file: prayers/struggle/personal/wrong-field.md
+    #           title: When you wonder if you chose the wrong field
+    #         - file: prayers/struggle/personal/burnout.md
+    #           title: During burnout
+    #         - file: prayers/struggle/personal/work-life-balance.md
+    #           title: When work-life balance is lost
+    #         - file: prayers/struggle/personal/late-nights-exhaustion.md
+    #           title: Late nights and exhaustion
+    #         - file: prayers/struggle/personal/missing-personal-events.md
+    #           title: Missing important personal events for deadlines
 
-        - title: Failure & Setback
-          children:
-            - file: prayers/struggle/failure/failing-exam.md
-              title: Failing an exam or course
-            - file: prayers/struggle/failure/no-internship.md
-              title: Not getting an internship
-            - file: prayers/struggle/failure/grad-school-rejection.md
-              title: Rejection from graduate school
-            - file: prayers/struggle/failure/paper-rejection.md
-              title: Paper rejection
-            - file: prayers/struggle/failure/grant-denial.md
-              title: Grant denial
-            - file: prayers/struggle/failure/not-getting-tenure.md
-              title: Not getting tenure
-            - file: prayers/struggle/failure/project-fails.md
-              title: A project that completely fails
-            - file: prayers/struggle/failure/costly-mistake.md
-              title: Making a costly mistake in production
-            - file: prayers/struggle/failure/laid-off.md
-              title: Being laid off
+    #     - title: Failure & Setback
+    #       children:
+    #         - file: prayers/struggle/failure/failing-exam.md
+    #           title: Failing an exam or course
+    #         - file: prayers/struggle/failure/no-internship.md
+    #           title: Not getting an internship
+    #         - file: prayers/struggle/failure/grad-school-rejection.md
+    #           title: Rejection from graduate school
+    #         - file: prayers/struggle/failure/paper-rejection.md
+    #           title: Paper rejection
+    #         - file: prayers/struggle/failure/grant-denial.md
+    #           title: Grant denial
+    #         - file: prayers/struggle/failure/not-getting-tenure.md
+    #           title: Not getting tenure
+    #         - file: prayers/struggle/failure/project-fails.md
+    #           title: A project that completely fails
+    #         - file: prayers/struggle/failure/costly-mistake.md
+    #           title: Making a costly mistake in production
+    #         - file: prayers/struggle/failure/laid-off.md
+    #           title: Being laid off
 
-        - title: Ethical Struggles
-          children:
-            - file: prayers/struggle/ethical/code-used-unethically.md
-              title: Discovering your code will be used unethically
-            - file: prayers/struggle/ethical/pressure-to-compromise.md
-              title: Pressure to cut corners or compromise
-            - file: prayers/struggle/ethical/reporting-dishonesty.md
-              title: When you must report academic dishonesty
-            - file: prayers/struggle/ethical/ai-causing-harm.md
-              title: Seeing AI/technology cause harm
-            - file: prayers/struggle/ethical/innovation-responsibility.md
-              title: Balancing innovation with responsibility
-            - file: prayers/struggle/ethical/asked-to-build-wrong.md
-              title: When asked to build something you believe is wrong
+    #     - title: Ethical Struggles
+    #       children:
+    #         - file: prayers/struggle/ethical/code-used-unethically.md
+    #           title: Discovering your code will be used unethically
+    #         - file: prayers/struggle/ethical/pressure-to-compromise.md
+    #           title: Pressure to cut corners or compromise
+    #         - file: prayers/struggle/ethical/reporting-dishonesty.md
+    #           title: When you must report academic dishonesty
+    #         - file: prayers/struggle/ethical/ai-causing-harm.md
+    #           title: Seeing AI/technology cause harm
+    #         - file: prayers/struggle/ethical/innovation-responsibility.md
+    #           title: Balancing innovation with responsibility
+    #         - file: prayers/struggle/ethical/asked-to-build-wrong.md
+    #           title: When asked to build something you believe is wrong
 
-    - title: VII. Ethical & Vocational Formation
-      children:
-        - title: Wisdom & Discernment
-          children:
-            - file: prayers/formation/wisdom/architectural-decisions.md
-              title: Before making architectural decisions
-            - file: prayers/formation/wisdom/accessibility.md
-              title: Considering accessibility in design
-            - file: prayers/formation/wisdom/algorithmic-bias.md
-              title: Thinking about algorithmic bias
-            - file: prayers/formation/wisdom/data-privacy.md
-              title: Data privacy decisions
-            - file: prayers/formation/wisdom/deploying-ai.md
-              title: Before deploying AI systems
-            - file: prayers/formation/wisdom/vulnerable-populations.md
-              title: Designing systems that affect vulnerable populations
-            - file: prayers/formation/wisdom/profit-vs-ethics.md
-              title: When profit and ethics conflict
-            - file: prayers/formation/wisdom/environmental-impact.md
-              title: Considering environmental impact of computing
+    # - title: VII. Ethical & Vocational Formation
+    #   children:
+    #     - title: Wisdom & Discernment
+    #       children:
+    #         - file: prayers/formation/wisdom/architectural-decisions.md
+    #           title: Before making architectural decisions
+    #         - file: prayers/formation/wisdom/accessibility.md
+    #           title: Considering accessibility in design
+    #         - file: prayers/formation/wisdom/algorithmic-bias.md
+    #           title: Thinking about algorithmic bias
+    #         - file: prayers/formation/wisdom/data-privacy.md
+    #           title: Data privacy decisions
+    #         - file: prayers/formation/wisdom/deploying-ai.md
+    #           title: Before deploying AI systems
+    #         - file: prayers/formation/wisdom/vulnerable-populations.md
+    #           title: Designing systems that affect vulnerable populations
+    #         - file: prayers/formation/wisdom/profit-vs-ethics.md
+    #           title: When profit and ethics conflict
+    #         - file: prayers/formation/wisdom/environmental-impact.md
+    #           title: Considering environmental impact of computing
 
-        - title: Vocation & Calling
-          children:
-            - file: prayers/formation/vocation/discerning-cs.md
-              title: Discerning whether to pursue CS
-            - file: prayers/formation/vocation/choosing-specialization.md
-              title: Choosing a specialization
-            - file: prayers/formation/vocation/industry-or-academia.md
-              title: Deciding between industry and academia
-            - file: prayers/formation/vocation/competing-job-offers.md
-              title: Choosing between competing job offers
-            - file: prayers/formation/vocation/is-this-calling.md
-              title: When you realize CS is/isn't your calling
-            - file: prayers/formation/vocation/skills-serve-others.md
-              title: Considering how your skills serve others
-            - file: prayers/formation/vocation/money-or-meaning.md
-              title: "When you must decide: money or meaning?"
+    #     - title: Vocation & Calling
+    #       children:
+    #         - file: prayers/formation/vocation/discerning-cs.md
+    #           title: Discerning whether to pursue CS
+    #         - file: prayers/formation/vocation/choosing-specialization.md
+    #           title: Choosing a specialization
+    #         - file: prayers/formation/vocation/industry-or-academia.md
+    #           title: Deciding between industry and academia
+    #         - file: prayers/formation/vocation/competing-job-offers.md
+    #           title: Choosing between competing job offers
+    #         - file: prayers/formation/vocation/is-this-calling.md
+    #           title: When you realize CS is/isn't your calling
+    #         - file: prayers/formation/vocation/skills-serve-others.md
+    #           title: Considering how your skills serve others
+    #         - file: prayers/formation/vocation/money-or-meaning.md
+    #           title: "When you must decide: money or meaning?"
 
-        - title: Character Formation
-          children:
-            - file: prayers/formation/character/humbled-by-unknowing.md
-              title: When humbled by what you don't know
-            - file: prayers/formation/character/learning-from-mistakes.md
-              title: Learning from mistakes
-            - file: prayers/formation/character/receiving-criticism.md
-              title: Receiving criticism with grace
-            - file: prayers/formation/character/patience-through-debugging.md
-              title: Growing in patience through debugging
-            - file: prayers/formation/character/perseverance.md
-              title: Developing perseverance through difficulty
-            - file: prayers/formation/character/humility-in-collaboration.md
-              title: Practicing humility in collaboration
+    #     - title: Character Formation
+    #       children:
+    #         - file: prayers/formation/character/humbled-by-unknowing.md
+    #           title: When humbled by what you don't know
+    #         - file: prayers/formation/character/learning-from-mistakes.md
+    #           title: Learning from mistakes
+    #         - file: prayers/formation/character/receiving-criticism.md
+    #           title: Receiving criticism with grace
+    #         - file: prayers/formation/character/patience-through-debugging.md
+    #           title: Growing in patience through debugging
+    #         - file: prayers/formation/character/perseverance.md
+    #           title: Developing perseverance through difficulty
+    #         - file: prayers/formation/character/humility-in-collaboration.md
+    #           title: Practicing humility in collaboration
 
-    - title: VIII. Specific CS Domains & Concepts
-      children:
-        - title: Core Areas
-          children:
-            - file: prayers/domains/core-areas/data-structures.md
-              title: Learning data structures
-            - file: prayers/domains/core-areas/algorithms.md
-              title: Understanding algorithms
-            - file: prayers/domains/core-areas/computer-architecture.md
-              title: Studying computer architecture
-            - file: prayers/domains/core-areas/theory-of-computation.md
-              title: Learning theory of computation
-            - file: prayers/domains/core-areas/database-design.md
-              title: Database design
-            - file: prayers/domains/core-areas/operating-systems.md
-              title: Operating systems
-            - file: prayers/domains/core-areas/networks.md
-              title: Networks and distributed systems
-            - file: prayers/domains/core-areas/compilers.md
-              title: Compilers and interpreters
+    # - title: VIII. Specific CS Domains & Concepts
+    #   children:
+    #     - title: Core Areas
+    #       children:
+    #         - file: prayers/domains/core-areas/data-structures.md
+    #           title: Learning data structures
+    #         - file: prayers/domains/core-areas/algorithms.md
+    #           title: Understanding algorithms
+    #         - file: prayers/domains/core-areas/computer-architecture.md
+    #           title: Studying computer architecture
+    #         - file: prayers/domains/core-areas/theory-of-computation.md
+    #           title: Learning theory of computation
+    #         - file: prayers/domains/core-areas/database-design.md
+    #           title: Database design
+    #         - file: prayers/domains/core-areas/operating-systems.md
+    #           title: Operating systems
+    #         - file: prayers/domains/core-areas/networks.md
+    #           title: Networks and distributed systems
+    #         - file: prayers/domains/core-areas/compilers.md
+    #           title: Compilers and interpreters
 
-        - title: Specialized Fields
-          children:
-            - file: prayers/domains/specialized/beginning-ai-ml.md
-              title: Beginning AI/ML studies
-            - file: prayers/domains/specialized/first-neural-network.md
-              title: Training your first neural network
-            - file: prayers/domains/specialized/large-language-models.md
-              title: Working with large language models
-            - file: prayers/domains/specialized/computer-graphics.md
-              title: Computer graphics and visualization
-            - file: prayers/domains/specialized/cybersecurity.md
-              title: Cybersecurity and ethical hacking
-            - file: prayers/domains/specialized/hci.md
-              title: Human-computer interaction
-            - file: prayers/domains/specialized/software-engineering.md
-              title: Software engineering principles
-            - file: prayers/domains/specialized/embedded-systems.md
-              title: Embedded systems and robotics
+    #     - title: Specialized Fields
+    #       children:
+    #         - file: prayers/domains/specialized/beginning-ai-ml.md
+    #           title: Beginning AI/ML studies
+    #         - file: prayers/domains/specialized/first-neural-network.md
+    #           title: Training your first neural network
+    #         - file: prayers/domains/specialized/large-language-models.md
+    #           title: Working with large language models
+    #         - file: prayers/domains/specialized/computer-graphics.md
+    #           title: Computer graphics and visualization
+    #         - file: prayers/domains/specialized/cybersecurity.md
+    #           title: Cybersecurity and ethical hacking
+    #         - file: prayers/domains/specialized/hci.md
+    #           title: Human-computer interaction
+    #         - file: prayers/domains/specialized/software-engineering.md
+    #           title: Software engineering principles
+    #         - file: prayers/domains/specialized/embedded-systems.md
+    #           title: Embedded systems and robotics
 
-        - title: Mathematical Foundations
-          children:
-            - file: prayers/domains/mathematical/discrete-math.md
-              title: Discrete mathematics
-            - file: prayers/domains/mathematical/probability-statistics.md
-              title: Probability and statistics for CS
-            - file: prayers/domains/mathematical/linear-algebra.md
-              title: Linear algebra for ML
-            - file: prayers/domains/mathematical/formal-methods.md
-              title: Formal methods and verification
-            - file: prayers/domains/mathematical/graph-theory.md
-              title: Graph theory
-            - file: prayers/domains/mathematical/cryptography.md
-              title: Cryptography
+    #     - title: Mathematical Foundations
+    #       children:
+    #         - file: prayers/domains/mathematical/discrete-math.md
+    #           title: Discrete mathematics
+    #         - file: prayers/domains/mathematical/probability-statistics.md
+    #           title: Probability and statistics for CS
+    #         - file: prayers/domains/mathematical/linear-algebra.md
+    #           title: Linear algebra for ML
+    #         - file: prayers/domains/mathematical/formal-methods.md
+    #           title: Formal methods and verification
+    #         - file: prayers/domains/mathematical/graph-theory.md
+    #           title: Graph theory
+    #         - file: prayers/domains/mathematical/cryptography.md
+    #           title: Cryptography
 
-    - title: IX. Technology & Tools
-      children:
-        - file: prayers/tools/first-git.md
-          title: Using version control (Git) for the first time
-        - file: prayers/tools/dev-environment.md
-          title: Setting up a development environment
-        - file: prayers/tools/command-line.md
-          title: Learning the command line
-        - file: prayers/tools/working-in-terminal.md
-          title: Working in the terminal
-        - file: prayers/tools/using-ide.md
-          title: Using an IDE effectively
-        - file: prayers/tools/keyboard-shortcuts.md
-          title: Mastering keyboard shortcuts
-        - file: prayers/tools/servers-down.md
-          title: When servers go down
-        - file: prayers/tools/database-corruption.md
-          title: Database corruption
-        - file: prayers/tools/lost-work.md
-          title: Lost work (before learning to commit often)
-        - file: prayers/tools/backup-recovery.md
-          title: Backup and recovery
-        - file: prayers/tools/cloud-computing.md
-          title: Cloud computing decisions
+    # - title: IX. Technology & Tools
+    #   children:
+    #     - file: prayers/tools/first-git.md
+    #       title: Using version control (Git) for the first time
+    #     - file: prayers/tools/dev-environment.md
+    #       title: Setting up a development environment
+    #     - file: prayers/tools/command-line.md
+    #       title: Learning the command line
+    #     - file: prayers/tools/working-in-terminal.md
+    #       title: Working in the terminal
+    #     - file: prayers/tools/using-ide.md
+    #       title: Using an IDE effectively
+    #     - file: prayers/tools/keyboard-shortcuts.md
+    #       title: Mastering keyboard shortcuts
+    #     - file: prayers/tools/servers-down.md
+    #       title: When servers go down
+    #     - file: prayers/tools/database-corruption.md
+    #       title: Database corruption
+    #     - file: prayers/tools/lost-work.md
+    #       title: Lost work (before learning to commit often)
+    #     - file: prayers/tools/backup-recovery.md
+    #       title: Backup and recovery
+    #     - file: prayers/tools/cloud-computing.md
+    #       title: Cloud computing decisions
 
-    - title: X. Seasons & Daily Rhythms
-      children:
-        - title: Daily Moments
-          children:
-            - file: prayers/rhythms/daily/morning-coffee.md
-              title: Morning coffee before coding
-            - file: prayers/rhythms/daily/afternoon-slump.md
-              title: The afternoon slump
-            - file: prayers/rhythms/daily/late-night-coding.md
-              title: Late night coding sessions
-            - file: prayers/rhythms/daily/walking-away.md
-              title: Walking away from a problem
-            - file: prayers/rhythms/daily/returning-fresh.md
-              title: Returning to a problem with fresh eyes
-            - file: prayers/rhythms/daily/commute-to-campus.md
-              title: The commute to campus
-            - file: prayers/rhythms/daily/arriving-lab.md
-              title: Arriving at the lab or office
-            - file: prayers/rhythms/daily/closing-laptop.md
-              title: Closing your laptop for the day
+    # - title: X. Seasons & Daily Rhythms
+    #   children:
+    #     - title: Daily Moments
+    #       children:
+    #         - file: prayers/rhythms/daily/morning-coffee.md
+    #           title: Morning coffee before coding
+    #         - file: prayers/rhythms/daily/afternoon-slump.md
+    #           title: The afternoon slump
+    #         - file: prayers/rhythms/daily/late-night-coding.md
+    #           title: Late night coding sessions
+    #         - file: prayers/rhythms/daily/walking-away.md
+    #           title: Walking away from a problem
+    #         - file: prayers/rhythms/daily/returning-fresh.md
+    #           title: Returning to a problem with fresh eyes
+    #         - file: prayers/rhythms/daily/commute-to-campus.md
+    #           title: The commute to campus
+    #         - file: prayers/rhythms/daily/arriving-lab.md
+    #           title: Arriving at the lab or office
+    #         - file: prayers/rhythms/daily/closing-laptop.md
+    #           title: Closing your laptop for the day
 
-        - title: Weekly Rhythms
-          children:
-            - file: prayers/rhythms/weekly/monday-morning.md
-              title: Monday morning (the week begins)
-            - file: prayers/rhythms/weekly/wednesday-hump.md
-              title: Wednesday (the hump)
-            - file: prayers/rhythms/weekly/friday-afternoon.md
-              title: Friday afternoon (the week ends)
-            - file: prayers/rhythms/weekly/weekend-work.md
-              title: Weekend work (when it's necessary)
-            - file: prayers/rhythms/weekly/weekend-rest.md
-              title: Weekend rest (stepping away)
+    #     - title: Weekly Rhythms
+    #       children:
+    #         - file: prayers/rhythms/weekly/monday-morning.md
+    #           title: Monday morning (the week begins)
+    #         - file: prayers/rhythms/weekly/wednesday-hump.md
+    #           title: Wednesday (the hump)
+    #         - file: prayers/rhythms/weekly/friday-afternoon.md
+    #           title: Friday afternoon (the week ends)
+    #         - file: prayers/rhythms/weekly/weekend-work.md
+    #           title: Weekend work (when it's necessary)
+    #         - file: prayers/rhythms/weekly/weekend-rest.md
+    #           title: Weekend rest (stepping away)
 
-        - title: Seasonal Moments
-          children:
-            - file: prayers/rhythms/seasonal/fall-semester-energy.md
-              title: Fall semester energy
-            - file: prayers/rhythms/seasonal/winter-darkness.md
-              title: Winter darkness and cold
-            - file: prayers/rhythms/seasonal/spring-renewal.md
-              title: Spring renewal
-            - file: prayers/rhythms/seasonal/summer-research.md
-              title: Summer research or internships
-            - file: prayers/rhythms/seasonal/summer-rest.md
-              title: Summer rest
+    #     - title: Seasonal Moments
+    #       children:
+    #         - file: prayers/rhythms/seasonal/fall-semester-energy.md
+    #           title: Fall semester energy
+    #         - file: prayers/rhythms/seasonal/winter-darkness.md
+    #           title: Winter darkness and cold
+    #         - file: prayers/rhythms/seasonal/spring-renewal.md
+    #           title: Spring renewal
+    #         - file: prayers/rhythms/seasonal/summer-research.md
+    #           title: Summer research or internships
+    #         - file: prayers/rhythms/seasonal/summer-rest.md
+    #           title: Summer rest
 
-    - title: XI. Relationships & Humanity
-      children:
-        - title: With Students (For Professors)
-          children:
-            - file: prayers/relationships/with-students/struggling-personally.md
-              title: When a student is struggling personally
-            - file: prayers/relationships/with-students/student-discovers-calling.md
-              title: Watching a student discover their calling
-            - file: prayers/relationships/with-students/firm-but-loving.md
-              title: When you must be firm but loving
-            - file: prayers/relationships/with-students/celebrating-success.md
-              title: Celebrating student success
-            - file: prayers/relationships/with-students/grieving-with-students.md
-              title: Grieving with students in loss
-            - file: prayers/relationships/with-students/mental-health.md
-              title: When a student opens up about mental health
+    # - title: XI. Relationships & Humanity
+    #   children:
+    #     - title: With Students (For Professors)
+    #       children:
+    #         - file: prayers/relationships/with-students/struggling-personally.md
+    #           title: When a student is struggling personally
+    #         - file: prayers/relationships/with-students/student-discovers-calling.md
+    #           title: Watching a student discover their calling
+    #         - file: prayers/relationships/with-students/firm-but-loving.md
+    #           title: When you must be firm but loving
+    #         - file: prayers/relationships/with-students/celebrating-success.md
+    #           title: Celebrating student success
+    #         - file: prayers/relationships/with-students/grieving-with-students.md
+    #           title: Grieving with students in loss
+    #         - file: prayers/relationships/with-students/mental-health.md
+    #           title: When a student opens up about mental health
 
-        - title: With Professors (For Students)
-          children:
-            - file: prayers/relationships/with-professors/extraordinary-care.md
-              title: When a professor shows extraordinary care
-            - file: prayers/relationships/with-professors/disappointing-professor.md
-              title: When you disappoint a professor you respect
-            - file: prayers/relationships/with-professors/professors-are-human.md
-              title: Learning to see professors as human
-            - file: prayers/relationships/with-professors/gratitude-for-mentorship.md
-              title: Gratitude for mentorship
+    #     - title: With Professors (For Students)
+    #       children:
+    #         - file: prayers/relationships/with-professors/extraordinary-care.md
+    #           title: When a professor shows extraordinary care
+    #         - file: prayers/relationships/with-professors/disappointing-professor.md
+    #           title: When you disappoint a professor you respect
+    #         - file: prayers/relationships/with-professors/professors-are-human.md
+    #           title: Learning to see professors as human
+    #         - file: prayers/relationships/with-professors/gratitude-for-mentorship.md
+    #           title: Gratitude for mentorship
 
-        - title: With Peers
-          children:
-            - file: prayers/relationships/with-peers/making-friends.md
-              title: Making friends through CS
-            - file: prayers/relationships/with-peers/professional-jealousy.md
-              title: Professional jealousy
-            - file: prayers/relationships/with-peers/celebrating-others.md
-              title: Celebrating others' success
-            - file: prayers/relationships/with-peers/supporting-peer.md
-              title: Supporting a struggling peer
-            - file: prayers/relationships/with-peers/healthy-competition.md
-              title: Healthy competition
-            - file: prayers/relationships/with-peers/mutual-learning.md
-              title: Collaboration and mutual learning
+    #     - title: With Peers
+    #       children:
+    #         - file: prayers/relationships/with-peers/making-friends.md
+    #           title: Making friends through CS
+    #         - file: prayers/relationships/with-peers/professional-jealousy.md
+    #           title: Professional jealousy
+    #         - file: prayers/relationships/with-peers/celebrating-others.md
+    #           title: Celebrating others' success
+    #         - file: prayers/relationships/with-peers/supporting-peer.md
+    #           title: Supporting a struggling peer
+    #         - file: prayers/relationships/with-peers/healthy-competition.md
+    #           title: Healthy competition
+    #         - file: prayers/relationships/with-peers/mutual-learning.md
+    #           title: Collaboration and mutual learning
 
-        - title: With Family & Friends
-          children:
-            - file: prayers/relationships/with-family/non-cs-dont-understand.md
-              title: When non-CS people don't understand your work
-            - file: prayers/relationships/with-family/missing-family-time.md
-              title: Missing family time for deadlines
-            - file: prayers/relationships/with-family/trying-to-explain.md
-              title: Trying to explain what you do
-            - file: prayers/relationships/with-family/loved-ones-support.md
-              title: When loved ones support you
-            - file: prayers/relationships/with-family/when-they-dont.md
-              title: When they don't
+    #     - title: With Family & Friends
+    #       children:
+    #         - file: prayers/relationships/with-family/non-cs-dont-understand.md
+    #           title: When non-CS people don't understand your work
+    #         - file: prayers/relationships/with-family/missing-family-time.md
+    #           title: Missing family time for deadlines
+    #         - file: prayers/relationships/with-family/trying-to-explain.md
+    #           title: Trying to explain what you do
+    #         - file: prayers/relationships/with-family/loved-ones-support.md
+    #           title: When loved ones support you
+    #         - file: prayers/relationships/with-family/when-they-dont.md
+    #           title: When they don't
 
-    - title: XII. The Life of the Mind
-      children:
-        - title: Wonder & Beauty
-          children:
-            - file: prayers/mind/wonder/elegant-code.md
-              title: Encountering elegant code
-            - file: prayers/mind/wonder/beautiful-algorithm.md
-              title: Understanding a beautiful algorithm
-            - file: prayers/mind/wonder/mathematics-beneath.md
-              title: Seeing the mathematics beneath computation
-            - file: prayers/mind/wonder/complexity-becomes-simple.md
-              title: When complexity becomes simple
-            - file: prayers/mind/wonder/computational-thinking.md
-              title: Appreciating computational thinking
-            - file: prayers/mind/wonder/artistry-of-design.md
-              title: The artistry of good design
+    # - title: XII. The Life of the Mind
+    #   children:
+    #     - title: Wonder & Beauty
+    #       children:
+    #         - file: prayers/mind/wonder/elegant-code.md
+    #           title: Encountering elegant code
+    #         - file: prayers/mind/wonder/beautiful-algorithm.md
+    #           title: Understanding a beautiful algorithm
+    #         - file: prayers/mind/wonder/mathematics-beneath.md
+    #           title: Seeing the mathematics beneath computation
+    #         - file: prayers/mind/wonder/complexity-becomes-simple.md
+    #           title: When complexity becomes simple
+    #         - file: prayers/mind/wonder/computational-thinking.md
+    #           title: Appreciating computational thinking
+    #         - file: prayers/mind/wonder/artistry-of-design.md
+    #           title: The artistry of good design
 
-        - title: Limits & Mystery
-          children:
-            - file: prayers/mind/limits/limits-of-computation.md
-              title: Realizing the limits of computation
-            - file: prayers/mind/limits/undecidability.md
-              title: Encountering undecidability
-            - file: prayers/mind/limits/halting-problem.md
-              title: Grappling with the halting problem
-            - file: prayers/mind/limits/what-computers-cant-do.md
-              title: Understanding what computers can't do
-            - file: prayers/mind/limits/consciousness-and-ai.md
-              title: The mystery of consciousness and AI
-            - file: prayers/mind/limits/questions-tech-cant-answer.md
-              title: Questions technology can't answer
+    #     - title: Limits & Mystery
+    #       children:
+    #         - file: prayers/mind/limits/limits-of-computation.md
+    #           title: Realizing the limits of computation
+    #         - file: prayers/mind/limits/undecidability.md
+    #           title: Encountering undecidability
+    #         - file: prayers/mind/limits/halting-problem.md
+    #           title: Grappling with the halting problem
+    #         - file: prayers/mind/limits/what-computers-cant-do.md
+    #           title: Understanding what computers can't do
+    #         - file: prayers/mind/limits/consciousness-and-ai.md
+    #           title: The mystery of consciousness and AI
+    #         - file: prayers/mind/limits/questions-tech-cant-answer.md
+    #           title: Questions technology can't answer
 
-        - title: Integration
-          children:
-            - file: prayers/mind/integration/cs-other-disciplines.md
-              title: Connecting CS to other disciplines
-            - file: prayers/mind/integration/faith-and-technology.md
-              title: Faith and technology
-            - file: prayers/mind/integration/cs-liberal-arts.md
-              title: CS and the liberal arts
-            - file: prayers/mind/integration/science-humanities.md
-              title: Science and the humanities
-            - file: prayers/mind/integration/tech-human-flourishing.md
-              title: Technology and human flourishing
+    #     - title: Integration
+    #       children:
+    #         - file: prayers/mind/integration/cs-other-disciplines.md
+    #           title: Connecting CS to other disciplines
+    #         - file: prayers/mind/integration/faith-and-technology.md
+    #           title: Faith and technology
+    #         - file: prayers/mind/integration/cs-liberal-arts.md
+    #           title: CS and the liberal arts
+    #         - file: prayers/mind/integration/science-humanities.md
+    #           title: Science and the humanities
+    #         - file: prayers/mind/integration/tech-human-flourishing.md
+    #           title: Technology and human flourishing
 
-    - title: XIII. Special Occasions
-      children:
-        - title: Celebrations
-          children:
-            - file: prayers/occasions/celebrations/winning-hackathon.md
-              title: Winning a hackathon
-            - file: prayers/occasions/celebrations/publishing-first-paper.md
-              title: Publishing your first paper
-            - file: prayers/occasions/celebrations/defending-thesis.md
-              title: Defending a thesis
-            - file: prayers/occasions/celebrations/first-job-offer.md
-              title: Getting your first job offer
-            - file: prayers/occasions/celebrations/launching-product.md
-              title: Launching a successful product
-            - file: prayers/occasions/celebrations/first-hello-world.md
-              title: A student's first "Hello, World!"
-            - file: prayers/occasions/celebrations/department-celebrations.md
-              title: Department celebrations
+    # - title: XIII. Special Occasions
+    #   children:
+    #     - title: Celebrations
+    #       children:
+    #         - file: prayers/occasions/celebrations/winning-hackathon.md
+    #           title: Winning a hackathon
+    #         - file: prayers/occasions/celebrations/publishing-first-paper.md
+    #           title: Publishing your first paper
+    #         - file: prayers/occasions/celebrations/defending-thesis.md
+    #           title: Defending a thesis
+    #         - file: prayers/occasions/celebrations/first-job-offer.md
+    #           title: Getting your first job offer
+    #         - file: prayers/occasions/celebrations/launching-product.md
+    #           title: Launching a successful product
+    #         - file: prayers/occasions/celebrations/first-hello-world.md
+    #           title: A student's first "Hello, World!"
+    #         - file: prayers/occasions/celebrations/department-celebrations.md
+    #           title: Department celebrations
 
-        - title: Commemorations
-          children:
-            - file: prayers/occasions/commemorations/cs-pioneer-passes.md
-              title: When a pioneer in CS passes away
-            - file: prayers/occasions/commemorations/honoring-those-before.md
-              title: Honoring those who came before
-            - file: prayers/occasions/commemorations/history-of-computing.md
-              title: Celebrating the history of computing
-            - file: prayers/occasions/commemorations/key-moments.md
-              title: Remembering key moments in CS history
+    #     - title: Commemorations
+    #       children:
+    #         - file: prayers/occasions/commemorations/cs-pioneer-passes.md
+    #           title: When a pioneer in CS passes away
+    #         - file: prayers/occasions/commemorations/honoring-those-before.md
+    #           title: Honoring those who came before
+    #         - file: prayers/occasions/commemorations/history-of-computing.md
+    #           title: Celebrating the history of computing
+    #         - file: prayers/occasions/commemorations/key-moments.md
+    #           title: Remembering key moments in CS history
 
-        - title: Lament
-          children:
-            - file: prayers/occasions/lament/tech-used-for-harm.md
-              title: When technology is used for harm
-            - file: prayers/occasions/lament/ai-ethics-failures.md
-              title: AI ethics failures in the news
-            - file: prayers/occasions/lament/data-breaches.md
-              title: Data breaches and privacy violations
-            - file: prayers/occasions/lament/algorithms-perpetuate-injustice.md
-              title: When algorithms perpetuate injustice
-            - file: prayers/occasions/lament/techs-role-in-isolation.md
-              title: Technology's role in isolation
-            - file: prayers/occasions/lament/dark-side-social-media.md
-              title: The dark side of social media
-            - file: prayers/occasions/lament/innovation-outpaces-wisdom.md
-              title: When innovation outpaces wisdom
+    #     - title: Lament
+    #       children:
+    #         - file: prayers/occasions/lament/tech-used-for-harm.md
+    #           title: When technology is used for harm
+    #         - file: prayers/occasions/lament/ai-ethics-failures.md
+    #           title: AI ethics failures in the news
+    #         - file: prayers/occasions/lament/data-breaches.md
+    #           title: Data breaches and privacy violations
+    #         - file: prayers/occasions/lament/algorithms-perpetuate-injustice.md
+    #           title: When algorithms perpetuate injustice
+    #         - file: prayers/occasions/lament/techs-role-in-isolation.md
+    #           title: Technology's role in isolation
+    #         - file: prayers/occasions/lament/dark-side-social-media.md
+    #           title: The dark side of social media
+    #         - file: prayers/occasions/lament/innovation-outpaces-wisdom.md
+    #           title: When innovation outpaces wisdom
