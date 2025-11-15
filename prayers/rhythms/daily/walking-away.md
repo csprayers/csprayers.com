@@ -1,8 +1,8 @@
 ---
-title: Walking Away from a Problem
+title: Walking away from a problem
 ---
 
-# Walking Away from a Problem
+# Walking away from a problem
 
 *Taking a break*
 

@@ -1,8 +1,8 @@
 ---
-title: Facing a Runtime Error
+title: Facing a runtime error
 ---
 
-# Facing a Runtime Error
+# Facing a runtime error
 
 *When execution fails*
 

@@ -1,8 +1,8 @@
 ---
-title: Reviewing Others' Papers
+title: Reviewing others' papers
 ---
 
-# Reviewing Others' Papers
+# Reviewing others' papers
 
 *Serving the scholarly community*
 

@@ -1,8 +1,8 @@
 ---
-title: Using an IDE Effectively
+title: Using an IDE effectively
 ---
 
-# Using an IDE Effectively
+# Using an IDE effectively
 
 *Mastering your tools*
 

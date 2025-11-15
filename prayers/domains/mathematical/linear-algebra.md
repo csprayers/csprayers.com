@@ -1,8 +1,8 @@
 ---
-title: Linear Algebra for ML
+title: Linear algebra for ML
 ---
 
-# Linear Algebra for ML
+# Linear algebra for ML
 
 *Matrices and vectors*
 

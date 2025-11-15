@@ -1,5 +1,5 @@
 ---
-title: Prayers for Computer Science
+title: All Prayers
 ---
 
 # Prayers for Computer Science

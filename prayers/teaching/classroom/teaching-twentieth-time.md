@@ -1,8 +1,8 @@
 ---
-title: Teaching the Same Material Again
+title: Teaching the same material for the 20th time
 ---
 
-# Teaching the Same Material Again
+# Teaching the same material for the 20th time
 
 *For the twentieth time*
 

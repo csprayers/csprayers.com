@@ -1,8 +1,8 @@
 ---
-title: Feeling Not Technical Enough
+title: Feeling "not technical enough"
 ---
 
-# Feeling Not Technical Enough
+# Feeling "not technical enough"
 
 *Doubting your skills*
 

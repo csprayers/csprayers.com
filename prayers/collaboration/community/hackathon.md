@@ -1,8 +1,8 @@
 ---
-title: During a Hackathon
+title: During a hackathon
 ---
 
-# During a Hackathon
+# During a hackathon
 
 *In intense collaborative creation*
 

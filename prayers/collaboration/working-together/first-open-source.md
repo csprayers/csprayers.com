@@ -1,8 +1,8 @@
 ---
-title: Contributing to Open Source
+title: Contributing to open source for the first time
 ---
 
-# Contributing to Open Source
+# Contributing to open source for the first time
 
 *For the first time*
 

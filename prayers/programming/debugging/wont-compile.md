@@ -1,8 +1,8 @@
 ---
-title: When the Code Won't Compile
+title: When the code won't compile
 ---
 
-# When the Code Won't Compile
+# When the code won't compile
 
 *Facing compilation errors*
 

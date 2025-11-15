@@ -1,8 +1,8 @@
 ---
-title: Mentoring Student Research
+title: Mentoring a student's research project
 ---
 
-# Mentoring Student Research
+# Mentoring a student's research project
 
 *Guiding independent work*
 

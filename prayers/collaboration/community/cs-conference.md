@@ -1,8 +1,8 @@
 ---
-title: At a CS Conference
+title: At a CS conference or symposium
 ---
 
-# At a CS Conference
+# At a CS conference or symposium
 
 *Among the scholarly community*
 

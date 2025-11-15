@@ -1,8 +1,8 @@
 ---
-title: When the Creative Flow Is Strong
+title: When the creative flow is strong
 ---
 
-# When the Creative Flow Is Strong
+# When the creative flow is strong
 
 *In the zone*
 

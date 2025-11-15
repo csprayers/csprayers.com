@@ -1,8 +1,8 @@
 ---
-title: Addressing Academic Dishonesty
+title: When you must address academic dishonesty
 ---
 
-# Addressing Academic Dishonesty
+# When you must address academic dishonesty
 
 *A painful conversation*
 

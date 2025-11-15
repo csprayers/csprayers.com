@@ -1,8 +1,8 @@
 ---
-title: Starting a New Project
+title: Starting a new project
 ---
 
-# Starting a New Project
+# Starting a new project
 
 *At the beginning of creation*
 

@@ -1,8 +1,8 @@
 ---
-title: Weekend Work
+title: Weekend work (when it's necessary)
 ---
 
-# Weekend Work
+# Weekend work (when it's necessary)
 
 *When it's necessary*
 

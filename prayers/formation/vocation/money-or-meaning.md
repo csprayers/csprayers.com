@@ -1,8 +1,8 @@
 ---
-title: Money or Meaning?
+title: "When you must decide: money or meaning?"
 ---
 
-# Money or Meaning?
+# When you must decide: money or meaning?
 
 *A vocational choice*
 

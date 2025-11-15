@@ -1,8 +1,8 @@
 ---
-title: Technology's Role in Isolation
+title: Technology's role in isolation
 ---
 
-# Technology's Role in Isolation
+# Technology's role in isolation
 
 *Social fragmentation*
 

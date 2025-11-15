@@ -1,8 +1,8 @@
 ---
-title: Learning the Command Line
+title: Learning the command line
 ---
 
-# Learning the Command Line
+# Learning the command line
 
 *Terminal fundamentals*
 

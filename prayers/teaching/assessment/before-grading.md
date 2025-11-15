@@ -1,8 +1,8 @@
 ---
-title: Before Grading
+title: Before grading a large stack of assignments
 ---
 
-# Before Grading
+# Before grading a large stack of assignments
 
 *Facing a large stack of assignments*
 

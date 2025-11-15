@@ -1,8 +1,8 @@
 ---
-title: Integration Testing
+title: Integration testing
 ---
 
-# Integration Testing
+# Integration testing
 
 *Testing the whole system*
 

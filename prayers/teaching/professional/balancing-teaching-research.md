@@ -1,8 +1,8 @@
 ---
-title: Balancing Teaching and Research
+title: Balancing teaching and research
 ---
 
-# Balancing Teaching and Research
+# Balancing teaching and research
 
 *Managing competing demands*
 

@@ -1,8 +1,8 @@
 ---
-title: Reading Documentation
+title: Reading documentation or Stack Overflow for help
 ---
 
-# Reading Documentation
+# Reading documentation or Stack Overflow for help
 
 *Seeking answers online*
 

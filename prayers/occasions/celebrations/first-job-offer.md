@@ -1,8 +1,8 @@
 ---
-title: Getting Your First Job Offer
+title: Getting your first job offer
 ---
 
-# Getting Your First Job Offer
+# Getting your first job offer
 
 *Career beginning*
 

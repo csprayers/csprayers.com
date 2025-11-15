@@ -1,8 +1,8 @@
 ---
-title: Celebrating Student Success
+title: Celebrating student success
 ---
 
-# Celebrating Student Success
+# Celebrating student success
 
 *Sharing in joy*
 

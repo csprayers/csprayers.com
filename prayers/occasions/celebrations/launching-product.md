@@ -1,8 +1,8 @@
 ---
-title: Launching a Successful Product
+title: Launching a successful product
 ---
 
-# Launching a Successful Product
+# Launching a successful product
 
 *Bringing work to market*
 

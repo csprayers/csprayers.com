@@ -1,8 +1,8 @@
 ---
-title: Pressure to Cut Corners
+title: Pressure to cut corners or compromise
 ---
 
-# Pressure to Cut Corners
+# Pressure to cut corners or compromise
 
 *When integrity is tested*
 

@@ -1,8 +1,8 @@
 ---
-title: Encountering Proofs
+title: Encountering proofs for the first time
 ---
 
-# Encountering Proofs
+# Encountering proofs for the first time
 
 *For the first time in CS*
 

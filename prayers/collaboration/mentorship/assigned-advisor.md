@@ -1,8 +1,8 @@
 ---
-title: Being Assigned an Advisor
+title: Being assigned an advisor
 ---
 
-# Being Assigned an Advisor
+# Being assigned an advisor
 
 *Starting with a mentor*
 

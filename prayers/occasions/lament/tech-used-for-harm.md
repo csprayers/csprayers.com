@@ -1,8 +1,8 @@
 ---
-title: When Technology Is Used for Harm
+title: When technology is used for harm
 ---
 
-# When Technology Is Used for Harm
+# When technology is used for harm
 
 *Mourning misuse*
 

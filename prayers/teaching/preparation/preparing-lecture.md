@@ -1,8 +1,8 @@
 ---
-title: Preparing a Lecture
+title: Preparing a lecture
 ---
 
-# Preparing a Lecture
+# Preparing a lecture
 
 *Crafting today's lesson*
 

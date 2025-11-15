@@ -1,8 +1,8 @@
 ---
-title: When Students Are Engaged
+title: When students are particularly engaged
 ---
 
-# When Students Are Engaged
+# When students are particularly engaged
 
 *The joy of active learning*
 

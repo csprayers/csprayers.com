@@ -1,8 +1,8 @@
 ---
-title: Understanding Why
+title: Understanding why something you memorized actually works
 ---
 
-# Understanding Why
+# Understanding why something you memorized actually works
 
 *Moving beyond memorization*
 

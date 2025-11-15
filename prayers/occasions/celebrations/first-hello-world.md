@@ -1,8 +1,8 @@
 ---
-title: A Student's First Hello World
+title: A student's first "Hello, World!"
 ---
 
-# A Student's First Hello World
+# A student's first "Hello, World!"
 
 *The beginning of coding*
 

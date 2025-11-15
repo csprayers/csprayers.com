@@ -1,8 +1,8 @@
 ---
-title: Discerning Whether to Pursue CS
+title: Discerning whether to pursue CS
 ---
 
-# Discerning Whether to Pursue CS
+# Discerning whether to pursue CS
 
 *Considering your path*
 

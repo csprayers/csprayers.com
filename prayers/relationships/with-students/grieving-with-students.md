@@ -1,8 +1,8 @@
 ---
-title: Grieving with Students
+title: Grieving with students in loss
 ---
 
-# Grieving with Students
+# Grieving with students in loss
 
 *In loss and sorrow*
 

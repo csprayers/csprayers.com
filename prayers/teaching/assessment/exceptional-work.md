@@ -1,8 +1,8 @@
 ---
-title: Witnessing Exceptional Work
+title: When you witness exceptional work
 ---
 
-# Witnessing Exceptional Work
+# When you witness exceptional work
 
 *When students excel*
 

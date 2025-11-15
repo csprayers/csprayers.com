@@ -1,8 +1,8 @@
 ---
-title: Discrete Mathematics
+title: Discrete mathematics
 ---
 
-# Discrete Mathematics
+# Discrete mathematics
 
 *The mathematics of computing*
 

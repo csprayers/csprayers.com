@@ -1,8 +1,8 @@
 ---
-title: Before Class Begins
+title: Before class begins (those few minutes alone)
 ---
 
-# Before Class Begins
+# Before class begins (those few minutes alone)
 
 *In those few quiet minutes*
 

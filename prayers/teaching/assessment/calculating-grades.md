@@ -1,8 +1,8 @@
 ---
-title: Calculating Final Grades
+title: Calculating final grades
 ---
 
-# Calculating Final Grades
+# Calculating final grades
 
 *Making final determinations*
 

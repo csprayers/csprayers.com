@@ -1,8 +1,8 @@
 ---
-title: During Faculty Hiring Decisions
+title: During faculty hiring decisions
 ---
 
-# During Faculty Hiring Decisions
+# During faculty hiring decisions
 
 *Choosing new colleagues*
 

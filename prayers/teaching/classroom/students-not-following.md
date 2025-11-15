@@ -1,8 +1,8 @@
 ---
-title: When Students Aren't Following
+title: When you realize students aren't following
 ---
 
-# When Students Aren't Following
+# When you realize students aren't following
 
 *Realizing you've lost them*
 

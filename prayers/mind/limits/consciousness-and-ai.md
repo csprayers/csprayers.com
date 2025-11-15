@@ -1,8 +1,8 @@
 ---
-title: The Mystery of Consciousness and AI
+title: The mystery of consciousness and AI
 ---
 
-# The Mystery of Consciousness and AI
+# The mystery of consciousness and AI
 
 *Questions without answers*
 

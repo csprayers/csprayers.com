@@ -1,8 +1,8 @@
 ---
-title: Failing an Exam or Course
+title: Failing an exam or course
 ---
 
-# Failing an Exam or Course
+# Failing an exam or course
 
 *Academic setback*
 

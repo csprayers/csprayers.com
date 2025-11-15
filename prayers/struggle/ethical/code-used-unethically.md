@@ -1,8 +1,8 @@
 ---
-title: When Your Code Is Used Unethically
+title: Discovering your code will be used unethically
 ---
 
-# When Your Code Is Used Unethically
+# Discovering your code will be used unethically
 
 *Facing misuse of your work*
 

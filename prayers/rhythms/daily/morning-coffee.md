@@ -1,8 +1,8 @@
 ---
-title: Morning Coffee Before Coding
+title: Morning coffee before coding
 ---
 
-# Morning Coffee Before Coding
+# Morning coffee before coding
 
 *Starting the day*
 

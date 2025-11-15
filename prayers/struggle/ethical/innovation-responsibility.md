@@ -1,8 +1,8 @@
 ---
-title: Balancing Innovation with Responsibility
+title: Balancing innovation with responsibility
 ---
 
-# Balancing Innovation with Responsibility
+# Balancing innovation with responsibility
 
 *The weight of consequence*
 

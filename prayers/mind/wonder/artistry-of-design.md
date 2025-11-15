@@ -1,8 +1,8 @@
 ---
-title: The Artistry of Good Design
+title: The artistry of good design
 ---
 
-# The Artistry of Good Design
+# The artistry of good design
 
 *Craft and care*
 

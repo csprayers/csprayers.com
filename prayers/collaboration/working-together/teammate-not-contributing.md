@@ -1,8 +1,8 @@
 ---
-title: When a Teammate Isn't Contributing
+title: When your teammate isn't pulling their weight
 ---
 
-# When a Teammate Isn't Contributing
+# When your teammate isn't pulling their weight
 
 *Carrying extra weight*
 

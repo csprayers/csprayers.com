@@ -1,8 +1,8 @@
 ---
-title: Updating Course Materials
+title: Updating course materials for a new semester
 ---
 
-# Updating Course Materials
+# Updating course materials for a new semester
 
 *Refreshing for a new semester*
 

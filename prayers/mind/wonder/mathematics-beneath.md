@@ -1,8 +1,8 @@
 ---
-title: Seeing the Mathematics Beneath Computation
+title: Seeing the mathematics beneath computation
 ---
 
-# Seeing the Mathematics Beneath Computation
+# Seeing the mathematics beneath computation
 
 *Theoretical beauty*
 

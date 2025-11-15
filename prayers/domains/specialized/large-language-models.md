@@ -1,8 +1,8 @@
 ---
-title: Working with Large Language Models
+title: Working with large language models
 ---
 
-# Working with Large Language Models
+# Working with large language models
 
 *At the frontier of AI*
 

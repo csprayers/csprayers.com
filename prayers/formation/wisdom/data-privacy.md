@@ -1,8 +1,8 @@
 ---
-title: Data Privacy Decisions
+title: Data privacy decisions
 ---
 
-# Data Privacy Decisions
+# Data privacy decisions
 
 *Protecting user information*
 

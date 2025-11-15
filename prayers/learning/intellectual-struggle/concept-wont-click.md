@@ -1,8 +1,8 @@
 ---
-title: When a Concept Won't Click
+title: When a concept won't "click"
 ---
 
-# When a Concept Won't Click
+# When a concept won't "click"
 
 *In the fog of confusion*
 

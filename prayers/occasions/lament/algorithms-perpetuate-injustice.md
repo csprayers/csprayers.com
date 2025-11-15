@@ -1,8 +1,8 @@
 ---
-title: When Algorithms Perpetuate Injustice
+title: When algorithms perpetuate injustice
 ---
 
-# When Algorithms Perpetuate Injustice
+# When algorithms perpetuate injustice
 
 *Systemic harm*
 

@@ -1,8 +1,8 @@
 ---
-title: A Project That Completely Fails
+title: A project that completely fails
 ---
 
-# A Project That Completely Fails
+# A project that completely fails
 
 *When your work doesn't succeed*
 

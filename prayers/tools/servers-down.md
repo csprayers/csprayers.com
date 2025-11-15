@@ -1,8 +1,8 @@
 ---
-title: When Servers Go Down
+title: When servers go down
 ---
 
-# When Servers Go Down
+# When servers go down
 
 *Infrastructure failure*
 

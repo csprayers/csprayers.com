@@ -1,8 +1,8 @@
 ---
-title: Welcoming a New Colleague
+title: Welcoming a new colleague
 ---
 
-# Welcoming a New Colleague
+# Welcoming a new colleague
 
 *Building community*
 

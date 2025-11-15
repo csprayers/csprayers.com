@@ -1,8 +1,8 @@
 ---
-title: Missing Family Time
+title: Missing family time for deadlines
 ---
 
-# Missing Family Time
+# Missing family time for deadlines
 
 *For deadlines*
 

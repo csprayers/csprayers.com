@@ -1,8 +1,8 @@
 ---
-title: Returning with Fresh Eyes
+title: Returning to a problem with fresh eyes
 ---
 
-# Returning with Fresh Eyes
+# Returning to a problem with fresh eyes
 
 *After time away*
 

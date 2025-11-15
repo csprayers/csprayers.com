@@ -1,8 +1,8 @@
 ---
-title: Winter Darkness and Cold
+title: Winter darkness and cold
 ---
 
-# Winter Darkness and Cold
+# Winter darkness and cold
 
 *The dark months*
 

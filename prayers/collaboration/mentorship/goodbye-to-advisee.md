@@ -1,8 +1,8 @@
 ---
-title: Saying Goodbye to a Graduating Advisee
+title: Saying goodbye to a graduating advisee
 ---
 
-# Saying Goodbye to a Graduating Advisee
+# Saying goodbye to a graduating advisee
 
 *At the end of mentorship*
 

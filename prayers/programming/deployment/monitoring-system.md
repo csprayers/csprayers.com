@@ -1,8 +1,8 @@
 ---
-title: Monitoring a Live System
+title: Monitoring a live system
 ---
 
-# Monitoring a Live System
+# Monitoring a live system
 
 *Keeping watch*
 

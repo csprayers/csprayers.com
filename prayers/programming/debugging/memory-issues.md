@@ -1,8 +1,8 @@
 ---
-title: Memory Leaks and Segmentation Faults
+title: Memory leaks and segmentation faults
 ---
 
-# Memory Leaks and Segmentation Faults
+# Memory leaks and segmentation faults
 
 *In the depths of memory management*
 

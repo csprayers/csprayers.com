@@ -1,8 +1,8 @@
 ---
-title: During a Technical Interview
+title: During a technical interview
 ---
 
-# During a Technical Interview
+# During a technical interview
 
 *Being evaluated for a position*
 

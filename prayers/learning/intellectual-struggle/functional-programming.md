@@ -1,8 +1,8 @@
 ---
-title: Making Sense of Functional Programming
+title: Making sense of lambda calculus or functional programming
 ---
 
-# Making Sense of Functional Programming
+# Making sense of lambda calculus or functional programming
 
 *Lambda calculus and beyond*
 

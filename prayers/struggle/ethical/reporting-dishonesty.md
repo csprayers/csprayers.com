@@ -1,8 +1,8 @@
 ---
-title: Reporting Academic Dishonesty
+title: When you must report academic dishonesty
 ---
 
-# Reporting Academic Dishonesty
+# When you must report academic dishonesty
 
 *A difficult duty*
 

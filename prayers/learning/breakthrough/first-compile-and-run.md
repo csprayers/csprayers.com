@@ -1,8 +1,8 @@
 ---
-title: First Successful Compile and Run
+title: The first time your code compiles and runs correctly
 ---
 
-# First Successful Compile and Run
+# The first time your code compiles and runs correctly
 
 *When your code works*
 

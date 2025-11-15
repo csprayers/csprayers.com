@@ -1,8 +1,8 @@
 ---
-title: Encountering Elegant Code
+title: Encountering elegant code
 ---
 
-# Encountering Elegant Code
+# Encountering elegant code
 
 *Beauty in simplicity*
 

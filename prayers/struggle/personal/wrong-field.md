@@ -1,8 +1,8 @@
 ---
-title: Wondering If You Chose Wrong
+title: When you wonder if you chose the wrong field
 ---
 
-# Wondering If You Chose Wrong
+# When you wonder if you chose the wrong field
 
 *Questioning your path*
 

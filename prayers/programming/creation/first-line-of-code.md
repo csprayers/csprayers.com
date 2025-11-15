@@ -1,8 +1,8 @@
 ---
-title: Writing the First Line of Code
+title: Writing the first line of code
 ---
 
-# Writing the First Line of Code
+# Writing the first line of code
 
 *The initial commit*
 

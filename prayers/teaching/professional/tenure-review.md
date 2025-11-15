@@ -1,8 +1,8 @@
 ---
-title: Before a Tenure Review
+title: Before a tenure review
 ---
 
-# Before a Tenure Review
+# Before a tenure review
 
 *Facing evaluation*
 

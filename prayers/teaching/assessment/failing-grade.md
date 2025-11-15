@@ -1,8 +1,8 @@
 ---
-title: Assigning a Failing Grade
+title: When you must assign a failing grade
 ---
 
-# Assigning a Failing Grade
+# When you must assign a failing grade
 
 *A difficult decision*
 

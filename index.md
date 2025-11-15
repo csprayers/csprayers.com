@@ -1,8 +1,6 @@
 ---
-title: Prayers for Computer Science
+title: Start Here!
 ---
-
-# Prayers for Computer Science
 
 Welcome to a collection of prayers written for those who study, teach, and practice the craft of computing.
 
@@ -16,10 +14,10 @@ Whether you're starting a new semester, debugging stubborn code, wrestling with 
 
 Explore our collection of [Sample Prayers](prayers.md), including:
 
-- [A Prayer for the Beginning of a Semester](prayers/beginning-of-semester.md) - For professors and students as a new term begins
-- [A Prayer Before Debugging](prayers/before-debugging.md) - When the code will not run, and the error is hidden
-- [A Prayer for the Student Facing Imposter Syndrome](prayers/imposter-syndrome.md) - When you feel you do not belong
-- [A Prayer Before Teaching a Difficult Concept](prayers/teaching-difficult-concept.md) - For the professor preparing to explain what is hard
+- [A Prayer for the Beginning of a Semester](prayers/academic-year/beginnings/first-day-student.md) - For professors and students as a new term begins
+- [A Prayer Before Debugging](prayers/programming/debugging/hunting-bug.md) - When the code will not run, and the error is hidden
+- [A Prayer for the Student Facing Imposter Syndrome](prayers/struggle/personal/imposter-syndrome.md) - When you feel you do not belong
+- [A Prayer Before Teaching a Difficult Concept](prayers/teaching/preparation/preparing-lecture.md) - For the professor preparing to explain what is hard
 
 ---
 

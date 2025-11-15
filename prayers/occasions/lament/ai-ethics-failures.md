@@ -1,8 +1,8 @@
 ---
-title: AI Ethics Failures in the News
+title: AI ethics failures in the news
 ---
 
-# AI Ethics Failures in the News
+# AI ethics failures in the news
 
 *Public scandal*
 

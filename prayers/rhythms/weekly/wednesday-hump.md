@@ -1,8 +1,8 @@
 ---
-title: Wednesday
+title: Wednesday (the hump)
 ---
 
-# Wednesday
+# Wednesday (the hump)
 
 *The hump day*
 

@@ -1,8 +1,8 @@
 ---
-title: Spring Renewal
+title: Spring renewal
 ---
 
-# Spring Renewal
+# Spring renewal
 
 *New life emerging*
 

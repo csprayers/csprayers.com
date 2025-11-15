@@ -1,8 +1,8 @@
 ---
-title: Formal Methods and Verification
+title: Formal methods and verification
 ---
 
-# Formal Methods and Verification
+# Formal methods and verification
 
 *Proving correctness*
 

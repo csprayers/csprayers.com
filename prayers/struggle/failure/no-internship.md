@@ -1,8 +1,8 @@
 ---
-title: Not Getting an Internship
+title: Not getting an internship
 ---
 
-# Not Getting an Internship
+# Not getting an internship
 
 *Rejection in job search*
 

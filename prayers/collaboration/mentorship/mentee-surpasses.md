@@ -1,8 +1,8 @@
 ---
-title: When a Mentee Surpasses You
+title: Watching a mentee surpass you
 ---
 
-# When a Mentee Surpasses You
+# Watching a mentee surpass you
 
 *Celebrating their growth*
 

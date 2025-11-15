@@ -1,8 +1,8 @@
 ---
-title: Setting Up a Development Environment
+title: Setting up a development environment
 ---
 
-# Setting Up a Development Environment
+# Setting up a development environment
 
 *Configuring your workspace*
 

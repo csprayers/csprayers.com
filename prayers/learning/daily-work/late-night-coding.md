@@ -1,8 +1,8 @@
 ---
-title: Beginning a Late-Night Coding Session
+title: Beginning a late-night coding session
 ---
 
-# Beginning a Late-Night Coding Session
+# Beginning a late-night coding session
 
 *When the work extends into darkness*
 

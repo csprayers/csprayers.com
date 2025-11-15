@@ -1,8 +1,8 @@
 ---
-title: Is CS Your Calling?
+title: When you realize CS is/isn't your calling
 ---
 
-# Is CS Your Calling?
+# When you realize CS is/isn't your calling
 
 *Discerning your vocation*
 

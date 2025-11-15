@@ -1,8 +1,8 @@
 ---
-title: Professional Jealousy
+title: Professional jealousy
 ---
 
-# Professional Jealousy
+# Professional jealousy
 
 *When others' success stings*
 

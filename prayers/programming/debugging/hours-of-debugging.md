@@ -1,8 +1,8 @@
 ---
-title: After Hours of Debugging
+title: When you've been debugging for hours
 ---
 
-# After Hours of Debugging
+# When you've been debugging for hours
 
 *In exhaustion and frustration*
 

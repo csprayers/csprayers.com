@@ -1,8 +1,8 @@
 ---
-title: Lost Work
+title: Lost work (before learning to commit often)
 ---
 
-# Lost Work
+# Lost work (before learning to commit often)
 
 *Before learning to commit often*
 

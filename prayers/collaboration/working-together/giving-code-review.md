@@ -1,8 +1,8 @@
 ---
-title: Giving Code Review Feedback
+title: Code review (giving feedback)
 ---
 
-# Giving Code Review Feedback
+# Code review (giving feedback)
 
 *Offering constructive criticism*
 

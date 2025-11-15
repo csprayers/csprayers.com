@@ -1,8 +1,8 @@
 ---
-title: Probability and Statistics for CS
+title: Probability and statistics for CS
 ---
 
-# Probability and Statistics for CS
+# Probability and statistics for CS
 
 *Reasoning under uncertainty*
 

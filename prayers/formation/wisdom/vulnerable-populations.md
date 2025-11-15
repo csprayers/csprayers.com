@@ -1,8 +1,8 @@
 ---
-title: Designing for Vulnerable Populations
+title: Designing systems that affect vulnerable populations
 ---
 
-# Designing for Vulnerable Populations
+# Designing systems that affect vulnerable populations
 
 *Serving those at risk*
 

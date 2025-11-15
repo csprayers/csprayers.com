@@ -1,8 +1,8 @@
 ---
-title: Learning New Material to Teach
+title: Learning new material to teach it
 ---
 
-# Learning New Material to Teach
+# Learning new material to teach it
 
 *Staying ahead of students*
 

@@ -1,8 +1,8 @@
 ---
-title: During Group Project Conflict
+title: During a group project (when conflict arises)
 ---
 
-# During Group Project Conflict
+# During a group project (when conflict arises)
 
 *When tensions arise*
 

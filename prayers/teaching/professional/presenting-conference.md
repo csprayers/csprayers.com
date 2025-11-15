@@ -1,8 +1,8 @@
 ---
-title: Before Presenting at a Conference
+title: Before presenting at a conference
 ---
 
-# Before Presenting at a Conference
+# Before presenting at a conference
 
 *Sharing your research*
 

@@ -1,8 +1,8 @@
 ---
-title: Maintaining Old Code
+title: Maintaining code years after writing it
 ---
 
-# Maintaining Old Code
+# Maintaining code years after writing it
 
 *Years after writing it*
 

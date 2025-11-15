@@ -1,8 +1,8 @@
 ---
-title: Understanding Algorithms
+title: Understanding algorithms
 ---
 
-# Understanding Algorithms
+# Understanding algorithms
 
 *The art of problem-solving*
 

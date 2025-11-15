@@ -1,8 +1,8 @@
 ---
-title: Studying Computer Architecture
+title: Studying computer architecture
 ---
 
-# Studying Computer Architecture
+# Studying computer architecture
 
 *How machines work*
 

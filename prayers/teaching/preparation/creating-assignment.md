@@ -1,8 +1,8 @@
 ---
-title: Creating an Assignment
+title: Creating an assignment or project
 ---
 
-# Creating an Assignment
+# Creating an assignment or project
 
 *Designing meaningful work*
 

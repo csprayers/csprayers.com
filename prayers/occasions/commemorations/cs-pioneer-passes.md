@@ -1,8 +1,8 @@
 ---
-title: When a Pioneer in CS Passes Away
+title: When a pioneer in CS passes away
 ---
 
-# When a Pioneer in CS Passes Away
+# When a pioneer in CS passes away
 
 *Honoring legacy*
 

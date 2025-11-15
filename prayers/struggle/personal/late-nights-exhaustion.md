@@ -1,8 +1,8 @@
 ---
-title: Late Nights and Exhaustion
+title: Late nights and exhaustion
 ---
 
-# Late Nights and Exhaustion
+# Late nights and exhaustion
 
 *Running on empty*
 

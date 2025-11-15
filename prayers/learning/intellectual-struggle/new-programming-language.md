@@ -1,8 +1,8 @@
 ---
-title: Learning a New Programming Language
+title: Learning a new programming language
 ---
 
-# Learning a New Programming Language
+# Learning a new programming language
 
 *Starting from syntax basics*
 

@@ -1,8 +1,8 @@
 ---
-title: Understanding Pointers and Memory
+title: Understanding pointers and memory management
 ---
 
-# Understanding Pointers and Memory
+# Understanding pointers and memory management
 
 *In the depths of low-level programming*
 

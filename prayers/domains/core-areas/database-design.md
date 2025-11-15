@@ -1,8 +1,8 @@
 ---
-title: Database Design
+title: Database design
 ---
 
-# Database Design
+# Database design
 
 *Structuring information*
 

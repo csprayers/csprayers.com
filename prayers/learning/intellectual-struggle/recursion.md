@@ -1,8 +1,8 @@
 ---
-title: Wrestling with Recursion
+title: Wrestling with recursion
 ---
 
-# Wrestling with Recursion
+# Wrestling with recursion
 
 *When the concept loops back*
 

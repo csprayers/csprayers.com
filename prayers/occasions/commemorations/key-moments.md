@@ -1,8 +1,8 @@
 ---
-title: Remembering Key Moments in CS History
+title: Remembering key moments in CS history
 ---
 
-# Remembering Key Moments in CS History
+# Remembering key moments in CS history
 
 *Milestones in the field*
 

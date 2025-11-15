@@ -1,8 +1,8 @@
 ---
-title: Before Taking an Exam
+title: Before taking an exam
 ---
 
-# Before Taking an Exam
+# Before taking an exam
 
 *Preparing to be tested*
 

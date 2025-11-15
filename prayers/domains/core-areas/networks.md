@@ -1,8 +1,8 @@
 ---
-title: Networks and Distributed Systems
+title: Networks and distributed systems
 ---
 
-# Networks and Distributed Systems
+# Networks and distributed systems
 
 *Connected computing*
 

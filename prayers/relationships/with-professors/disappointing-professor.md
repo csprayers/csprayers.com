@@ -1,8 +1,8 @@
 ---
-title: When You Disappoint a Professor
+title: When you disappoint a professor you respect
 ---
 
-# When You Disappoint a Professor
+# When you disappoint a professor you respect
 
 *Facing their disappointment*
 

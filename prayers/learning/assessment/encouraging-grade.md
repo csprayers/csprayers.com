@@ -1,8 +1,8 @@
 ---
-title: After an Encouraging Grade
+title: After receiving an encouraging grade
 ---
 
-# After an Encouraging Grade
+# After receiving an encouraging grade
 
 *Receiving affirmation*
 

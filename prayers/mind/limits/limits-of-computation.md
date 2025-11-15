@@ -1,8 +1,8 @@
 ---
-title: Realizing the Limits of Computation
+title: Realizing the limits of computation
 ---
 
-# Realizing the Limits of Computation
+# Realizing the limits of computation
 
 *What cannot be computed*
 

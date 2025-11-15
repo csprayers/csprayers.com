@@ -1,8 +1,8 @@
 ---
-title: When Work-Life Balance Is Lost
+title: When work-life balance is lost
 ---
 
-# When Work-Life Balance Is Lost
+# When work-life balance is lost
 
 *Out of equilibrium*
 

@@ -1,8 +1,8 @@
 ---
-title: Giving Career Advice
+title: When a student comes seeking career advice
 ---
 
-# Giving Career Advice
+# When a student comes seeking career advice
 
 *Guiding future paths*
 

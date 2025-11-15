@@ -1,8 +1,8 @@
 ---
-title: When They Don't
+title: When they don't
 ---
 
-# When They Don't
+# When they don't
 
 *Lack of support*
 

@@ -1,8 +1,8 @@
 ---
-title: Taking on a New Advisee
+title: Taking on a new advisee
 ---
 
-# Taking on a New Advisee
+# Taking on a new advisee
 
 *Beginning a mentoring relationship*
 

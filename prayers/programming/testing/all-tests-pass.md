@@ -1,8 +1,8 @@
 ---
-title: When All Tests Pass
+title: When all tests pass (joy!)
 ---
 
-# When All Tests Pass
+# When all tests pass (joy!)
 
 *Joy and relief*
 

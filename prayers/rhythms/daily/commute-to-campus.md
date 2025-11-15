@@ -1,8 +1,8 @@
 ---
-title: The Commute to Campus
+title: The commute to campus
 ---
 
-# The Commute to Campus
+# The commute to campus
 
 *Traveling to work*
 

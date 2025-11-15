@@ -1,8 +1,8 @@
 ---
-title: During a Study Group
+title: During a study group session
 ---
 
-# During a Study Group
+# During a study group session
 
 *Learning together*
 

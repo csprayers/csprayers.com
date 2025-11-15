@@ -1,8 +1,8 @@
 ---
-title: Paper Rejection
+title: Paper rejection
 ---
 
-# Paper Rejection
+# Paper rejection
 
 *Scholarly disappointment*
 

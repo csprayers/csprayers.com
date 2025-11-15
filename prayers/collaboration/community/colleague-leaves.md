@@ -1,8 +1,8 @@
 ---
-title: When a Colleague Leaves
+title: When a colleague leaves or retires
 ---
 
-# When a Colleague Leaves
+# When a colleague leaves or retires
 
 *Saying goodbye*
 

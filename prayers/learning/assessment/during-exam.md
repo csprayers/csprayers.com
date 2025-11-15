@@ -1,8 +1,8 @@
 ---
-title: During an Exam
+title: During an exam (when stuck or panicking)
 ---
 
-# During an Exam
+# During an exam (when stuck or panicking)
 
 *When stuck or panicking*
 

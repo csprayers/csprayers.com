@@ -1,8 +1,8 @@
 ---
-title: Database Corruption
+title: Database corruption
 ---
 
-# Database Corruption
+# Database corruption
 
 *When data is lost*
 

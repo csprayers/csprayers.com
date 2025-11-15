@@ -1,8 +1,8 @@
 ---
-title: At Grace Hopper or Similar Conference
+title: At Grace Hopper or similar conference
 ---
 
-# At Grace Hopper or Similar Conference
+# At Grace Hopper or similar conference
 
 *Celebrating diversity in computing*
 

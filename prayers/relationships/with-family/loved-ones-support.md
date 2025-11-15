@@ -1,8 +1,8 @@
 ---
-title: When Loved Ones Support You
+title: When loved ones support you
 ---
 
-# When Loved Ones Support You
+# When loved ones support you
 
 *Gratitude for understanding*
 

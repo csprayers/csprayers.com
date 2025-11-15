@@ -1,8 +1,8 @@
 ---
-title: Department Celebrations
+title: Department celebrations
 ---
 
-# Department Celebrations
+# Department celebrations
 
 *Community joy*
 

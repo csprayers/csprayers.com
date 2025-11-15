@@ -1,8 +1,8 @@
 ---
-title: Stack Overflow Error
+title: Stack overflow (the bad kind)
 ---
 
-# Stack Overflow Error
+# Stack overflow (the bad kind)
 
 *The bad kind*
 

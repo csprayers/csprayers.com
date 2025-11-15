@@ -1,8 +1,8 @@
 ---
-title: The Dark Side of Social Media
+title: The dark side of social media
 ---
 
-# The Dark Side of Social Media
+# The dark side of social media
 
 *Harm to mental health*
 

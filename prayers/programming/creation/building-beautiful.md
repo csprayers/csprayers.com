@@ -1,8 +1,8 @@
 ---
-title: Building Something Beautiful
+title: Building something beautiful and functional
 ---
 
-# Building Something Beautiful
+# Building something beautiful and functional
 
 *Creating functional elegance*
 

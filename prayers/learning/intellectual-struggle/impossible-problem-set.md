@@ -1,8 +1,8 @@
 ---
-title: Facing an Impossible Problem Set
+title: Starting a problem set that looks impossible
 ---
 
-# Facing an Impossible Problem Set
+# Starting a problem set that looks impossible
 
 *When the work seems overwhelming*
 

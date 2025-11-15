@@ -1,8 +1,8 @@
 ---
-title: Practicing Humility in Collaboration
+title: Practicing humility in collaboration
 ---
 
-# Practicing Humility in Collaboration
+# Practicing humility in collaboration
 
 *Working with others*
 

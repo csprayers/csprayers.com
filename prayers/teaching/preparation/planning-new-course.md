@@ -1,8 +1,8 @@
 ---
-title: Planning a New Course
+title: Planning a new course
 ---
 
-# Planning a New Course
+# Planning a new course
 
 *Designing a syllabus from scratch*
 

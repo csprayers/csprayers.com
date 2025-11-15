@@ -1,8 +1,8 @@
 ---
-title: Writing Feedback
+title: Writing feedback that is both honest and encouraging
 ---
 
-# Writing Feedback
+# Writing feedback that is both honest and encouraging
 
 *Balancing honesty and encouragement*
 

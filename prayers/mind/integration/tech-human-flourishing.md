@@ -1,8 +1,8 @@
 ---
-title: Technology and Human Flourishing
+title: Technology and human flourishing
 ---
 
-# Technology and Human Flourishing
+# Technology and human flourishing
 
 *Computing for good*
 

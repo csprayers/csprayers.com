@@ -1,8 +1,8 @@
 ---
-title: Cloud Computing Decisions
+title: Cloud computing decisions
 ---
 
-# Cloud Computing Decisions
+# Cloud computing decisions
 
 *Choosing infrastructure*
 

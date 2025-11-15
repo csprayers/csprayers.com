@@ -1,8 +1,8 @@
 ---
-title: Receiving Criticism with Grace
+title: Receiving criticism with grace
 ---
 
-# Receiving Criticism with Grace
+# Receiving criticism with grace
 
 *Accepting feedback*
 

@@ -1,8 +1,8 @@
 ---
-title: User Testing
+title: User testing
 ---
 
-# User Testing
+# User testing
 
 *Watching real people use your software*
 

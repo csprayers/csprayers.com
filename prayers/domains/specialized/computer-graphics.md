@@ -1,8 +1,8 @@
 ---
-title: Computer Graphics and Visualization
+title: Computer graphics and visualization
 ---
 
-# Computer Graphics and Visualization
+# Computer graphics and visualization
 
 *Rendering reality*
 

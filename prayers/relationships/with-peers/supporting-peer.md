@@ -1,8 +1,8 @@
 ---
-title: Supporting a Struggling Peer
+title: Supporting a struggling peer
 ---
 
-# Supporting a Struggling Peer
+# Supporting a struggling peer
 
 *Being there for others*
 

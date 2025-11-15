@@ -1,8 +1,8 @@
 ---
-title: Before Holding Office Hours
+title: Before holding office hours
 ---
 
-# Before Holding Office Hours
+# Before holding office hours
 
 *Preparing to help*
 

@@ -1,8 +1,8 @@
 ---
-title: Being Laid Off
+title: Being laid off
 ---
 
-# Being Laid Off
+# Being laid off
 
 *Losing your position*
 

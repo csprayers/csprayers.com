@@ -1,8 +1,8 @@
 ---
-title: Writing Tests
+title: Writing tests
 ---
 
-# Writing Tests
+# Writing tests
 
 *Ensuring correctness*
 

@@ -1,8 +1,8 @@
 ---
-title: Arriving at the Lab or Office
+title: Arriving at the lab or office
 ---
 
-# Arriving at the Lab or Office
+# Arriving at the lab or office
 
 *Entering your workspace*
 

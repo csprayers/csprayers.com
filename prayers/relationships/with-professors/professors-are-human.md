@@ -1,8 +1,8 @@
 ---
-title: Learning to See Professors as Human
+title: Learning to see professors as human
 ---
 
-# Learning to See Professors as Human
+# Learning to see professors as human
 
 *Beyond the role*
 

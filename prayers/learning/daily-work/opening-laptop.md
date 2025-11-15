@@ -1,8 +1,8 @@
 ---
-title: Opening Your Laptop to Work
+title: Opening your laptop to work on an assignment
 ---
 
-# Opening Your Laptop to Work
+# Opening your laptop to work on an assignment
 
 *Starting another assignment*
 

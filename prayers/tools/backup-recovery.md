@@ -1,8 +1,8 @@
 ---
-title: Backup and Recovery
+title: Backup and recovery
 ---
 
-# Backup and Recovery
+# Backup and recovery
 
 *Protecting your work*
 

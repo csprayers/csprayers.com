@@ -1,8 +1,8 @@
 ---
-title: Completing a Challenging Assignment
+title: Successfully completing a challenging assignment
 ---
 
-# Completing a Challenging Assignment
+# Successfully completing a challenging assignment
 
 *Success after struggle*
 

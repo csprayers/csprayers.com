@@ -1,8 +1,8 @@
 ---
-title: Honoring Those Who Came Before
+title: Honoring those who came before
 ---
 
-# Honoring Those Who Came Before
+# Honoring those who came before
 
 *Standing on shoulders*
 

@@ -1,8 +1,8 @@
 ---
-title: Rejection from Graduate School
+title: Rejection from graduate school
 ---
 
-# Rejection from Graduate School
+# Rejection from graduate school
 
 *When doors close*
 

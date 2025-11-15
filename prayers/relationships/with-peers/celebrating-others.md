@@ -1,8 +1,8 @@
 ---
-title: Celebrating Others' Success
+title: Celebrating others' success
 ---
 
-# Celebrating Others' Success
+# Celebrating others' success
 
 *Rejoicing with them*
 

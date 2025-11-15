@@ -1,8 +1,8 @@
 ---
-title: Growing in Patience
+title: Growing in patience through debugging
 ---
 
-# Growing in Patience
+# Growing in patience through debugging
 
 *Through debugging*
 

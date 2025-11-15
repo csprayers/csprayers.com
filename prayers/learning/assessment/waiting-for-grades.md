@@ -1,8 +1,8 @@
 ---
-title: Waiting for Grades
+title: Waiting for grades to be posted
 ---
 
-# Waiting for Grades
+# Waiting for grades to be posted
 
 *In the anxious interim*
 

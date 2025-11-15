@@ -1,8 +1,8 @@
 ---
-title: Summer Rest
+title: Summer rest
 ---
 
-# Summer Rest
+# Summer rest
 
 *Time to recharge*
 

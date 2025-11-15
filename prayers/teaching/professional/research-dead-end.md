@@ -1,8 +1,8 @@
 ---
-title: When Research Hits a Dead End
+title: When research hits a dead end
 ---
 
-# When Research Hits a Dead End
+# When research hits a dead end
 
 *In scholarly frustration*
 

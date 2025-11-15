@@ -1,8 +1,8 @@
 ---
-title: Winning a Hackathon
+title: Winning a hackathon
 ---
 
-# Winning a Hackathon
+# Winning a hackathon
 
 *Achievement celebrated*
 

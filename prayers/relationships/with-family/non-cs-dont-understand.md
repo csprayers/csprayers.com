@@ -1,8 +1,8 @@
 ---
-title: When Non-CS People Don't Understand
+title: When non-CS people don't understand your work
 ---
 
-# When Non-CS People Don't Understand
+# When non-CS people don't understand your work
 
 *Explaining your work*
 

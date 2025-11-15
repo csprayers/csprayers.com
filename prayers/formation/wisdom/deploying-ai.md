@@ -1,8 +1,8 @@
 ---
-title: Before Deploying AI Systems
+title: Before deploying AI systems
 ---
 
-# Before Deploying AI Systems
+# Before deploying AI systems
 
 *Considering consequences*
 

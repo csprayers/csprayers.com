@@ -1,8 +1,8 @@
 ---
-title: Receiving a Paper Rejection
+title: Receiving a paper rejection
 ---
 
-# Receiving a Paper Rejection
+# Receiving a paper rejection
 
 *Processing scholarly disappointment*
 

@@ -1,8 +1,8 @@
 ---
-title: Appreciating Computational Thinking
+title: Appreciating computational thinking
 ---
 
-# Appreciating Computational Thinking
+# Appreciating computational thinking
 
 *A way of seeing*
 

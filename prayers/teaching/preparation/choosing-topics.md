@@ -1,8 +1,8 @@
 ---
-title: Choosing Which Topics to Include
+title: Choosing which topics to include/exclude
 ---
 
-# Choosing Which Topics to Include
+# Choosing which topics to include/exclude
 
 *Making difficult curriculum decisions*
 

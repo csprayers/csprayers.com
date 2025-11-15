@@ -1,8 +1,8 @@
 ---
-title: Beginning AI/ML Studies
+title: Beginning AI/ML studies
 ---
 
-# Beginning AI/ML Studies
+# Beginning AI/ML studies
 
 *Entering artificial intelligence*
 

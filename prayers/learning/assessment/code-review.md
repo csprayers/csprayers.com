@@ -1,8 +1,8 @@
 ---
-title: Before a Code Review
+title: Before a code review or presentation
 ---
 
-# Before a Code Review
+# Before a code review or presentation
 
 *Presenting your work*
 

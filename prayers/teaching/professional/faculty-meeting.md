@@ -1,8 +1,8 @@
 ---
-title: Before a Faculty Meeting
+title: Preparing for a faculty meeting
 ---
 
-# Before a Faculty Meeting
+# Preparing for a faculty meeting
 
 *Preparing for departmental business*
 

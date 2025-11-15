@@ -1,8 +1,8 @@
 ---
-title: Healthy Competition
+title: Healthy competition
 ---
 
-# Healthy Competition
+# Healthy competition
 
 *Pushing each other forward*
 

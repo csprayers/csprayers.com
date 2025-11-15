@@ -1,8 +1,8 @@
 ---
-title: Connecting CS to Other Disciplines
+title: Connecting CS to other disciplines
 ---
 
-# Connecting CS to Other Disciplines
+# Connecting CS to other disciplines
 
 *Interdisciplinary thinking*
 

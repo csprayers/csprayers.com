@@ -1,8 +1,8 @@
 ---
-title: Writing a Syllabus
+title: Writing a syllabus
 ---
 
-# Writing a Syllabus
+# Writing a syllabus
 
 *Setting expectations and structure*
 

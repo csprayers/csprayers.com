@@ -1,8 +1,8 @@
 ---
-title: Late Night Coding Sessions
+title: Late night coding sessions
 ---
 
-# Late Night Coding Sessions
+# Late night coding sessions
 
 *Working into darkness*
 

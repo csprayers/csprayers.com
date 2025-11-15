@@ -1,8 +1,8 @@
 ---
-title: Data Breaches and Privacy Violations
+title: Data breaches and privacy violations
 ---
 
-# Data Breaches and Privacy Violations
+# Data breaches and privacy violations
 
 *Trust broken*
 

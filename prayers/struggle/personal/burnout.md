@@ -1,8 +1,8 @@
 ---
-title: During Burnout
+title: During burnout
 ---
 
-# During Burnout
+# During burnout
 
 *When you're depleted*
 

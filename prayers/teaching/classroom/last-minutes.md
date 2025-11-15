@@ -1,8 +1,8 @@
 ---
-title: The Last Few Minutes of Class
+title: The last few minutes of class
 ---
 
-# The Last Few Minutes of Class
+# The last few minutes of class
 
 *Closing the session*
 

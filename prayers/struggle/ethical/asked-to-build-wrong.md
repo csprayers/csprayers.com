@@ -1,8 +1,8 @@
 ---
-title: Asked to Build Something Wrong
+title: When asked to build something you believe is wrong
 ---
 
-# Asked to Build Something Wrong
+# When asked to build something you believe is wrong
 
 *When you must refuse*
 

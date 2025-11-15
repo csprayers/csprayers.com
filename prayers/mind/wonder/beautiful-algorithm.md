@@ -1,8 +1,8 @@
 ---
-title: Understanding a Beautiful Algorithm
+title: Understanding a beautiful algorithm
 ---
 
-# Understanding a Beautiful Algorithm
+# Understanding a beautiful algorithm
 
 *Mathematical elegance*
 

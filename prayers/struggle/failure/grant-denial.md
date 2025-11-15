@@ -1,8 +1,8 @@
 ---
-title: Grant Denial
+title: Grant denial
 ---
 
-# Grant Denial
+# Grant denial
 
 *Funding rejection*
 

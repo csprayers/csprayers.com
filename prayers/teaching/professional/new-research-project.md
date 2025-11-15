@@ -1,8 +1,8 @@
 ---
-title: Starting a New Research Project
+title: Starting a new research project
 ---
 
-# Starting a New Research Project
+# Starting a new research project
 
 *At the beginning of inquiry*
 

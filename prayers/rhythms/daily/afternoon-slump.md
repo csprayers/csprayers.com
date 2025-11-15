@@ -1,8 +1,8 @@
 ---
-title: The Afternoon Slump
+title: The afternoon slump
 ---
 
-# The Afternoon Slump
+# The afternoon slump
 
 *When energy fades*
 

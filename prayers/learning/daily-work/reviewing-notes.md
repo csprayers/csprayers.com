@@ -1,8 +1,8 @@
 ---
-title: Reviewing Notes After Lecture
+title: Reviewing notes after a lecture
 ---
 
-# Reviewing Notes After Lecture
+# Reviewing notes after a lecture
 
 *Solidifying understanding*
 

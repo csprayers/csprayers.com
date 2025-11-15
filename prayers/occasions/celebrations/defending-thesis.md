@@ -1,8 +1,8 @@
 ---
-title: Defending a Thesis
+title: Defending a thesis
 ---
 
-# Defending a Thesis
+# Defending a thesis
 
 *Culmination of research*
 

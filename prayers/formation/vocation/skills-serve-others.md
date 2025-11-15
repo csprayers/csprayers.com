@@ -1,8 +1,8 @@
 ---
-title: How Your Skills Serve Others
+title: Considering how your skills serve others
 ---
 
-# How Your Skills Serve Others
+# Considering how your skills serve others
 
 *Finding meaning in work*
 

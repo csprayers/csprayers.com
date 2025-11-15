@@ -1,8 +1,8 @@
 ---
-title: Collaboration and Mutual Learning
+title: Collaboration and mutual learning
 ---
 
-# Collaboration and Mutual Learning
+# Collaboration and mutual learning
 
 *Growing together*
 

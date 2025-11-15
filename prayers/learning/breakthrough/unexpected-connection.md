@@ -1,8 +1,8 @@
 ---
-title: Making Unexpected Connections
+title: Making an unexpected connection between concepts
 ---
 
-# Making Unexpected Connections
+# Making an unexpected connection between concepts
 
 *When concepts link together*
 

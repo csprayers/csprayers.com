@@ -1,8 +1,8 @@
 ---
-title: Environmental Impact of Computing
+title: Considering environmental impact of computing
 ---
 
-# Environmental Impact of Computing
+# Considering environmental impact of computing
 
 *Stewarding creation*
 

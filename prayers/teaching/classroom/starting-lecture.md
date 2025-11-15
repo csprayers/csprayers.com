@@ -1,8 +1,8 @@
 ---
-title: Starting a Lecture
+title: Starting a lecture
 ---
 
-# Starting a Lecture
+# Starting a lecture
 
 *Opening the class session*
 

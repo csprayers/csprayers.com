@@ -1,8 +1,8 @@
 ---
-title: Before a Department Meeting
+title: Before a department meeting
 ---
 
-# Before a Department Meeting
+# Before a department meeting
 
 *Gathering as colleagues*
 

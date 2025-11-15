@@ -1,8 +1,8 @@
 ---
-title: Before Asking a Question in Class
+title: Before asking a question in class
 ---
 
-# Before Asking a Question in Class
+# Before asking a question in class
 
 *Overcoming hesitation*
 

@@ -1,8 +1,8 @@
 ---
-title: Facing Imposter Syndrome
+title: Imposter syndrome
 ---
 
-# Facing Imposter Syndrome
+# Imposter syndrome
 
 *When you feel like a fraud*
 

@@ -1,8 +1,8 @@
 ---
-title: Deciding Between Industry and Academia
+title: Deciding between industry and academia
 ---
 
-# Deciding Between Industry and Academia
+# Deciding between industry and academia
 
 *Two paths diverging*
 

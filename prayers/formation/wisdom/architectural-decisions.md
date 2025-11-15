@@ -1,8 +1,8 @@
 ---
-title: Before Making Architectural Decisions
+title: Before making architectural decisions
 ---
 
-# Before Making Architectural Decisions
+# Before making architectural decisions
 
 *Choosing the right path*
 

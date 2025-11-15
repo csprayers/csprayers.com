@@ -1,8 +1,8 @@
 ---
-title: Solving What Seemed Impossible
+title: Solving a problem you thought was beyond you
 ---
 
-# Solving What Seemed Impossible
+# Solving a problem you thought was beyond you
 
 *Surprising yourself*
 

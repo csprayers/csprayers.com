@@ -1,8 +1,8 @@
 ---
-title: Reading Error Messages
+title: Reading error messages
 ---
 
-# Reading Error Messages
+# Reading error messages
 
 *Interpreting what went wrong*
 

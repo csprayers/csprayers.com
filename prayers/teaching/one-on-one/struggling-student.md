@@ -1,8 +1,8 @@
 ---
-title: With a Struggling Student
+title: During a difficult conversation with a struggling student
 ---
 
-# With a Struggling Student
+# During a difficult conversation with a struggling student
 
 *A difficult conversation*
 

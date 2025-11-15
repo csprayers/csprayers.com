@@ -1,8 +1,8 @@
 ---
-title: Grappling with the Halting Problem
+title: Grappling with the halting problem
 ---
 
-# Grappling with the Halting Problem
+# Grappling with the halting problem
 
 *An unsolvable question*
 

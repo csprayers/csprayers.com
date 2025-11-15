@@ -1,8 +1,8 @@
 ---
-title: Theory of Computation
+title: Learning theory of computation
 ---
 
-# Theory of Computation
+# Learning theory of computation
 
 *What can be computed*
 

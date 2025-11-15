@@ -1,8 +1,8 @@
 ---
-title: When Students Seem Checked Out
+title: When students seem checked out
 ---
 
-# When Students Seem Checked Out
+# When students seem checked out
 
 *Facing disengagement*
 

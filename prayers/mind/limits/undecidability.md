@@ -1,8 +1,8 @@
 ---
-title: Encountering Undecidability
+title: Encountering undecidability
 ---
 
-# Encountering Undecidability
+# Encountering undecidability
 
 *Fundamental limitations*
 

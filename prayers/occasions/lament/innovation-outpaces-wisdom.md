@@ -1,8 +1,8 @@
 ---
-title: When Innovation Outpaces Wisdom
+title: When innovation outpaces wisdom
 ---
 
-# When Innovation Outpaces Wisdom
+# When innovation outpaces wisdom
 
 *Moving too fast*
 

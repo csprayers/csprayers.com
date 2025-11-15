@@ -1,8 +1,8 @@
 ---
-title: Training Your First Neural Network
+title: Training your first neural network
 ---
 
-# Training Your First Neural Network
+# Training your first neural network
 
 *Deep learning begins*
 

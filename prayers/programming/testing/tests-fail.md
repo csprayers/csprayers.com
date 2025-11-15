@@ -1,8 +1,8 @@
 ---
-title: When Tests Fail
+title: When tests fail (discovering what you missed)
 ---
 
-# When Tests Fail
+# When tests fail (discovering what you missed)
 
 *Discovering what you missed*
 

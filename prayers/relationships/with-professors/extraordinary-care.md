@@ -1,8 +1,8 @@
 ---
-title: When a Professor Shows Extraordinary Care
+title: When a professor shows extraordinary care
 ---
 
-# When a Professor Shows Extraordinary Care
+# When a professor shows extraordinary care
 
 *Gratitude for mentorship*
 

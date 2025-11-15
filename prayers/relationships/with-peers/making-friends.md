@@ -1,8 +1,8 @@
 ---
-title: Making Friends Through CS
+title: Making friends through CS
 ---
 
-# Making Friends Through CS
+# Making friends through CS
 
 *Finding community*
 

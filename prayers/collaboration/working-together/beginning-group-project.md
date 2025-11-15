@@ -1,8 +1,8 @@
 ---
-title: Beginning a Group Project
+title: Beginning a group project (with hope)
 ---
 
-# Beginning a Group Project
+# Beginning a group project (with hope)
 
 *With hope and anticipation*
 

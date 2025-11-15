@@ -1,8 +1,8 @@
 ---
-title: Celebrating the History of Computing
+title: Celebrating the history of computing
 ---
 
-# Celebrating the History of Computing
+# Celebrating the history of computing
 
 *Remembering our roots*
 

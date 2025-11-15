@@ -1,8 +1,8 @@
 ---
-title: When Everyone Else Seems to Understand
+title: When everyone else seems to understand but you
 ---
 
-# When Everyone Else Seems to Understand
+# When everyone else seems to understand but you
 
 *Feeling alone in confusion*
 

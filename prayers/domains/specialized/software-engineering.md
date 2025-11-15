@@ -1,8 +1,8 @@
 ---
-title: Software Engineering Principles
+title: Software engineering principles
 ---
 
-# Software Engineering Principles
+# Software engineering principles
 
 *Building at scale*
 

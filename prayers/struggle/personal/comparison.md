@@ -1,8 +1,8 @@
 ---
-title: Comparison with Peers
+title: Comparison with peers
 ---
 
-# Comparison with Peers
+# Comparison with peers
 
 *Measuring yourself against others*
 

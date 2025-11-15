@@ -1,8 +1,8 @@
 ---
-title: Learning Data Structures
+title: Learning data structures
 ---
 
-# Learning Data Structures
+# Learning data structures
 
 *Arrays, trees, graphs, and more*
 

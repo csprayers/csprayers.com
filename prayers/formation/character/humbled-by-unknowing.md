@@ -1,8 +1,8 @@
 ---
-title: When Humbled by What You Don't Know
+title: When humbled by what you don't know
 ---
 
-# When Humbled by What You Don't Know
+# When humbled by what you don't know
 
 *Facing your limits*
 

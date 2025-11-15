@@ -1,8 +1,8 @@
 ---
-title: When a Student Is Struggling Personally
+title: When a student is struggling personally
 ---
 
-# When a Student Is Struggling Personally
+# When a student is struggling personally
 
 *Beyond academics*
 

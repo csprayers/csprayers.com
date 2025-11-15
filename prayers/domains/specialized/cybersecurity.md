@@ -1,8 +1,8 @@
 ---
-title: Cybersecurity and Ethical Hacking
+title: Cybersecurity and ethical hacking
 ---
 
-# Cybersecurity and Ethical Hacking
+# Cybersecurity and ethical hacking
 
 *Defending systems*
 

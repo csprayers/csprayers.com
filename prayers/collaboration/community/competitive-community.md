@@ -1,8 +1,8 @@
 ---
-title: When Community Feels Competitive
+title: When your research community feels competitive rather than collegial
 ---
 
-# When Community Feels Competitive
+# When your research community feels competitive rather than collegial
 
 *Rather than collegial*
 

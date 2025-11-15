@@ -1,8 +1,8 @@
 ---
-title: Choosing a Tech Stack
+title: Choosing a tech stack or architecture
 ---
 
-# Choosing a Tech Stack
+# Choosing a tech stack or architecture
 
 *Making architectural decisions*
 

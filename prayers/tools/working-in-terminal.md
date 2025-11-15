@@ -1,8 +1,8 @@
 ---
-title: Working in the Terminal
+title: Working in the terminal
 ---
 
-# Working in the Terminal
+# Working in the terminal
 
 *Shell commands*
 

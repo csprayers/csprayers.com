@@ -1,8 +1,8 @@
 ---
-title: Embedded Systems and Robotics
+title: Embedded systems and robotics
 ---
 
-# Embedded Systems and Robotics
+# Embedded systems and robotics
 
 *Computing in the physical world*
 

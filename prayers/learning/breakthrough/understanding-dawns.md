@@ -1,8 +1,8 @@
 ---
-title: When Understanding Finally Dawns
+title: When understanding finally dawns
 ---
 
-# When Understanding Finally Dawns
+# When understanding finally dawns
 
 *The moment of clarity*
 

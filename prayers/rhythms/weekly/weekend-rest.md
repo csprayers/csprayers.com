@@ -1,8 +1,8 @@
 ---
-title: Weekend Rest
+title: Weekend rest (stepping away)
 ---
 
-# Weekend Rest
+# Weekend rest (stepping away)
 
 *Stepping away*
 

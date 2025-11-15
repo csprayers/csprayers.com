@@ -1,8 +1,8 @@
 ---
-title: Graph Theory
+title: Graph theory
 ---
 
-# Graph Theory
+# Graph theory
 
 *Networks and connections*
 

@@ -1,8 +1,8 @@
 ---
-title: Monday Morning
+title: Monday morning (the week begins)
 ---
 
-# Monday Morning
+# Monday morning (the week begins)
 
 *The week begins*
 

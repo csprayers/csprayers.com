@@ -1,8 +1,8 @@
 ---
-title: Feeling Not Creative Enough
+title: Feeling "not creative enough"
 ---
 
-# Feeling Not Creative Enough
+# Feeling "not creative enough"
 
 *Doubting your innovation*
 

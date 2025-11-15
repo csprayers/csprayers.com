@@ -1,8 +1,8 @@
 ---
-title: Mastering Keyboard Shortcuts
+title: Mastering keyboard shortcuts
 ---
 
-# Mastering Keyboard Shortcuts
+# Mastering keyboard shortcuts
 
 *Efficiency in editing*
 

@@ -1,8 +1,8 @@
 ---
-title: Questions Technology Can't Answer
+title: Questions technology can't answer
 ---
 
-# Questions Technology Can't Answer
+# Questions technology can't answer
 
 *Beyond computation*
 

@@ -1,8 +1,8 @@
 ---
-title: When You Find the Bug
+title: When you find the bug (relief and sheepishness)
 ---
 
-# When You Find the Bug
+# When you find the bug (relief and sheepishness)
 
 *Relief and sheepishness*
 

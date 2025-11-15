@@ -1,8 +1,8 @@
 ---
-title: Publishing Your First Paper
+title: Publishing your first paper
 ---
 
-# Publishing Your First Paper
+# Publishing your first paper
 
 *Scholarly milestone*
 

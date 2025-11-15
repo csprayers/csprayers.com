@@ -1,8 +1,8 @@
 ---
-title: Refactoring Messy Code
+title: Refactoring messy code
 ---
 
-# Refactoring Messy Code
+# Refactoring messy code
 
 *Making it better*
 

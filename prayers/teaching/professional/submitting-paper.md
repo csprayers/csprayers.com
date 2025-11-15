@@ -1,8 +1,8 @@
 ---
-title: Submitting a Research Paper
+title: Submitting a research paper
 ---
 
-# Submitting a Research Paper
+# Submitting a research paper
 
 *Offering your work for review*
 

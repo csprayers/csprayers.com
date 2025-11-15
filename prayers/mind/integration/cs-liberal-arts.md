@@ -1,8 +1,8 @@
 ---
-title: CS and the Liberal Arts
+title: CS and the liberal arts
 ---
 
-# CS and the Liberal Arts
+# CS and the liberal arts
 
 *Broad education*
 

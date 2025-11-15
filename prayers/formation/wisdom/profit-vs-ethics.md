@@ -1,8 +1,8 @@
 ---
-title: When Profit and Ethics Conflict
+title: When profit and ethics conflict
 ---
 
-# When Profit and Ethics Conflict
+# When profit and ethics conflict
 
 *Choosing the right way*
 

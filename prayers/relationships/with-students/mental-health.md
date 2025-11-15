@@ -1,8 +1,8 @@
 ---
-title: When a Student Opens Up About Mental Health
+title: When a student opens up about mental health
 ---
 
-# When a Student Opens Up About Mental Health
+# When a student opens up about mental health
 
 *Caring for the whole person*
 

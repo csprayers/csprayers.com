@@ -1,8 +1,8 @@
 ---
-title: When You Must Be Firm but Loving
+title: When you must be firm but loving
 ---
 
-# When You Must Be Firm but Loving
+# When you must be firm but loving
 
 *Difficult pastoral care*
 

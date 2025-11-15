@@ -1,8 +1,8 @@
 ---
-title: Writing a Letter of Recommendation
+title: Writing a letter of recommendation
 ---
 
-# Writing a Letter of Recommendation
+# Writing a letter of recommendation
 
 *Advocating for a student*
 

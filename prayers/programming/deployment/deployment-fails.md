@@ -1,8 +1,8 @@
 ---
-title: When Deployment Fails
+title: When deployment fails
 ---
 
-# When Deployment Fails
+# When deployment fails
 
 *Rollback and recovery*
 

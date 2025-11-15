@@ -1,8 +1,8 @@
 ---
-title: A Question You Can't Answer
+title: Answering a question you don't know the answer to
 ---
 
-# A Question You Can't Answer
+# Answering a question you don't know the answer to
 
 *When you don't know*
 

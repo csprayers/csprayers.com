@@ -1,8 +1,8 @@
 ---
-title: Science and the Humanities
+title: Science and the humanities
 ---
 
-# Science and the Humanities
+# Science and the humanities
 
 *Bridging the divide*
 

@@ -1,8 +1,8 @@
 ---
-title: When Mentoring Clicks
+title: When mentor and mentee click
 ---
 
-# When Mentoring Clicks
+# When mentor and mentee click
 
 *A fruitful relationship*
 

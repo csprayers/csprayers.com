@@ -1,8 +1,8 @@
 ---
-title: Hunting a Subtle Bug
+title: Hunting a subtle bug
 ---
 
-# Hunting a Subtle Bug
+# Hunting a subtle bug
 
 *In pursuit of the error*
 

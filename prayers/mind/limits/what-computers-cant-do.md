@@ -1,8 +1,8 @@
 ---
-title: Understanding What Computers Can't Do
+title: Understanding what computers can't do
 ---
 
-# Understanding What Computers Can't Do
+# Understanding what computers can't do
 
 *The boundaries of AI*
 

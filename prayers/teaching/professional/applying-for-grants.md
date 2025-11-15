@@ -1,8 +1,8 @@
 ---
-title: Applying for Grants
+title: Applying for grants
 ---
 
-# Applying for Grants
+# Applying for grants
 
 *Seeking funding for research*
 

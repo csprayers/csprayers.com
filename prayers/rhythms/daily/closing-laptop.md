@@ -1,8 +1,8 @@
 ---
-title: Closing Your Laptop
+title: Closing your laptop for the day
 ---
 
-# Closing Your Laptop
+# Closing your laptop for the day
 
 *Ending the workday*
 

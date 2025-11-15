@@ -1,8 +1,8 @@
 ---
-title: Using Version Control for the First Time
+title: Using version control (Git) for the first time
 ---
 
-# Using Version Control for the First Time
+# Using version control (Git) for the first time
 
 *Learning Git*
 

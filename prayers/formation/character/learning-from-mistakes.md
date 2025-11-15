@@ -1,8 +1,8 @@
 ---
-title: Learning from Mistakes
+title: Learning from mistakes
 ---
 
-# Learning from Mistakes
+# Learning from mistakes
 
 *Growing through failure*
 

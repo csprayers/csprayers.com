@@ -1,8 +1,8 @@
 ---
-title: When Mentoring Is Difficult
+title: When the mentoring relationship is difficult
 ---
 
-# When Mentoring Is Difficult
+# When the mentoring relationship is difficult
 
 *In a struggling relationship*
 

@@ -1,8 +1,8 @@
 ---
-title: Operating Systems
+title: Operating systems
 ---
 
-# Operating Systems
+# Operating systems
 
 *Managing resources*
 

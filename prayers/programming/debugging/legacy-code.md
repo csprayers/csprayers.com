@@ -1,8 +1,8 @@
 ---
-title: Dealing with Legacy Code
+title: Dealing with legacy code
 ---
 
-# Dealing with Legacy Code
+# Dealing with legacy code
 
 *Inheriting others' work*
 

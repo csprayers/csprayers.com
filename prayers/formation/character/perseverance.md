@@ -1,8 +1,8 @@
 ---
-title: Developing Perseverance
+title: Developing perseverance through difficulty
 ---
 
-# Developing Perseverance
+# Developing perseverance through difficulty
 
 *Through difficulty*
 

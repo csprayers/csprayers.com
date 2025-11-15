@@ -1,8 +1,8 @@
 ---
-title: Trying to Explain What You Do
+title: Trying to explain what you do
 ---
 
-# Trying to Explain What You Do
+# Trying to explain what you do
 
 *Bridging worlds*
 

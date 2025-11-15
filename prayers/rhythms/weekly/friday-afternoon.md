@@ -1,8 +1,8 @@
 ---
-title: Friday Afternoon
+title: Friday afternoon (the week ends)
 ---
 
-# Friday Afternoon
+# Friday afternoon (the week ends)
 
 *The week ends*
 

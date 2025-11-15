@@ -1,8 +1,8 @@
 ---
-title: Designing a System or Algorithm
+title: Designing a system or algorithm
 ---
 
-# Designing a System or Algorithm
+# Designing a system or algorithm
 
 *Planning the structure*
 

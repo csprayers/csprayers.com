@@ -1,8 +1,8 @@
 ---
-title: Missing Important Personal Events
+title: Missing important personal events for deadlines
 ---
 
-# Missing Important Personal Events
+# Missing important personal events for deadlines
 
 *Sacrifice for deadlines*
 

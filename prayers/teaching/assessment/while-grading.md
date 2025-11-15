@@ -1,8 +1,8 @@
 ---
-title: While Grading
+title: While grading (when your eyes grow weary)
 ---
 
-# While Grading
+# While grading (when your eyes grow weary)
 
 *When your eyes grow weary*
 

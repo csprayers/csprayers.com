@@ -1,8 +1,8 @@
 ---
-title: Fall Semester Energy
+title: Fall semester energy
 ---
 
-# Fall Semester Energy
+# Fall semester energy
 
 *Autumn beginnings*
 

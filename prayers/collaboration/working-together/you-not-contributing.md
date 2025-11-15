@@ -1,8 +1,8 @@
 ---
-title: When You're Not Pulling Your Weight
+title: When you're not pulling your weight
 ---
 
-# When You're Not Pulling Your Weight
+# When you're not pulling your weight
 
 *Facing your own shortcomings*
 

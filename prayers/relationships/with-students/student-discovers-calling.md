@@ -1,8 +1,8 @@
 ---
-title: Watching a Student Discover Their Calling
+title: Watching a student discover their calling
 ---
 
-# Watching a Student Discover Their Calling
+# Watching a student discover their calling
 
 *Joy of witnessing growth*
 

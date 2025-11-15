@@ -1,8 +1,8 @@
 ---
-title: Summer Research or Internships
+title: Summer research or internships
 ---
 
-# Summer Research or Internships
+# Summer research or internships
 
 *Working in summer*
 

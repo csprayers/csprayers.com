@@ -1,8 +1,8 @@
 ---
-title: Receiving Code Review Feedback
+title: Code review (receiving feedback)
 ---
 
-# Receiving Code Review Feedback
+# Code review (receiving feedback)
 
 *Accepting critique gracefully*
 

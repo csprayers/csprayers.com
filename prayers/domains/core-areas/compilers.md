@@ -1,8 +1,8 @@
 ---
-title: Compilers and Interpreters
+title: Compilers and interpreters
 ---
 
-# Compilers and Interpreters
+# Compilers and interpreters
 
 *Translating languages*
 

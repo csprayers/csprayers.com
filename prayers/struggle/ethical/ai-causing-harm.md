@@ -1,8 +1,8 @@
 ---
-title: Seeing AI/Technology Cause Harm
+title: Seeing AI/technology cause harm
 ---
 
-# Seeing AI/Technology Cause Harm
+# Seeing AI/technology cause harm
 
 *When innovation hurts*
 

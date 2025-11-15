@@ -1,8 +1,8 @@
 ---
-title: Gratitude for Mentorship
+title: Gratitude for mentorship
 ---
 
-# Gratitude for Mentorship
+# Gratitude for mentorship
 
 *Thankfulness for guidance*
 

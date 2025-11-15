@@ -1,8 +1,8 @@
 ---
-title: Faith and Technology
+title: Faith and technology
 ---
 
-# Faith and Technology
+# Faith and technology
 
 *Integrating belief and practice*
 

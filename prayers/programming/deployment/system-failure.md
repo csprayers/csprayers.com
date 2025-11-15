@@ -1,8 +1,8 @@
 ---
-title: Responding to System Failure
+title: Responding to a system failure
 ---
 
-# Responding to System Failure
+# Responding to a system failure
 
 *In crisis mode*
 

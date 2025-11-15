@@ -1,8 +1,8 @@
 ---
-title: Human-Computer Interaction
+title: Human-computer interaction
 ---
 
-# Human-Computer Interaction
+# Human-computer interaction
 
 *Designing for people*
 

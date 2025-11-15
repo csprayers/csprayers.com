@@ -1,8 +1,8 @@
 ---
-title: Grasping Big-O Notation
+title: Grasping Big-O notation and complexity
 ---
 
-# Grasping Big-O Notation
+# Grasping Big-O notation and complexity
 
 *Understanding computational complexity*
 

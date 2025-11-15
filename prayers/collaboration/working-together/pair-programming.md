@@ -1,8 +1,8 @@
 ---
-title: Pair Programming
+title: Pair programming
 ---
 
-# Pair Programming
+# Pair programming
 
 *Working in tandem*
 

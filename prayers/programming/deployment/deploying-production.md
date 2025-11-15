@@ -1,8 +1,8 @@
 ---
-title: Deploying to Production
+title: Deploying to production
 ---
 
-# Deploying to Production
+# Deploying to production
 
 *Releasing to the world*
 

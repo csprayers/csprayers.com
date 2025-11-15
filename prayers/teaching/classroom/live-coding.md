@@ -1,8 +1,8 @@
 ---
-title: Demonstrating Live Coding
+title: Demonstrating live coding (and hoping it works)
 ---
 
-# Demonstrating Live Coding
+# Demonstrating live coding (and hoping it works)
 
 *And hoping it works*
 

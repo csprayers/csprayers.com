@@ -1,8 +1,8 @@
 ---
-title: When Complexity Becomes Simple
+title: When complexity becomes simple
 ---
 
-# When Complexity Becomes Simple
+# When complexity becomes simple
 
 *Clarity emerging*
 

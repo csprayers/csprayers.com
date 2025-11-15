@@ -1,8 +1,8 @@
 ---
-title: Before Reading Dense Material
+title: Before reading a particularly dense textbook chapter
 ---
 
-# Before Reading Dense Material
+# Before reading a particularly dense textbook chapter
 
 *Approaching difficult texts*
 

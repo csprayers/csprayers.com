@@ -1,8 +1,8 @@
 ---
-title: After a Disappointing Grade
+title: After receiving a disappointing grade
 ---
 
-# After a Disappointing Grade
+# After receiving a disappointing grade
 
 *Processing failure*
 

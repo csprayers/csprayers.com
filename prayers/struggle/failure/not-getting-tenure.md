@@ -1,8 +1,8 @@
 ---
-title: Not Getting Tenure
+title: Not getting tenure
 ---
 
-# Not Getting Tenure
+# Not getting tenure
 
 *Career setback*
 

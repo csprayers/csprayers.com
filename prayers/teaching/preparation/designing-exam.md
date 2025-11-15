@@ -1,8 +1,8 @@
 ---
-title: Designing an Exam
+title: Designing an exam
 ---
 
-# Designing an Exam
+# Designing an exam
 
 *Crafting fair assessment*
 
