@@ -1,0 +1,13 @@
+---
+title: Considering how your skills serve others
+---
+
+# Considering how your skills serve others
+
+*Finding meaning in work*
+
+---
+
+**This prayer is waiting to be written.**
+
+Would you like to contribute? [Submit a pull request](https://github.com/yourusername/csprayers.com/edit/main/prayers/formation/vocation/skills-serve-others.md) to add your prayer here.

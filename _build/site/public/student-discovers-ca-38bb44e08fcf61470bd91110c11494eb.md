@@ -1,0 +1,13 @@
+---
+title: When a Student Discovers Their Calling
+---
+
+# When a Student Discovers Their Calling
+
+*Joy of witnessing growth*
+
+---
+
+**This prayer is waiting to be written.**
+
+Would you like to contribute? [Submit a pull request](https://github.com/yourusername/csprayers.com/edit/main/prayers/relationships/with-students/student-discovers-calling.md) to add your prayer here.

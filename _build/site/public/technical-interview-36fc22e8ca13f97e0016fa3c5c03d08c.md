@@ -1,0 +1,13 @@
+---
+title: Before a Technical Interview
+# Before a Technical Interview
+
+# During a Technical Interview
+
+*Being evaluated for a position*
+
+---
+
+**This prayer is waiting to be written.**
+
+Would you like to contribute? [Submit a pull request](https://github.com/yourusername/csprayers.com/edit/main/prayers/learning/assessment/technical-interview.md) to add your prayer here.

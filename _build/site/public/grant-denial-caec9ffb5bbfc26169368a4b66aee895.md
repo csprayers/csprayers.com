@@ -1,0 +1,13 @@
+---
+title: After Grant Denial
+---
+
+# After Grant Denial
+
+*Funding rejection*
+
+---
+
+**This prayer is waiting to be written.**
+
+Would you like to contribute? [Submit a pull request](https://github.com/yourusername/csprayers.com/edit/main/prayers/struggle/failure/grant-denial.md) to add your prayer here.
