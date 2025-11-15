@@ -2,8 +2,6 @@
 title: Midterm season (the pressure point)
 ---
 
-# Midterm season (the pressure point)
-
 *At the pressure point of the semester*
 
 ---

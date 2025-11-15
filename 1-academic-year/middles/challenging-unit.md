@@ -2,8 +2,6 @@
 title: During a particularly challenging unit or module
 ---
 
-# During a particularly challenging unit or module
-
 *When the material is particularly difficult*
 
 ---

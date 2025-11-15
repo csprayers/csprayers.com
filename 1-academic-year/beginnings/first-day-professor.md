@@ -2,8 +2,6 @@
 title: The first day of a new semester (professors)
 ---
 
-# The first day of a new semester (professors)
-
 *As a new semester begins*
 
 ---

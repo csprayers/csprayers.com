@@ -2,8 +2,6 @@
 title: Moving from undergraduate to graduate study
 ---
 
-# Moving from undergraduate to graduate study
-
 *Continuing your education*
 
 ---

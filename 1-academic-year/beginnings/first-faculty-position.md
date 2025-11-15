@@ -2,8 +2,6 @@
 title: Starting your first faculty position
 ---
 
-# Starting your first faculty position
-
 *For new professors*
 
 ---

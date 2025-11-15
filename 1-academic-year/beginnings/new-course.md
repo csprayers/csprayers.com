@@ -2,8 +2,6 @@
 title: Beginning a new course you've never taken/taught before
 ---
 
-# Beginning a new course you've never taken/taught before
-
 *For the first time taking or teaching a course*
 
 ---

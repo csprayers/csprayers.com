@@ -2,8 +2,6 @@
 title: Beginning graduate studies in CS
 ---
 
-# Beginning graduate studies in CS
-
 *Starting a graduate program in CS*
 
 ---

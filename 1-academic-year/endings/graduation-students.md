@@ -2,8 +2,6 @@
 title: Graduation day (for students)
 ---
 
-# Graduation day (for students)
-
 *At commencement*
 
 ---

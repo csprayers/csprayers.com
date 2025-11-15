@@ -2,8 +2,6 @@
 title: Final exam week (students preparing)
 ---
 
-# Final exam week (students preparing)
-
 *Preparing for finals*
 
 ---

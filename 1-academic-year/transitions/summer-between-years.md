@@ -2,8 +2,6 @@
 title: The summer between academic years
 ---
 
-# The summer between academic years
-
 *Transitioning between academic years*
 
 ---

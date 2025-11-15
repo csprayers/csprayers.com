@@ -2,8 +2,6 @@
 title: Submitting final grades
 ---
 
-# Submitting final grades
-
 *At the close of assessment*
 
 ---

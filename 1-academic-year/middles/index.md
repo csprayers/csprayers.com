@@ -2,8 +2,6 @@
 title: The Middle Weeks
 ---
 
-# The Middle Weeks
-
 Prayers for the long, difficult stretch of the semester
 
 ---

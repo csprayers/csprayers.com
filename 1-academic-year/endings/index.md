@@ -2,8 +2,6 @@
 title: Endings
 ---
 
-# Endings
-
 Prayers for closure, completion, and farewell
 
 ---

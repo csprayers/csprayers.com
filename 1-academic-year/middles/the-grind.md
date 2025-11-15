@@ -2,8 +2,6 @@
 title: The "grind" of weeks 6-10
 ---
 
-# The "grind" of weeks 6-10
-
 *In the difficult middle stretch*
 
 ---

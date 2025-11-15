@@ -2,8 +2,6 @@
 title: Transitions
 ---
 
-# Transitions
-
 Prayers for life changes and new paths
 
 ---

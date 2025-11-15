@@ -2,8 +2,6 @@
 title: Final exam week (professors grading)
 ---
 
-# Final exam week (professors grading)
-
 *During the grading marathon*
 
 ---

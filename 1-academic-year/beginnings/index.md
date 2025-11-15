@@ -2,8 +2,6 @@
 title: Beginnings
 ---
 
-# Beginnings
-
 Prayers for new semesters, courses, and academic ventures
 
 ---

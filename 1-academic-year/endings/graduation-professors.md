@@ -2,8 +2,6 @@
 title: Graduation day (for professors watching students leave)
 ---
 
-# Graduation day (for professors watching students leave)
-
 *Watching students leave*
 
 ---

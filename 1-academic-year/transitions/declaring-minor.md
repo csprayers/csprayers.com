@@ -2,8 +2,6 @@
 title: Declaring a CS minor or concentration
 ---
 
-# Declaring a CS minor or concentration
-
 *Adding CS to your studies*
 
 ---

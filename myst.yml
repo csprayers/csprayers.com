@@ -5,11 +5,6 @@ site:
   options:
     logo: null
     favicon: null
-  nav:
-    - title: Home
-      url: /
-    - title: All Prayers
-      url: /prayers
   actions:
     - title: GitHub
       url: https://github.com/csprayers/csprayers.com
@@ -39,70 +34,41 @@ project:
         - title: Beginnings
           children:
             - file: 1-academic-year/beginnings/first-day-student.md
-              title: The first day of a new semester (students)
             - file: 1-academic-year/beginnings/first-day-professor.md
-              title: The first day of a new semester (professors)
             - file: 1-academic-year/beginnings/new-course.md
-              title: Beginning a new course you've never taken/taught before
             - file: 1-academic-year/beginnings/capstone-project.md
-              title: The start of a senior capstone project
             - file: 1-academic-year/beginnings/graduate-studies.md
-              title: Beginning graduate studies in CS
             - file: 1-academic-year/beginnings/first-faculty-position.md
-              title: Starting your first faculty position
             - file: 1-academic-year/beginnings/sabbatical.md
-              title: The beginning of a sabbatical for research
-
         - title: Middles
           children:
-            - file: prayers/academic-year/middles/midterm-season.md
-              title: Midterm season (the pressure point)
-            - file: prayers/academic-year/middles/before-spring-break.md
-              title: The week before spring break (exhaustion setting in)
-            - file: prayers/academic-year/middles/endless-semester.md
-              title: When the semester feels endless
-            - file: prayers/academic-year/middles/challenging-unit.md
-              title: During a particularly challenging unit or module
-            - file: prayers/academic-year/middles/the-grind.md
-              title: The "grind" of weeks 6-10
+            - file: 1-academic-year/middles/midterm-season.md
+            - file: 1-academic-year/middles/before-spring-break.md
+            - file: 1-academic-year/middles/endless-semester.md
+            - file: 1-academic-year/middles/challenging-unit.md
+            - file: 1-academic-year/middles/the-grind.md
 
         - title: Endings
           children:
-            - file: prayers/academic-year/endings/final-exam-week-students.md
-              title: Final exam week (students preparing)
-            - file: prayers/academic-year/endings/final-exam-week-professors.md
-              title: Final exam week (professors grading)
-            - file: prayers/academic-year/endings/submitting-grades.md
-              title: Submitting final grades
-            - file: prayers/academic-year/endings/last-class.md
-              title: The last class meeting of a course
-            - file: prayers/academic-year/endings/graduation-students.md
-              title: Graduation day (for students)
-            - file: prayers/academic-year/endings/graduation-professors.md
-              title: Graduation day (for professors watching students leave)
-            - file: prayers/academic-year/endings/end-of-year.md
-              title: End of academic year (summer beginning)
+            - file: 1-academic-year/endings/final-exam-week-students.md
+            - file: 1-academic-year/endings/final-exam-week-professors.md
+            - file: 1-academic-year/endings/submitting-grades.md
+            - file: 1-academic-year/endings/last-class.md
+            - file: 1-academic-year/endings/graduation-students.md
+            - file: 1-academic-year/endings/graduation-professors.md
+            - file: 1-academic-year/endings/end-of-year.md
 
         - title: Transitions
           children:
-            - file: prayers/academic-year/transitions/choosing-cs-major.md
-              title: Choosing a major in computer science
-            - file: prayers/academic-year/transitions/switching-to-cs.md
-              title: Switching into CS from another field
-            - file: prayers/academic-year/transitions/declaring-minor.md
-              title: Declaring a CS minor or concentration
-            - file: prayers/academic-year/transitions/summer-between-years.md
-              title: The summer between academic years
-            - file: prayers/academic-year/transitions/undergrad-to-grad.md
-              title: Moving from undergraduate to graduate study
-            - file: prayers/academic-year/transitions/student-to-professional.md
-              title: Transitioning from student to professional
-            - file: prayers/academic-year/transitions/academia-to-industry.md
-              title: Leaving academia for industry
-            - file: prayers/academic-year/transitions/industry-to-academia.md
-              title: Leaving industry for academia
-            - file: prayers/academic-year/transitions/retirement.md
-              title: Retirement from teaching
+            - file: 1-academic-year/transitions/choosing-cs-major.md
+            - file: 1-academic-year/transitions/switching-to-cs.md
+            - file: 1-academic-year/transitions/declaring-minor.md
+            - file: 1-academic-year/transitions/summer-between-years.md
+            - file: 1-academic-year/transitions/undergrad-to-grad.md
+            - file: 1-academic-year/transitions/student-to-professional.md
+            - file: 1-academic-year/transitions/academia-to-industry.md
+            - file: 1-academic-year/transitions/industry-to-academia.md
+            - file: 1-academic-year/transitions/retirement.md
 
     # - title: II. The Work of Learning (For Students)
     #   children:

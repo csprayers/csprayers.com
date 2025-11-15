@@ -2,8 +2,6 @@
 title: Transitioning from student to professional
 ---
 
-# Transitioning from student to professional
-
 *Entering the workforce*
 
 ---

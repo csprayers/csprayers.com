@@ -2,8 +2,6 @@
 title: The beginning of a sabbatical for research
 ---
 
-# The beginning of a sabbatical for research
-
 *For research and renewal*
 
 ---

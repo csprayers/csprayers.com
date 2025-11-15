@@ -2,8 +2,6 @@
 title: Switching into CS from another field
 ---
 
-# Switching into CS from another field
-
 *Changing fields*
 
 ---

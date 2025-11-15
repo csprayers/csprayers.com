@@ -2,8 +2,6 @@
 title: Leaving industry for academia
 ---
 
-# Leaving industry for academia
-
 *Returning to teaching*
 
 ---

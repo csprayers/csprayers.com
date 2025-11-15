@@ -2,8 +2,6 @@
 title: Choosing a major in computer science
 ---
 
-# Choosing a major in computer science
-
 *Declaring your major*
 
 ---

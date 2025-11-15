@@ -2,8 +2,6 @@
 title: Leaving academia for industry
 ---
 
-# Leaving academia for industry
-
 *Leaving the university*
 
 ---

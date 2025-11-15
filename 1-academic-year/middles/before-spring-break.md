@@ -2,8 +2,6 @@
 title: The week before spring break (exhaustion setting in)
 ---
 
-# The week before spring break (exhaustion setting in)
-
 *When exhaustion sets in*
 
 ---

@@ -2,8 +2,6 @@
 title: The last class meeting of a course
 ---
 
-# The last class meeting of a course
-
 *At the end of a course*
 
 ---

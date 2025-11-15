@@ -2,8 +2,6 @@
 title: End of academic year (summer beginning)
 ---
 
-# End of academic year (summer beginning)
-
 *As summer begins*
 
 ---

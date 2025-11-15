@@ -2,8 +2,6 @@
 title: Retirement from teaching
 ---
 
-# Retirement from teaching
-
 *At the end of a career*
 
 ---

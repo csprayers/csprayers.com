@@ -2,8 +2,6 @@
 title: When the semester feels endless
 ---
 
-# When the semester feels endless
-
 *In the long middle weeks*
 
 ---

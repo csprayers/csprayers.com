@@ -2,8 +2,6 @@
 title: The start of a senior capstone project
 ---
 
-# The start of a senior capstone project
-
 *At the threshold of a senior project*
 
 ---
