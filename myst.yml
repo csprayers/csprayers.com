@@ -26,47 +26,46 @@ project:
   toc:
     - file: index.md
     - file: prayers.md
-
     - title: "I. The Rhythms of the Academic Year"
       children:
         - title: Beginnings
           children:
-            - file: 1-academic-year/beginnings/first-day-student.md
-            - file: 1-academic-year/beginnings/first-day-professor.md
-            - file: 1-academic-year/beginnings/new-course.md
-            - file: 1-academic-year/beginnings/capstone-project.md
-            - file: 1-academic-year/beginnings/graduate-studies.md
-            - file: 1-academic-year/beginnings/first-faculty-position.md
-            - file: 1-academic-year/beginnings/sabbatical.md
+            - file: ./1-academic-year/beginnings/first-day-student.md
+            - file: ./1-academic-year/beginnings/first-day-professor.md
+            - file: ./1-academic-year/beginnings/new-course.md
+            - file: ./1-academic-year/beginnings/capstone-project.md
+            - file: ./1-academic-year/beginnings/graduate-studies.md
+            - file: ./1-academic-year/beginnings/first-faculty-position.md
+            - file: ./1-academic-year/beginnings/sabbatical.md
         - title: Middles
           children:
-            - file: 1-academic-year/middles/midterm-season.md
-            - file: 1-academic-year/middles/before-spring-break.md
-            - file: 1-academic-year/middles/endless-semester.md
-            - file: 1-academic-year/middles/challenging-unit.md
-            - file: 1-academic-year/middles/the-grind.md
+            - file: ./1-academic-year/middles/midterm-season.md
+            - file: ./1-academic-year/middles/before-spring-break.md
+            - file: ./1-academic-year/middles/endless-semester.md
+            - file: ./1-academic-year/middles/challenging-unit.md
+            - file: ./1-academic-year/middles/the-grind.md
 
         - title: Endings
           children:
-            - file: 1-academic-year/endings/final-exam-week-students.md
-            - file: 1-academic-year/endings/final-exam-week-professors.md
-            - file: 1-academic-year/endings/submitting-grades.md
-            - file: 1-academic-year/endings/last-class.md
-            - file: 1-academic-year/endings/graduation-students.md
-            - file: 1-academic-year/endings/graduation-professors.md
-            - file: 1-academic-year/endings/end-of-year.md
+            - file: ./1-academic-year/endings/final-exam-week-students.md
+            - file: ./1-academic-year/endings/final-exam-week-professors.md
+            - file: ./1-academic-year/endings/submitting-grades.md
+            - file: ./1-academic-year/endings/last-class.md
+            - file: ./1-academic-year/endings/graduation-students.md
+            - file: ./1-academic-year/endings/graduation-professors.md
+            - file: ./1-academic-year/endings/end-of-year.md
 
         - title: Transitions
           children:
-            - file: 1-academic-year/transitions/choosing-cs-major.md
-            - file: 1-academic-year/transitions/switching-to-cs.md
-            - file: 1-academic-year/transitions/declaring-minor.md
-            - file: 1-academic-year/transitions/summer-between-years.md
-            - file: 1-academic-year/transitions/undergrad-to-grad.md
-            - file: 1-academic-year/transitions/student-to-professional.md
-            - file: 1-academic-year/transitions/academia-to-industry.md
-            - file: 1-academic-year/transitions/industry-to-academia.md
-            - file: 1-academic-year/transitions/retirement.md
+            - file: ./1-academic-year/transitions/choosing-cs-major.md
+            - file: ./1-academic-year/transitions/switching-to-cs.md
+            - file: ./1-academic-year/transitions/declaring-minor.md
+            - file: ./1-academic-year/transitions/summer-between-years.md
+            - file: ./1-academic-year/transitions/undergrad-to-grad.md
+            - file: ./1-academic-year/transitions/student-to-professional.md
+            - file: ./1-academic-year/transitions/academia-to-industry.md
+            - file: ./1-academic-year/transitions/industry-to-academia.md
+            - file: ./1-academic-year/transitions/retirement.md
 
     # - title: II. The Work of Learning (For Students)
     #   children:
