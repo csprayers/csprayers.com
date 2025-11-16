@@ -3,8 +3,9 @@ site:
   template: book-theme
   title: Prayers for Computer Science
   options:
-    logo: null
-    favicon: null
+    logo: icon.png
+    favicon: icon.png
+    logo_text: CS Prayers
   actions:
     - title: GitHub
       url: https://github.com/csprayers/csprayers.com
