@@ -67,79 +67,49 @@ project:
             - file: ./1-academic-year/transitions/industry-to-academia.md
             - file: ./1-academic-year/transitions/retirement.md
 
-    # - title: II. The Work of Learning (For Students)
-    #   children:
-    #     - title: Intellectual Struggle
-    #       children:
-    #         - file: prayers/learning/intellectual-struggle/concept-wont-click.md
-    #           title: When a concept won't "click"
-    #         - file: prayers/learning/intellectual-struggle/dense-textbook.md
-    #           title: Before reading a particularly dense textbook chapter
-    #         - file: prayers/learning/intellectual-struggle/impossible-problem-set.md
-    #           title: Starting a problem set that looks impossible
-    #         - file: prayers/learning/intellectual-struggle/everyone-else-understands.md
-    #           title: When everyone else seems to understand but you
-    #         - file: prayers/learning/intellectual-struggle/new-programming-language.md
-    #           title: Learning a new programming language
-    #         - file: prayers/learning/intellectual-struggle/proofs-first-time.md
-    #           title: Encountering proofs for the first time
-    #         - file: prayers/learning/intellectual-struggle/recursion.md
-    #           title: Wrestling with recursion
-    #         - file: prayers/learning/intellectual-struggle/pointers-and-memory.md
-    #           title: Understanding pointers and memory management
-    #         - file: prayers/learning/intellectual-struggle/big-o-notation.md
-    #           title: Grasping Big-O notation and complexity
-    #         - file: prayers/learning/intellectual-struggle/functional-programming.md
-    #           title: Making sense of lambda calculus or functional programming
+    - title: II. The Work of Learning (For Students)
+      children:
+        - title: Intellectual Struggle
+          children:
+            - file: 2-learning/intellectual-struggle/concept-wont-click.md
+            - file: 2-learning/intellectual-struggle/dense-textbook.md
+            - file: 2-learning/intellectual-struggle/impossible-problem-set.md
+            - file: 2-learning/intellectual-struggle/everyone-else-understands.md
+            - file: 2-learning/intellectual-struggle/new-programming-language.md
+            - file: 2-learning/intellectual-struggle/proofs-first-time.md
+            - file: 2-learning/intellectual-struggle/recursion.md
+            - file: 2-learning/intellectual-struggle/pointers-and-memory.md
+            - file: 2-learning/intellectual-struggle/big-o-notation.md
+            - file: 2-learning/intellectual-struggle/functional-programming.md
 
-    #     - title: Breakthrough Moments
-    #       children:
-    #         - file: prayers/learning/breakthrough/understanding-dawns.md
-    #           title: When understanding finally dawns
-    #         - file: prayers/learning/breakthrough/completing-challenge.md
-    #           title: Successfully completing a challenging assignment
-    #         - file: prayers/learning/breakthrough/first-compile-and-run.md
-    #           title: The first time your code compiles and runs correctly
-    #         - file: prayers/learning/breakthrough/solving-beyond-you.md
-    #           title: Solving a problem you thought was beyond you
-    #         - file: prayers/learning/breakthrough/unexpected-connection.md
-    #           title: Making an unexpected connection between concepts
-    #         - file: prayers/learning/breakthrough/why-it-works.md
-    #           title: Understanding why something you memorized actually works
+        - title: Breakthrough Moments
+          children:
+            - file: 2-learning/breakthrough/understanding-dawns.md
+            - file: 2-learning/breakthrough/completing-challenge.md
+            - file: 2-learning/breakthrough/first-compile-and-run.md
+            - file: 2-learning/breakthrough/solving-beyond-you.md
+            - file: 2-learning/breakthrough/unexpected-connection.md
+            - file: 2-learning/breakthrough/why-it-works.md
 
-    #     - title: Daily Work
-    #       children:
-    #         - file: prayers/learning/daily-work/late-night-coding.md
-    #           title: Beginning a late-night coding session
-    #         - file: prayers/learning/daily-work/opening-laptop.md
-    #           title: Opening your laptop to work on an assignment
-    #         - file: prayers/learning/daily-work/office-hours.md
-    #           title: Starting office hours visit (when you need help)
-    #         - file: prayers/learning/daily-work/asking-question.md
-    #           title: Before asking a question in class
-    #         - file: prayers/learning/daily-work/reviewing-notes.md
-    #           title: Reviewing notes after a lecture
-    #         - file: prayers/learning/daily-work/study-group.md
-    #           title: During a study group session
-    #         - file: prayers/learning/daily-work/reading-documentation.md
-    #           title: Reading documentation or Stack Overflow for help
+        - title: Daily Work
+          children:
+            - file: 2-learning/daily-work/late-night-coding.md
+            - file: 2-learning/daily-work/opening-laptop.md
+            - file: 2-learning/daily-work/office-hours.md
+            - file: 2-learning/daily-work/asking-question.md
+            - file: 2-learning/daily-work/reviewing-notes.md
+            - file: 2-learning/daily-work/study-group.md
+            - file: 2-learning/daily-work/reading-documentation.md
 
-    #     - title: Assessment
-    #       children:
-    #         - file: prayers/learning/assessment/before-exam.md
-    #           title: Before taking an exam
-    #         - file: prayers/learning/assessment/during-exam.md
-    #           title: During an exam (when stuck or panicking)
-    #         - file: prayers/learning/assessment/disappointing-grade.md
-    #           title: After receiving a disappointing grade
-    #         - file: prayers/learning/assessment/encouraging-grade.md
-    #           title: After receiving an encouraging grade
-    #         - file: prayers/learning/assessment/waiting-for-grades.md
-    #           title: Waiting for grades to be posted
-    #         - file: prayers/learning/assessment/code-review.md
-    #           title: Before a code review or presentation
-    #         - file: prayers/learning/assessment/technical-interview.md
-    #           title: During a technical interview
+        - title: Assessment
+          children:
+            - file: 2-learning/assessment/before-exam.md
+            - file: 2-learning/assessment/during-exam.md
+            - file: 2-learning/assessment/disappointing-grade.md
+            - file: 2-learning/assessment/encouraging-grade.md
+            - file: 2-learning/assessment/waiting-for-grades.md
+            - file: 2-learning/assessment/code-review.md
+            - file: 2-learning/assessment/technical-interview.md
 
     # - title: III. The Work of Teaching (For Professors)
     #   children:
