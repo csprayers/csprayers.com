@@ -1,0 +1,13 @@
+---
+title: 🔴 Opening your laptop to work on an assignment
+---
+
+# Opening your laptop to work on an assignment
+
+*Starting another assignment*
+
+---
+
+**This prayer is waiting to be written.**
+
+Would you like to contribute? [Submit a pull request](https://github.com/yourusername/csprayers.com/edit/main/prayers/learning/daily-work/opening-laptop.md) to add your prayer here.
