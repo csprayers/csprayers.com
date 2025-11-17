@@ -112,100 +112,61 @@ project:
             - file: 2-learning/assessment/code-review.md
             - file: 2-learning/assessment/technical-interview.md
 
-    # - title: III. The Work of Teaching (For Professors)
-    #   children:
-    #     - title: Preparation
-    #       children:
-    #         - file: prayers/teaching/preparation/planning-new-course.md
-    #           title: Planning a new course
-    #         - file: prayers/teaching/preparation/writing-syllabus.md
-    #           title: Writing a syllabus
-    #         - file: prayers/teaching/preparation/preparing-lecture.md
-    #           title: Preparing a lecture
-    #         - file: prayers/teaching/preparation/creating-assignment.md
-    #           title: Creating an assignment or project
-    #         - file: prayers/teaching/preparation/designing-exam.md
-    #           title: Designing an exam
-    #         - file: prayers/teaching/preparation/choosing-topics.md
-    #           title: Choosing which topics to include/exclude
-    #         - file: prayers/teaching/preparation/updating-materials.md
-    #           title: Updating course materials for a new semester
-    #         - file: prayers/teaching/preparation/learning-to-teach.md
-    #           title: Learning new material to teach it
+    - title: III. The Work of Teaching (For Professors)
+      children:
+        - title: Preparation
+          children:
+            - file: 3-teaching/preparation/planning-new-course.md
+            - file: 3-teaching/preparation/writing-syllabus.md
+            - file: 3-teaching/preparation/preparing-lecture.md
+            - file: 3-teaching/preparation/creating-assignment.md
+            - file: 3-teaching/preparation/designing-exam.md
+            - file: 3-teaching/preparation/choosing-topics.md
+            - file: 3-teaching/preparation/updating-materials.md
+            - file: 3-teaching/preparation/learning-to-teach.md
 
-    #     - title: In the Classroom
-    #       children:
-    #         - file: prayers/teaching/classroom/before-class-begins.md
-    #           title: Before class begins (those few minutes alone)
-    #         - file: prayers/teaching/classroom/starting-lecture.md
-    #           title: Starting a lecture
-    #         - file: prayers/teaching/classroom/students-not-following.md
-    #           title: When you realize students aren't following
-    #         - file: prayers/teaching/classroom/question-unknown-answer.md
-    #           title: Answering a question you don't know the answer to
-    #         - file: prayers/teaching/classroom/teaching-twentieth-time.md
-    #           title: Teaching the same material for the 20th time
-    #         - file: prayers/teaching/classroom/students-engaged.md
-    #           title: When students are particularly engaged
-    #         - file: prayers/teaching/classroom/students-checked-out.md
-    #           title: When students seem checked out
-    #         - file: prayers/teaching/classroom/live-coding.md
-    #           title: Demonstrating live coding (and hoping it works)
-    #         - file: prayers/teaching/classroom/last-minutes.md
-    #           title: The last few minutes of class
+        - title: In the Classroom
+          children:
+            - file: 3-teaching/classroom/before-class-begins.md
+            - file: 3-teaching/classroom/starting-lecture.md
+            - file: 3-teaching/classroom/students-not-following.md
+            - file: 3-teaching/classroom/question-unknown-answer.md
+            - file: 3-teaching/classroom/teaching-twentieth-time.md
+            - file: 3-teaching/classroom/students-engaged.md
+            - file: 3-teaching/classroom/students-checked-out.md
+            - file: 3-teaching/classroom/live-coding.md
+            - file: 3-teaching/classroom/last-minutes.md
 
-    #     - title: One-on-One Moments
-    #       children:
-    #         - file: prayers/teaching/one-on-one/before-office-hours.md
-    #           title: Before holding office hours
-    #         - file: prayers/teaching/one-on-one/struggling-student.md
-    #           title: During a difficult conversation with a struggling student
-    #         - file: prayers/teaching/one-on-one/career-advice.md
-    #           title: When a student comes seeking career advice
-    #         - file: prayers/teaching/one-on-one/recommendation-letter.md
-    #           title: Writing a letter of recommendation
-    #         - file: prayers/teaching/one-on-one/mentoring-research.md
-    #           title: Mentoring a student's research project
-    #         - file: prayers/teaching/one-on-one/academic-dishonesty.md
-    #           title: When you must address academic dishonesty
+        - title: One-on-One Moments
+          children:
+            - file: 3-teaching/one-on-one/before-office-hours.md
+            - file: 3-teaching/one-on-one/struggling-student.md
+            - file: 3-teaching/one-on-one/career-advice.md
+            - file: 3-teaching/one-on-one/recommendation-letter.md
+            - file: 3-teaching/one-on-one/mentoring-research.md
+            - file: 3-teaching/one-on-one/academic-dishonesty.md
 
-    #     - title: Assessment & Feedback
-    #       children:
-    #         - file: prayers/teaching/assessment/before-grading.md
-    #           title: Before grading a large stack of assignments
-    #         - file: prayers/teaching/assessment/while-grading.md
-    #           title: While grading (when your eyes grow weary)
-    #         - file: prayers/teaching/assessment/writing-feedback.md
-    #           title: Writing feedback that is both honest and encouraging
-    #         - file: prayers/teaching/assessment/calculating-grades.md
-    #           title: Calculating final grades
-    #         - file: prayers/teaching/assessment/failing-grade.md
-    #           title: When you must assign a failing grade
-    #         - file: prayers/teaching/assessment/exceptional-work.md
-    #           title: When you witness exceptional work
+        - title: Assessment & Feedback
+          children:
+            - file: 3-teaching/assessment/before-grading.md
+            - file: 3-teaching/assessment/while-grading.md
+            - file: 3-teaching/assessment/writing-feedback.md
+            - file: 3-teaching/assessment/calculating-grades.md
+            - file: 3-teaching/assessment/failing-grade.md
+            - file: 3-teaching/assessment/exceptional-work.md
 
-    #     - title: Professional Life
-    #       children:
-    #         - file: prayers/teaching/professional/faculty-meeting.md
-    #           title: Preparing for a faculty meeting
-    #         - file: prayers/teaching/professional/tenure-review.md
-    #           title: Before a tenure review
-    #         - file: prayers/teaching/professional/submitting-paper.md
-    #           title: Submitting a research paper
-    #         - file: prayers/teaching/professional/paper-rejection.md
-    #           title: Receiving a paper rejection
-    #         - file: prayers/teaching/professional/presenting-conference.md
-    #           title: Before presenting at a conference
-    #         - file: prayers/teaching/professional/new-research-project.md
-    #           title: Starting a new research project
-    #         - file: prayers/teaching/professional/research-dead-end.md
-    #           title: When research hits a dead end
-    #         - file: prayers/teaching/professional/applying-for-grants.md
-    #           title: Applying for grants
-    #         - file: prayers/teaching/professional/reviewing-papers.md
-    #           title: Reviewing others' papers
-    #         - file: prayers/teaching/professional/balancing-teaching-research.md
-    #           title: Balancing teaching and research
+        - title: Professional Life
+          children:
+            - file: 3-teaching/professional/faculty-meeting.md
+            - file: 3-teaching/professional/tenure-review.md
+            - file: 3-teaching/professional/submitting-paper.md
+            - file: 3-teaching/professional/paper-rejection.md
+            - file: 3-teaching/professional/presenting-conference.md
+            - file: 3-teaching/professional/new-research-project.md
+            - file: 3-teaching/professional/research-dead-end.md
+            - file: 3-teaching/professional/applying-for-grants.md
+            - file: 3-teaching/professional/reviewing-papers.md
+            - file: 3-teaching/professional/balancing-teaching-research.md
 
     # - title: IV. Collaboration & Community
     #   children:
