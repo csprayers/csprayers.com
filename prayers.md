@@ -544,14 +544,38 @@ This collection offers prayers for every season, struggle, and celebration in th
 
 ## XIII. Special Occasions
 
-### [Celebrations](prayers/occasions/celebrations/index.md)
-Hackathons, publications, theses, and first job offers
+### Celebrations
 
-### [Commemorations](prayers/occasions/commemorations/index.md)
-Honoring pioneers and CS history
+*Hackathons, publications, theses, and first job offers*
 
-### [Lament](prayers/occasions/lament/index.md)
-When technology harms and innovation outpaces wisdom
+- 🔴 [Defending Thesis](13-occasions/celebrations/defending-thesis.md)
+- 🔴 [Department Celebrations](13-occasions/celebrations/department-celebrations.md)
+- 🔴 [First Hello World](13-occasions/celebrations/first-hello-world.md)
+- 🔴 [First Job Offer](13-occasions/celebrations/first-job-offer.md)
+- 🔴 [Launching Product](13-occasions/celebrations/launching-product.md)
+- 🔴 [Publishing First Paper](13-occasions/celebrations/publishing-first-paper.md)
+- 🔴 [Winning Hackathon](13-occasions/celebrations/winning-hackathon.md)
+
+### Commemorations
+
+*Honoring pioneers and CS history*
+
+- 🔴 [CS Pioneer Passes](13-occasions/commemorations/cs-pioneer-passes.md)
+- 🔴 [History Of Computing](13-occasions/commemorations/history-of-computing.md)
+- 🔴 [Honoring Those Before](13-occasions/commemorations/honoring-those-before.md)
+- 🔴 [Key Moments](13-occasions/commemorations/key-moments.md)
+
+### Lament
+
+*When technology harms and innovation outpaces wisdom*
+
+- 🔴 [AI Ethics Failures](13-occasions/lament/ai-ethics-failures.md)
+- 🔴 [Algorithms Perpetuate Injustice](13-occasions/lament/algorithms-perpetuate-injustice.md)
+- 🔴 [Dark Side Social Media](13-occasions/lament/dark-side-social-media.md)
+- 🔴 [Data Breaches](13-occasions/lament/data-breaches.md)
+- 🔴 [Innovation Outpaces Wisdom](13-occasions/lament/innovation-outpaces-wisdom.md)
+- 🔴 [Tech Used For Harm](13-occasions/lament/tech-used-for-harm.md)
+- 🔴 [Techs Role In Isolation](13-occasions/lament/techs-role-in-isolation.md)
 
 ---
 

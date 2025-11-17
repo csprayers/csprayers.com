@@ -447,31 +447,31 @@ project:
             - file: 12-mind/integration/science-humanities.md
             - file: 12-mind/integration/tech-human-flourishing.md
 
-    # - title: XIII. Special Occasions
-    #   children:
-    #     - title: Celebrations
-    #       children:
-    #         - file: 13-occasions/celebrations/winning-hackathon.md
-    #         - file: 13-occasions/celebrations/publishing-first-paper.md
-    #         - file: 13-occasions/celebrations/defending-thesis.md
-    #         - file: 13-occasions/celebrations/first-job-offer.md
-    #         - file: 13-occasions/celebrations/launching-product.md
-    #         - file: 13-occasions/celebrations/first-hello-world.md
-    #         - file: 13-occasions/celebrations/department-celebrations.md
+    - title: XIII. Special Occasions
+      children:
+        - title: Celebrations
+          children:
+            - file: 13-occasions/celebrations/winning-hackathon.md
+            - file: 13-occasions/celebrations/publishing-first-paper.md
+            - file: 13-occasions/celebrations/defending-thesis.md
+            - file: 13-occasions/celebrations/first-job-offer.md
+            - file: 13-occasions/celebrations/launching-product.md
+            - file: 13-occasions/celebrations/first-hello-world.md
+            - file: 13-occasions/celebrations/department-celebrations.md
 
-    #     - title: Commemorations
-    #       children:
-    #         - file: 13-occasions/commemorations/cs-pioneer-passes.md
-    #         - file: 13-occasions/commemorations/honoring-those-before.md
-    #         - file: 13-occasions/commemorations/history-of-computing.md
-    #         - file: 13-occasions/commemorations/key-moments.md
+        - title: Commemorations
+          children:
+            - file: 13-occasions/commemorations/cs-pioneer-passes.md
+            - file: 13-occasions/commemorations/honoring-those-before.md
+            - file: 13-occasions/commemorations/history-of-computing.md
+            - file: 13-occasions/commemorations/key-moments.md
 
-    #     - title: Lament
-    #       children:
-    #         - file: 13-occasions/lament/tech-used-for-harm.md
-    #         - file: 13-occasions/lament/ai-ethics-failures.md
-    #         - file: 13-occasions/lament/data-breaches.md
-    #         - file: 13-occasions/lament/algorithms-perpetuate-injustice.md
-    #         - file: 13-occasions/lament/techs-role-in-isolation.md
-    #         - file: 13-occasions/lament/dark-side-social-media.md
-    #         - file: 13-occasions/lament/innovation-outpaces-wisdom.md
+        - title: Lament
+          children:
+            - file: 13-occasions/lament/tech-used-for-harm.md
+            - file: 13-occasions/lament/ai-ethics-failures.md
+            - file: 13-occasions/lament/data-breaches.md
+            - file: 13-occasions/lament/algorithms-perpetuate-injustice.md
+            - file: 13-occasions/lament/techs-role-in-isolation.md
+            - file: 13-occasions/lament/dark-side-social-media.md
+            - file: 13-occasions/lament/innovation-outpaces-wisdom.md
