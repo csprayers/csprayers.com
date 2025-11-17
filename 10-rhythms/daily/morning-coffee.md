@@ -1,5 +1,7 @@
 ---
 title: 🟡 Morning coffee before coding
+author: Eric Araujo
+date: 2025-11-12
 ---
 
 *Starting the day*
