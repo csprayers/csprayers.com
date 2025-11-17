@@ -10,4 +10,4 @@ title: Designing systems that affect vulnerable populations
 
 **This prayer is waiting to be written.**
 
-Would you like to contribute? [Submit a pull request](https://github.com/yourusername/csprayers.com/edit/main/prayers/formation/wisdom/vulnerable-populations.md) to add your prayer here.
+Would you like to contribute? [Submit a pull request](https://github.com/csprayers/csprayers.com/edit/main/7-formation/wisdom/vulnerable-populations.md) to add your prayer here.

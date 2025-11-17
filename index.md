@@ -2,7 +2,10 @@
 title: Start Here!
 ---
 
-Welcome to a collection of prayers written for those who study, teach, and practice the craft of computing.
+```{figure} front.png
+```
+
+Welcome to a collection of prayers written for those who study, teach, and practice the craft of computing. I am Eric Araujo, professor of Computer Science at Calvin University and the curator of this collection. You are invited to explore, use, and contribute to these prayers as you seek to integrate your faith with your work in computer science.
 
 ## About This Collection
 
@@ -12,7 +15,7 @@ Whether you're starting a new semester, debugging stubborn code, wrestling with 
 
 ## Browse the Prayers
 
-Explore our collection of [Sample Prayers](prayers.md), including:
+Explore our [collection of Prayers](prayers.md), including:
 
 - [A Prayer for the Beginning of a Semester](prayers/academic-year/beginnings/first-day-student.md) - For professors and students as a new term begins
 - [A Prayer Before Debugging](prayers/programming/debugging/hunting-bug.md) - When the code will not run, and the error is hidden
