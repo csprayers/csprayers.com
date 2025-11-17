@@ -341,77 +341,48 @@ project:
             - file: 8-domains/mathematical/graph-theory.md
             - file: 8-domains/mathematical/cryptography.md
 
-    # - title: IX. Technology & Tools
-    #   children:
-    #     - file: prayers/tools/first-git.md
-    #       title: Using version control (Git) for the first time
-    #     - file: prayers/tools/dev-environment.md
-    #       title: Setting up a development environment
-    #     - file: prayers/tools/command-line.md
-    #       title: Learning the command line
-    #     - file: prayers/tools/working-in-terminal.md
-    #       title: Working in the terminal
-    #     - file: prayers/tools/using-ide.md
-    #       title: Using an IDE effectively
-    #     - file: prayers/tools/keyboard-shortcuts.md
-    #       title: Mastering keyboard shortcuts
-    #     - file: prayers/tools/servers-down.md
-    #       title: When servers go down
-    #     - file: prayers/tools/database-corruption.md
-    #       title: Database corruption
-    #     - file: prayers/tools/lost-work.md
-    #       title: Lost work (before learning to commit often)
-    #     - file: prayers/tools/backup-recovery.md
-    #       title: Backup and recovery
-    #     - file: prayers/tools/cloud-computing.md
-    #       title: Cloud computing decisions
+    - title: IX. Technology & Tools
+      children:
+        - file: 9-tools/first-git.md
+        - file: 9-tools/dev-environment.md
+        - file: 9-tools/command-line.md
+        - file: 9-tools/working-in-terminal.md
+        - file: 9-tools/using-ide.md
+        - file: 9-tools/keyboard-shortcuts.md
+        - file: 9-tools/servers-down.md
+        - file: 9-tools/database-corruption.md
+        - file: 9-tools/lost-work.md
+        - file: 9-tools/backup-recovery.md
+        - file: 9-tools/cloud-computing.md
 
-    # - title: X. Seasons & Daily Rhythms
-    #   children:
-    #     - title: Daily Moments
-    #       children:
-    #         - file: prayers/rhythms/daily/morning-coffee.md
-    #           title: Morning coffee before coding
-    #         - file: prayers/rhythms/daily/afternoon-slump.md
-    #           title: The afternoon slump
-    #         - file: prayers/rhythms/daily/late-night-coding.md
-    #           title: Late night coding sessions
-    #         - file: prayers/rhythms/daily/walking-away.md
-    #           title: Walking away from a problem
-    #         - file: prayers/rhythms/daily/returning-fresh.md
-    #           title: Returning to a problem with fresh eyes
-    #         - file: prayers/rhythms/daily/commute-to-campus.md
-    #           title: The commute to campus
-    #         - file: prayers/rhythms/daily/arriving-lab.md
-    #           title: Arriving at the lab or office
-    #         - file: prayers/rhythms/daily/closing-laptop.md
-    #           title: Closing your laptop for the day
+    - title: X. Seasons & Daily Rhythms
+      children:
+        - title: Daily Moments
+          children:
+            - file: 10-rhythms/daily/morning-coffee.md
+            - file: 10-rhythms/daily/afternoon-slump.md
+            - file: 10-rhythms/daily/late-night-coding.md
+            - file: 10-rhythms/daily/walking-away.md
+            - file: 10-rhythms/daily/returning-fresh.md
+            - file: 10-rhythms/daily/commute-to-campus.md
+            - file: 10-rhythms/daily/arriving-lab.md
+            - file: 10-rhythms/daily/closing-laptop.md
 
-    #     - title: Weekly Rhythms
-    #       children:
-    #         - file: prayers/rhythms/weekly/monday-morning.md
-    #           title: Monday morning (the week begins)
-    #         - file: prayers/rhythms/weekly/wednesday-hump.md
-    #           title: Wednesday (the hump)
-    #         - file: prayers/rhythms/weekly/friday-afternoon.md
-    #           title: Friday afternoon (the week ends)
-    #         - file: prayers/rhythms/weekly/weekend-work.md
-    #           title: Weekend work (when it's necessary)
-    #         - file: prayers/rhythms/weekly/weekend-rest.md
-    #           title: Weekend rest (stepping away)
+        - title: Weekly Rhythms
+          children:
+            - file: 10-rhythms/weekly/monday-morning.md
+            - file: 10-rhythms/weekly/wednesday-hump.md
+            - file: 10-rhythms/weekly/friday-afternoon.md
+            - file: 10-rhythms/weekly/weekend-work.md
+            - file: 10-rhythms/weekly/weekend-rest.md
 
-    #     - title: Seasonal Moments
-    #       children:
-    #         - file: prayers/rhythms/seasonal/fall-semester-energy.md
-    #           title: Fall semester energy
-    #         - file: prayers/rhythms/seasonal/winter-darkness.md
-    #           title: Winter darkness and cold
-    #         - file: prayers/rhythms/seasonal/spring-renewal.md
-    #           title: Spring renewal
-    #         - file: prayers/rhythms/seasonal/summer-research.md
-    #           title: Summer research or internships
-    #         - file: prayers/rhythms/seasonal/summer-rest.md
-    #           title: Summer rest
+        - title: Seasonal Moments
+          children:
+            - file: 10-rhythms/seasonal/fall-semester-energy.md
+            - file: 10-rhythms/seasonal/winter-darkness.md
+            - file: 10-rhythms/seasonal/spring-renewal.md
+            - file: 10-rhythms/seasonal/summer-research.md
+            - file: 10-rhythms/seasonal/summer-rest.md
 
     # - title: XI. Relationships & Humanity
     #   children:

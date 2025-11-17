@@ -406,21 +406,58 @@ This collection offers prayers for every season, struggle, and celebration in th
 
 ---
 
-## [IX. Technology & Tools](prayers/tools/index.md)
-Git, IDEs, terminals, servers, and infrastructure
+## IX. Technology & Tools
+
+*Git, IDEs, terminals, servers, and infrastructure*
+
+- 🔴 [Backup Recovery](9-tools/backup-recovery.md)
+- 🔴 [Cloud Computing](9-tools/cloud-computing.md)
+- 🔴 [Command Line](9-tools/command-line.md)
+- 🔴 [Database Corruption](9-tools/database-corruption.md)
+- 🔴 [Dev Environment](9-tools/dev-environment.md)
+- 🔴 [First Git](9-tools/first-git.md)
+- 🔴 [Keyboard Shortcuts](9-tools/keyboard-shortcuts.md)
+- 🔴 [Lost Work](9-tools/lost-work.md)
+- 🔴 [Servers Down](9-tools/servers-down.md)
+- 🔴 [Using Ide](9-tools/using-ide.md)
+- 🔴 [Working In Terminal](9-tools/working-in-terminal.md)
 
 ---
 
-## [X. Seasons & Daily Rhythms](prayers/rhythms/index.md)
+## X. Seasons & Daily Rhythms
 
-### [Daily Moments](prayers/rhythms/daily/index.md)
-Morning coffee, afternoon slumps, and closing your laptop
+### Daily Moments
 
-### [Weekly Rhythms](prayers/rhythms/weekly/index.md)
-Monday beginnings, Wednesday humps, Friday endings
+*Morning coffee, afternoon slumps, and closing your laptop*
 
-### [Seasonal Moments](prayers/rhythms/seasonal/index.md)
-Fall energy, winter darkness, spring renewal, summer work
+- 🔴 [Afternoon Slump](10-rhythms/daily/afternoon-slump.md)
+- 🔴 [Arriving Lab](10-rhythms/daily/arriving-lab.md)
+- 🔴 [Closing Laptop](10-rhythms/daily/closing-laptop.md)
+- 🔴 [Commute To Campus](10-rhythms/daily/commute-to-campus.md)
+- 🔴 [Late Night Coding](10-rhythms/daily/late-night-coding.md)
+- 🟡 [Morning Coffee](10-rhythms/daily/morning-coffee.md)
+- 🔴 [Returning Fresh](10-rhythms/daily/returning-fresh.md)
+- 🔴 [Walking Away](10-rhythms/daily/walking-away.md)
+
+### Weekly Rhythms
+
+*Monday beginnings, Wednesday humps, Friday endings*
+
+- 🔴 [Friday Afternoon](10-rhythms/weekly/friday-afternoon.md)
+- 🔴 [Monday Morning](10-rhythms/weekly/monday-morning.md)
+- 🔴 [Wednesday Hump](10-rhythms/weekly/wednesday-hump.md)
+- 🔴 [Weekend Rest](10-rhythms/weekly/weekend-rest.md)
+- 🔴 [Weekend Work](10-rhythms/weekly/weekend-work.md)
+
+### Seasonal Moments
+
+*Fall energy, winter darkness, spring renewal, summer work*
+
+- 🔴 [Fall Semester Energy](10-rhythms/seasonal/fall-semester-energy.md)
+- 🔴 [Spring Renewal](10-rhythms/seasonal/spring-renewal.md)
+- 🔴 [Summer Research](10-rhythms/seasonal/summer-research.md)
+- 🔴 [Summer Rest](10-rhythms/seasonal/summer-rest.md)
+- 🔴 [Winter Darkness](10-rhythms/seasonal/winter-darkness.md)
 
 ---
 
