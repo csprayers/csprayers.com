@@ -1,9 +1,4 @@
----
 title: Debugging & Problem-Solving
----
-
-# Debugging & Problem-Solving
-
 Prayers for hunting bugs, reading errors, and finding solutions
 
 ---

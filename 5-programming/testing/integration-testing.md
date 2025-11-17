@@ -1,7 +1,10 @@
+---
 title: Integration testing
+---
 
 *Testing the whole system*
 
+---
 
 **This prayer is waiting to be written.**
 

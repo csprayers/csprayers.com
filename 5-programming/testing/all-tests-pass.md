@@ -1,7 +1,10 @@
+---
 title: When all tests pass (joy!)
+---
 
 *Joy and relief*
 
+---
 
 **This prayer is waiting to be written.**
 

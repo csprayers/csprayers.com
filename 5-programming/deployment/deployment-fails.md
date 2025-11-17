@@ -1,7 +1,10 @@
+---
 title: When deployment fails
+---
 
 *Rollback and recovery*
 
+---
 
 **This prayer is waiting to be written.**
 

@@ -1,7 +1,10 @@
+---
 title: Monitoring a live system
+---
 
 *Keeping watch*
 
+---
 
 **This prayer is waiting to be written.**
 

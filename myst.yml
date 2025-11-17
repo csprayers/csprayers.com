@@ -168,60 +168,38 @@ project:
             - file: 3-teaching/professional/reviewing-papers.md
             - file: 3-teaching/professional/balancing-teaching-research.md
 
-    # - title: IV. Collaboration & Community
-    #   children:
-    #     - title: Working Together
-    #       children:
-    #         - file: prayers/collaboration/working-together/beginning-group-project.md
-    #           title: Beginning a group project (with hope)
-    #         - file: prayers/collaboration/working-together/group-conflict.md
-    #           title: During a group project (when conflict arises)
-    #         - file: prayers/collaboration/working-together/pair-programming.md
-    #           title: Pair programming
-    #         - file: prayers/collaboration/working-together/giving-code-review.md
-    #           title: Code review (giving feedback)
-    #         - file: prayers/collaboration/working-together/receiving-code-review.md
-    #           title: Code review (receiving feedback)
-    #         - file: prayers/collaboration/working-together/first-open-source.md
-    #           title: Contributing to open source for the first time
-    #         - file: prayers/collaboration/working-together/teammate-not-contributing.md
-    #           title: When your teammate isn't pulling their weight
-    #         - file: prayers/collaboration/working-together/you-not-contributing.md
-    #           title: When you're not pulling your weight
+    - title: IV. Collaboration & Community
+      children:
+        - title: Working Together
+          children:
+            - file: 4-collaboration/working-together/beginning-group-project.md
+            - file: 4-collaboration/working-together/group-conflict.md
+            - file: 4-collaboration/working-together/pair-programming.md
+            - file: 4-collaboration/working-together/giving-code-review.md
+            - file: 4-collaboration/working-together/receiving-code-review.md
+            - file: 4-collaboration/working-together/first-open-source.md
+            - file: 4-collaboration/working-together/teammate-not-contributing.md
+            - file: 4-collaboration/working-together/you-not-contributing.md
 
-    #     - title: Academic Community
-    #       children:
-    #         - file: prayers/collaboration/community/department-meeting.md
-    #           title: Before a department meeting
-    #         - file: prayers/collaboration/community/faculty-hiring.md
-    #           title: During faculty hiring decisions
-    #         - file: prayers/collaboration/community/welcoming-colleague.md
-    #           title: Welcoming a new colleague
-    #         - file: prayers/collaboration/community/colleague-leaves.md
-    #           title: When a colleague leaves or retires
-    #         - file: prayers/collaboration/community/cs-conference.md
-    #           title: At a CS conference or symposium
-    #         - file: prayers/collaboration/community/hackathon.md
-    #           title: During a hackathon
-    #         - file: prayers/collaboration/community/grace-hopper.md
-    #           title: At Grace Hopper or similar conference
-    #         - file: prayers/collaboration/community/competitive-community.md
-    #           title: When your research community feels competitive rather than collegial
+        - title: Academic Community
+          children:
+            - file: 4-collaboration/community/department-meeting.md
+            - file: 4-collaboration/community/faculty-hiring.md
+            - file: 4-collaboration/community/welcoming-colleague.md
+            - file: 4-collaboration/community/colleague-leaves.md
+            - file: 4-collaboration/community/cs-conference.md
+            - file: 4-collaboration/community/hackathon.md
+            - file: 4-collaboration/community/grace-hopper.md
+            - file: 4-collaboration/community/competitive-community.md
 
-    #     - title: Mentorship
-    #       children:
-    #         - file: prayers/collaboration/mentorship/taking-advisee.md
-    #           title: Taking on a new advisee
-    #         - file: prayers/collaboration/mentorship/assigned-advisor.md
-    #           title: Being assigned an advisor
-    #         - file: prayers/collaboration/mentorship/mentoring-clicks.md
-    #           title: When mentor and mentee click
-    #         - file: prayers/collaboration/mentorship/difficult-mentoring.md
-    #           title: When the mentoring relationship is difficult
-    #         - file: prayers/collaboration/mentorship/mentee-surpasses.md
-    #           title: Watching a mentee surpass you
-    #         - file: prayers/collaboration/mentorship/goodbye-to-advisee.md
-    #           title: Saying goodbye to a graduating advisee
+        - title: Mentorship
+          children:
+            - file: 4-collaboration/mentorship/taking-advisee.md
+            - file: 4-collaboration/mentorship/assigned-advisor.md
+            - file: 4-collaboration/mentorship/mentoring-clicks.md
+            - file: 4-collaboration/mentorship/difficult-mentoring.md
+            - file: 4-collaboration/mentorship/mentee-surpasses.md
+            - file: 4-collaboration/mentorship/goodbye-to-advisee.md
 
     # - title: V. The Practice of Programming
     #   children:

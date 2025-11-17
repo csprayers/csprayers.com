@@ -1,9 +1,4 @@
----
 title: The Practice of Programming
----
-
-# The Practice of Programming
-
 Prayers for the craft of writing code
 
 ---

@@ -1,7 +1,10 @@
+---
 title: Writing tests
+---
 
 *Ensuring correctness*
 
+---
 
 **This prayer is waiting to be written.**
 

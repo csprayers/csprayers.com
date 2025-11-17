@@ -1,9 +1,4 @@
----
 title: Creation
----
-
-# Creation
-
 Prayers for starting projects, designing systems, and creative flow
 
 ---

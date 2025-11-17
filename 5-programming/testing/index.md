@@ -1,9 +1,4 @@
----
 title: Testing
----
-
-# Testing
-
 Prayers for writing tests, passes and failures
 
 ---

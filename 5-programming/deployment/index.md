@@ -1,9 +1,4 @@
----
 title: Deployment & Maintenance
----
-
-# Deployment & Maintenance
-
 Prayers for production, monitoring, and long-term care
 
 ---
