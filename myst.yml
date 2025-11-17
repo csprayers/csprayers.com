@@ -276,113 +276,70 @@ project:
             - file: 6-struggle/ethical/innovation-responsibility.md
             - file: 6-struggle/ethical/asked-to-build-wrong.md
 
-    # - title: VII. Ethical & Vocational Formation
-    #   children:
-    #     - title: Wisdom & Discernment
-    #       children:
-    #         - file: prayers/formation/wisdom/architectural-decisions.md
-    #           title: Before making architectural decisions
-    #         - file: prayers/formation/wisdom/accessibility.md
-    #           title: Considering accessibility in design
-    #         - file: prayers/formation/wisdom/algorithmic-bias.md
-    #           title: Thinking about algorithmic bias
-    #         - file: prayers/formation/wisdom/data-privacy.md
-    #           title: Data privacy decisions
-    #         - file: prayers/formation/wisdom/deploying-ai.md
-    #           title: Before deploying AI systems
-    #         - file: prayers/formation/wisdom/vulnerable-populations.md
-    #           title: Designing systems that affect vulnerable populations
-    #         - file: prayers/formation/wisdom/profit-vs-ethics.md
-    #           title: When profit and ethics conflict
-    #         - file: prayers/formation/wisdom/environmental-impact.md
-    #           title: Considering environmental impact of computing
+    - title: VII. Ethical & Vocational Formation
+      children:
+        - title: Wisdom & Discernment
+          children:
+            - file: 7-formation/wisdom/architectural-decisions.md
+            - file: 7-formation/wisdom/accessibility.md
+            - file: 7-formation/wisdom/algorithmic-bias.md
+            - file: 7-formation/wisdom/data-privacy.md
+            - file: 7-formation/wisdom/deploying-ai.md
+            - file: 7-formation/wisdom/vulnerable-populations.md
+            - file: 7-formation/wisdom/profit-vs-ethics.md
+            - file: 7-formation/wisdom/environmental-impact.md
 
-    #     - title: Vocation & Calling
-    #       children:
-    #         - file: prayers/formation/vocation/discerning-cs.md
-    #           title: Discerning whether to pursue CS
-    #         - file: prayers/formation/vocation/choosing-specialization.md
-    #           title: Choosing a specialization
-    #         - file: prayers/formation/vocation/industry-or-academia.md
-    #           title: Deciding between industry and academia
-    #         - file: prayers/formation/vocation/competing-job-offers.md
-    #           title: Choosing between competing job offers
-    #         - file: prayers/formation/vocation/is-this-calling.md
-    #           title: When you realize CS is/isn't your calling
-    #         - file: prayers/formation/vocation/skills-serve-others.md
-    #           title: Considering how your skills serve others
-    #         - file: prayers/formation/vocation/money-or-meaning.md
-    #           title: "When you must decide: money or meaning?"
+        - title: Vocation & Calling
+          children:
+            - file: 7-formation/vocation/discerning-cs.md
+            - file: 7-formation/vocation/choosing-specialization.md
+            - file: 7-formation/vocation/industry-or-academia.md
+            - file: 7-formation/vocation/competing-job-offers.md
+            - file: 7-formation/vocation/is-this-calling.md
+            - file: 7-formation/vocation/skills-serve-others.md
+            - file: 7-formation/vocation/money-or-meaning.md
 
-    #     - title: Character Formation
-    #       children:
-    #         - file: prayers/formation/character/humbled-by-unknowing.md
-    #           title: When humbled by what you don't know
-    #         - file: prayers/formation/character/learning-from-mistakes.md
-    #           title: Learning from mistakes
-    #         - file: prayers/formation/character/receiving-criticism.md
-    #           title: Receiving criticism with grace
-    #         - file: prayers/formation/character/patience-through-debugging.md
-    #           title: Growing in patience through debugging
-    #         - file: prayers/formation/character/perseverance.md
-    #           title: Developing perseverance through difficulty
-    #         - file: prayers/formation/character/humility-in-collaboration.md
-    #           title: Practicing humility in collaboration
+        - title: Character Formation
+          children:
+            - file: 7-formation/character/humbled-by-unknowing.md
+            - file: 7-formation/character/learning-from-mistakes.md
+            - file: 7-formation/character/receiving-criticism.md
+            - file: 7-formation/character/patience-through-debugging.md
+            - file: 7-formation/character/perseverance.md
+            - file: 7-formation/character/humility-in-collaboration.md
 
-    # - title: VIII. Specific CS Domains & Concepts
-    #   children:
-    #     - title: Core Areas
-    #       children:
-    #         - file: prayers/domains/core-areas/data-structures.md
-    #           title: Learning data structures
-    #         - file: prayers/domains/core-areas/algorithms.md
-    #           title: Understanding algorithms
-    #         - file: prayers/domains/core-areas/computer-architecture.md
-    #           title: Studying computer architecture
-    #         - file: prayers/domains/core-areas/theory-of-computation.md
-    #           title: Learning theory of computation
-    #         - file: prayers/domains/core-areas/database-design.md
-    #           title: Database design
-    #         - file: prayers/domains/core-areas/operating-systems.md
-    #           title: Operating systems
-    #         - file: prayers/domains/core-areas/networks.md
-    #           title: Networks and distributed systems
-    #         - file: prayers/domains/core-areas/compilers.md
-    #           title: Compilers and interpreters
+    - title: VIII. Specific CS Domains & Concepts
+      children:
+        - title: Core Areas
+          children:
+            - file: 8-domains/core-areas/data-structures.md
+            - file: 8-domains/core-areas/algorithms.md
+            - file: 8-domains/core-areas/computer-architecture.md
+            - file: 8-domains/core-areas/theory-of-computation.md
+            - file: 8-domains/core-areas/database-design.md
+            - file: 8-domains/core-areas/operating-systems.md
+            - file: 8-domains/core-areas/networks.md
+            - file: 8-domains/core-areas/compilers.md
 
-    #     - title: Specialized Fields
-    #       children:
-    #         - file: prayers/domains/specialized/beginning-ai-ml.md
-    #           title: Beginning AI/ML studies
-    #         - file: prayers/domains/specialized/first-neural-network.md
-    #           title: Training your first neural network
-    #         - file: prayers/domains/specialized/large-language-models.md
-    #           title: Working with large language models
-    #         - file: prayers/domains/specialized/computer-graphics.md
-    #           title: Computer graphics and visualization
-    #         - file: prayers/domains/specialized/cybersecurity.md
-    #           title: Cybersecurity and ethical hacking
-    #         - file: prayers/domains/specialized/hci.md
-    #           title: Human-computer interaction
-    #         - file: prayers/domains/specialized/software-engineering.md
-    #           title: Software engineering principles
-    #         - file: prayers/domains/specialized/embedded-systems.md
-    #           title: Embedded systems and robotics
+        - title: Specialized Fields
+          children:
+            - file: 8-domains/specialized/beginning-ai-ml.md
+            - file: 8-domains/specialized/first-neural-network.md
+            - file: 8-domains/specialized/large-language-models.md
+            - file: 8-domains/specialized/computer-graphics.md
+            - file: 8-domains/specialized/cybersecurity.md
+            - file: 8-domains/specialized/hci.md
+            - file: 8-domains/specialized/software-engineering.md
+            - file: 8-domains/specialized/embedded-systems.md
 
-    #     - title: Mathematical Foundations
-    #       children:
-    #         - file: prayers/domains/mathematical/discrete-math.md
-    #           title: Discrete mathematics
-    #         - file: prayers/domains/mathematical/probability-statistics.md
-    #           title: Probability and statistics for CS
-    #         - file: prayers/domains/mathematical/linear-algebra.md
-    #           title: Linear algebra for ML
-    #         - file: prayers/domains/mathematical/formal-methods.md
-    #           title: Formal methods and verification
-    #         - file: prayers/domains/mathematical/graph-theory.md
-    #           title: Graph theory
-    #         - file: prayers/domains/mathematical/cryptography.md
-    #           title: Cryptography
+        - title: Mathematical Foundations
+          children:
+            - file: 8-domains/mathematical/discrete-math.md
+            - file: 8-domains/mathematical/probability-statistics.md
+            - file: 8-domains/mathematical/linear-algebra.md
+            - file: 8-domains/mathematical/formal-methods.md
+            - file: 8-domains/mathematical/graph-theory.md
+            - file: 8-domains/mathematical/cryptography.md
 
     # - title: IX. Technology & Tools
     #   children:

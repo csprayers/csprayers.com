@@ -1,8 +1,6 @@
 ---
-title: Choosing a specialization
+title: 🔴 Choosing a specialization
 ---
-
-# Choosing a specialization
 
 *Finding your focus*
 

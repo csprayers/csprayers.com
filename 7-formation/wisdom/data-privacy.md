@@ -1,8 +1,6 @@
 ---
-title: Data privacy decisions
+title: 🔴 Data privacy decisions
 ---
-
-# Data privacy decisions
 
 *Protecting user information*
 

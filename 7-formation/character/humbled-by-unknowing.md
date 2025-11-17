@@ -1,8 +1,6 @@
 ---
-title: When humbled by what you don't know
+title: 🔴 When humbled by what you don't know
 ---
-
-# When humbled by what you don't know
 
 *Facing your limits*
 

@@ -328,26 +328,81 @@ This collection offers prayers for every season, struggle, and celebration in th
 
 ### Wisdom & Discernment
 
-Algorithmic bias, privacy, accessibility, and responsibility
+*Algorithmic bias, privacy, accessibility, and responsibility*
 
-### [Vocation & Calling](prayers/formation/vocation/index.md)
-Discerning your path and finding meaning
+- 🔴 [Accessibility](7-formation/wisdom/accessibility.md)
+- 🔴 [Algorithmic Bias](7-formation/wisdom/algorithmic-bias.md)
+- 🔴 [Architectural Decisions](7-formation/wisdom/architectural-decisions.md)
+- 🔴 [Data Privacy](7-formation/wisdom/data-privacy.md)
+- 🔴 [Deploying Ai](7-formation/wisdom/deploying-ai.md)
+- 🔴 [Environmental Impact](7-formation/wisdom/environmental-impact.md)
+- 🔴 [Profit Vs Ethics](7-formation/wisdom/profit-vs-ethics.md)
+- 🔴 [Vulnerable Populations](7-formation/wisdom/vulnerable-populations.md)
 
-### [Character Formation](prayers/formation/character/index.md)
-Humility, patience, perseverance, and grace
+### Vocation & Calling
+
+*Discerning your path and finding meaning*
+
+- 🔴 [Choosing Specialization](7-formation/vocation/choosing-specialization.md)
+- 🔴 [Competing Job Offers](7-formation/vocation/competing-job-offers.md)
+- 🔴 [Discerning Cs](7-formation/vocation/discerning-cs.md)
+- 🔴 [Industry Or Academia](7-formation/vocation/industry-or-academia.md)
+- 🔴 [Is This Calling](7-formation/vocation/is-this-calling.md)
+- 🔴 [Money Or Meaning](7-formation/vocation/money-or-meaning.md)
+- 🔴 [Skills Serve Others](7-formation/vocation/skills-serve-others.md)
+
+### Character Formation
+
+*Humility, patience, perseverance, and grace*
+
+- 🔴 [Humbled By Unknowing](7-formation/character/humbled-by-unknowing.md)
+- 🔴 [Humility In Collaboration](7-formation/character/humility-in-collaboration.md)
+- 🔴 [Learning From Mistakes](7-formation/character/learning-from-mistakes.md)
+- 🔴 [Patience Through Debugging](7-formation/character/patience-through-debugging.md)
+- 🔴 [Perseverance](7-formation/character/perseverance.md)
+- 🔴 [Receiving Criticism](7-formation/character/receiving-criticism.md)
 
 ---
 
-## [VIII. Specific CS Domains & Concepts](prayers/domains/index.md)
+## VIII. Specific CS Domains & Concepts
 
-### [Core Areas](prayers/domains/core-areas/index.md)
-Data structures, algorithms, architecture, and theory
+### Core Areas
 
-### [Specialized Fields](prayers/domains/specialized/index.md)
-AI/ML, graphics, cybersecurity, HCI, and robotics
+*Data structures, algorithms, architecture, and theory*
 
-### [Mathematical Foundations](prayers/domains/mathematical/index.md)
-Discrete math, probability, linear algebra, and cryptography
+- 🔴 [Algorithms](8-domains/core-areas/algorithms.md)
+- 🔴 [Compilers](8-domains/core-areas/compilers.md)
+- 🔴 [Computer Architecture](8-domains/core-areas/computer-architecture.md)
+- 🔴 [Data Structures](8-domains/core-areas/data-structures.md)
+- 🔴 [Database Design](8-domains/core-areas/database-design.md)
+- 🔴 [Networks](8-domains/core-areas/networks.md)
+- 🔴 [Operating Systems](8-domains/core-areas/operating-systems.md)
+- 🔴 [Theory Of Computation](8-domains/core-areas/theory-of-computation.md)
+
+
+### Specialized Fields
+
+*AI/ML, graphics, cybersecurity, HCI, and robotics*
+
+- 🔴 [Beginning Ai Ml](8-domains/specialized/beginning-ai-ml.md)
+- 🔴 [Computer Graphics](8-domains/specialized/computer-graphics.md)
+- 🔴 [Cybersecurity](8-domains/specialized/cybersecurity.md)
+- 🔴 [Embedded Systems](8-domains/specialized/embedded-systems.md)
+- 🔴 [First Neural Network](8-domains/specialized/first-neural-network.md)
+- 🔴 [Hci](8-domains/specialized/hci.md)
+- 🔴 [Large Language Models](8-domains/specialized/large-language-models.md)
+- 🔴 [Software Engineering](8-domains/specialized/software-engineering.md)
+
+### Mathematical Foundations
+
+*Discrete math, probability, linear algebra, and cryptography*
+
+- 🔴 [Cryptography](8-domains/mathematical/cryptography.md)
+- 🔴 [Discrete Math](8-domains/mathematical/discrete-math.md)
+- 🔴 [Formal Methods](8-domains/mathematical/formal-methods.md)
+- 🔴 [Graph Theory](8-domains/mathematical/graph-theory.md)
+- 🔴 [Linear Algebra](8-domains/mathematical/linear-algebra.md)
+- 🔴 [Probability Statistics](8-domains/mathematical/probability-statistics.md)
 
 ---
 

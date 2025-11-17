@@ -1,8 +1,6 @@
 ---
-title: Learning from mistakes
+title: 🔴 Learning from mistakes
 ---
-
-# Learning from mistakes
 
 *Growing through failure*
 

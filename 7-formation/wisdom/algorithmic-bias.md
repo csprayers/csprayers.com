@@ -1,8 +1,6 @@
 ---
-title: Thinking about algorithmic bias
+title: 🔴 Thinking about algorithmic bias
 ---
-
-# Thinking about algorithmic bias
 
 *Ensuring fairness*
 

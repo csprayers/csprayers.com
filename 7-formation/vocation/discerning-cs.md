@@ -1,8 +1,6 @@
 ---
-title: Discerning whether to pursue CS
+title: 🔴 Discerning whether to pursue CS
 ---
-
-# Discerning whether to pursue CS
 
 *Considering your path*
 

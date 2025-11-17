@@ -1,8 +1,6 @@
 ---
-title: Considering how your skills serve others
+title: 🔴 Considering how your skills serve others
 ---
-
-# Considering how your skills serve others
 
 *Finding meaning in work*
 

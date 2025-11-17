@@ -1,8 +1,6 @@
 ---
-title: "When you must decide: money or meaning?"
+title: "🔴 When you must decide: money or meaning?"
 ---
-
-# When you must decide: money or meaning?
 
 *A vocational choice*
 

@@ -1,8 +1,6 @@
 ---
-title: Considering accessibility in design
+title: 🔴 Considering accessibility in design
 ---
-
-# Considering accessibility in design
 
 *Designing for all users*
 

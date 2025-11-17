@@ -1,8 +1,6 @@
 ---
-title: Developing perseverance through difficulty
+title: 🔴 Developing perseverance through difficulty
 ---
-
-# Developing perseverance through difficulty
 
 *Through difficulty*
 

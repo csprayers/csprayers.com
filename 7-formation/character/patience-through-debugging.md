@@ -1,8 +1,6 @@
 ---
-title: Growing in patience through debugging
+title: 🔴 Growing in patience through debugging
 ---
-
-# Growing in patience through debugging
 
 *Through debugging*
 

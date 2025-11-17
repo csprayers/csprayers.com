@@ -1,8 +1,6 @@
 ---
-title: When you realize CS is/isn't your calling
+title: 🔴 When you realize CS is/isn't your calling
 ---
-
-# When you realize CS is/isn't your calling
 
 *Discerning your vocation*
 

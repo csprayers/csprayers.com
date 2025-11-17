@@ -1,8 +1,6 @@
 ---
-title: Receiving criticism with grace
+title: 🔴 Receiving criticism with grace
 ---
-
-# Receiving criticism with grace
 
 *Accepting feedback*
 

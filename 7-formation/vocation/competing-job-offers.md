@@ -1,8 +1,6 @@
 ---
-title: Choosing between competing job offers
+title: 🔴 Choosing between competing job offers
 ---
-
-# Choosing between competing job offers
 
 *Making a career decision*
 

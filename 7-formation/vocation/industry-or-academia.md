@@ -1,8 +1,6 @@
 ---
-title: Deciding between industry and academia
+title: 🔴 Deciding between industry and academia
 ---
-
-# Deciding between industry and academia
 
 *Two paths diverging*
 
