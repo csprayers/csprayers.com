@@ -1,5 +1,5 @@
 ---
-title: Balancing teaching and research
+title: 🔴 Balancing teaching and research
 ---
 
 *Managing competing demands*

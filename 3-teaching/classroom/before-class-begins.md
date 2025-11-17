@@ -1,5 +1,5 @@
 ---
-title: Before class begins (those few minutes alone)
+title: 🔴 Before class begins (those few minutes alone)
 ---
 
 *In those few quiet minutes*

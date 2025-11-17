@@ -1,5 +1,5 @@
 ---
-title: Pair programming
+title: 🔴 Pair programming
 ---
 
 *Working side-by-side at the keyboard*

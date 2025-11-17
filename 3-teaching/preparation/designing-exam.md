@@ -1,5 +1,5 @@
 ---
-title: Designing an exam
+title: 🔴 Designing an exam
 ---
 
 *Crafting fair assessment*

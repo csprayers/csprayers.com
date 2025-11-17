@@ -1,5 +1,5 @@
 ---
-title: Contributing to open source for the first time
+title: 🔴 Contributing to open source for the first time
 ---
 
 *For the first time*

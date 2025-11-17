@@ -1,5 +1,5 @@
 ---
-title: Memory leaks and segmentation faults
+title: 🔴 Memory leaks and segmentation faults
 ---
 
 *In the depths of memory management*

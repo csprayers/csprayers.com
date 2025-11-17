@@ -1,5 +1,5 @@
 ---
-title: Hunting a subtle bug
+title: 🔴 Hunting a subtle bug
 ---
 
 *In pursuit of the error*

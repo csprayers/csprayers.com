@@ -1,5 +1,5 @@
 ---
-title: Welcoming a new colleague
+title: 🔴 Welcoming a new colleague
 ---
 
 *Building community*

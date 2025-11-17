@@ -231,38 +231,103 @@ This collection offers prayers for every season, struggle, and celebration in th
 
 ---
 
-## [V. The Practice of Programming](prayers/programming/index.md)
+## V. The Practice of Programming
 
-### [Creation](prayers/programming/creation/index.md)
-Starting projects, designing systems, and creative flow
+### Creation
 
-### [Debugging & Problem-Solving](prayers/programming/debugging/index.md)
-Hunting bugs, reading errors, and finding solutions
+*Starting projects, designing systems, and creative flow*
 
-### [Testing](prayers/programming/testing/index.md)
-Writing tests, passes and failures
+- 🔴 [Building Beautiful](5-programming/creation/building-beautiful.md)
+- 🔴 [Choosing Tech Stack](5-programming/creation/choosing-tech-stack.md)
+- 🔴 [Creative Flow](5-programming/creation/creative-flow.md)
+- 🔴 [Designing System](5-programming/creation/designing-system.md)
+- 🔴 [First Line Of Code](5-programming/creation/first-line-of-code.md)
+- 🔴 [Starting New Project](5-programming/creation/starting-new-project.md)
 
-### [Deployment & Maintenance](prayers/programming/deployment/index.md)
-Production, monitoring, and long-term care
+### Debugging & Problem-Solving
+
+*Hunting bugs, reading errors, and finding solutions*
+
+- 🔴 [Finding The Bug](5-programming/debugging/finding-the-bug.md)
+- 🔴 [Hours Of Debugging](5-programming/debugging/hours-of-debugging.md)
+- 🔴 [Hunting Bug](5-programming/debugging/hunting-bug.md)
+- 🔴 [Legacy Code](5-programming/debugging/legacy-code.md)
+- 🔴 [Memory Issues](5-programming/debugging/memory-issues.md)
+- 🔴 [Reading Errors](5-programming/debugging/reading-errors.md)
+- 🔴 [Refactoring](5-programming/debugging/refactoring.md)
+- 🔴 [Runtime Error](5-programming/debugging/runtime-error.md)
+- 🔴 [Stack Overflow Error](5-programming/debugging/stack-overflow-error.md)
+- 🔴 [Wont Compile](5-programming/debugging/wont-compile.md)
+
+### Testing
+
+*Writing tests, passes and failures*
+
+- 🔴 [All Tests Pass](5-programming/testing/all-tests-pass.md)
+- 🔴 [Integration Testing](5-programming/testing/integration-testing.md)
+- 🔴 [Tests Fail](5-programming/testing/tests-fail.md)
+- 🔴 [User Testing](5-programming/testing/user-testing.md)
+- 🔴 [Writing Tests](5-programming/testing/writing-tests.md)
+
+### Deployment & Maintenance
+
+*Production, monitoring, and long-term care*
+
+- 🔴 [Deploying Production](5-programming/deployment/deploying-production.md)
+- 🔴 [Deployment Fails](5-programming/deployment/deployment-fails.md)
+- 🔴 [Maintaining Old Code](5-programming/deployment/maintaining-old-code.md)
+- 🔴 [Monitoring System](5-programming/deployment/monitoring-system.md)
+- 🔴 [System Failure](5-programming/deployment/system-failure.md)
 
 ---
 
-## [VI. Moments of Struggle & Doubt](prayers/struggle/index.md)
+## VI. Moments of Struggle & Doubt
 
-### [Personal Challenges](prayers/struggle/personal/index.md)
-Imposter syndrome, burnout, and exhaustion
+### Personal Challenges
 
-### [Failure & Setback](prayers/struggle/failure/index.md)
-Rejection, mistakes, and career setbacks
+*Imposter syndrome, burnout, and exhaustion*
 
-### [Ethical Struggles](prayers/struggle/ethical/index.md)
-When code is misused and integrity is tested
+- 🔴 [Burnout](6-struggle/personal/burnout.md)
+- 🔴 [Comparison](6-struggle/personal/comparison.md)
+- 🔴 [Imposter Syndrome](6-struggle/personal/imposter-syndrome.md)
+- 🔴 [Late Nights Exhaustion](6-struggle/personal/late-nights-exhaustion.md)
+- 🔴 [Missing Personal Events](6-struggle/personal/missing-personal-events.md)
+- 🔴 [Not Creative Enough](6-struggle/personal/not-creative-enough.md)
+- 🔴 [Not Technical Enough](6-struggle/personal/not-technical-enough.md)
+- 🔴 [Work Life Balance](6-struggle/personal/work-life-balance.md)
+- 🔴 [Wrong Field](6-struggle/personal/wrong-field.md)
+
+### Failure & Setback
+
+*Rejection, mistakes, and career setbacks*
+
+- 🔴 [Costly Mistake](6-struggle/failure/costly-mistake.md)
+- 🔴 [Failing Exam](6-struggle/failure/failing-exam.md)
+- 🔴 [Grad School Rejection](6-struggle/failure/grad-school-rejection.md)
+- 🔴 [Grant Denial](6-struggle/failure/grant-denial.md)
+- 🔴 [Laid Off](6-struggle/failure/laid-off.md)
+- 🔴 [No Internship](6-struggle/failure/no-internship.md)
+- 🔴 [Not Getting Tenure](6-struggle/failure/not-getting-tenure.md)
+- 🔴 [Paper Rejection](6-struggle/failure/paper-rejection.md)
+- 🔴 [Project Fails](6-struggle/failure/project-fails.md)
+
+### Ethical Struggles
+
+*When code is misused and integrity is tested*
+
+- 🔴 [AI Causing Harm](6-struggle/ethical/ai-causing-harm.md)
+- 🔴 [Asked To Build Wrong](6-struggle/ethical/asked-to-build-wrong.md)
+- 🔴 [Code Used Unethically](6-struggle/ethical/code-used-unethically.md)
+- 🔴 [Innovation Responsibility](6-struggle/ethical/innovation-responsibility.md)
+- 🔴 [Pressure To Compromise](6-struggle/ethical/pressure-to-compromise.md)
+- 🔴 [Reporting Dishonesty](6-struggle/ethical/reporting-dishonesty.md)
 
 ---
 
-## [VII. Ethical & Vocational Formation](prayers/formation/index.md)
+## VII. Ethical & Vocational Formation
 
-### [Wisdom & Discernment](prayers/formation/wisdom/index.md)
+### Wisdom & Discernment
+
 Algorithmic bias, privacy, accessibility, and responsibility
 
 ### [Vocation & Calling](prayers/formation/vocation/index.md)

@@ -1,5 +1,5 @@
 ---
-title: Planning a new course
+title: 🔴 Planning a new course
 ---
 
 *Designing a syllabus from scratch*

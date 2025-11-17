@@ -1,5 +1,5 @@
 ---
-title: Starting a new project
+title: 🔴 Starting a new project
 ---
 
 *At the beginning of creation*

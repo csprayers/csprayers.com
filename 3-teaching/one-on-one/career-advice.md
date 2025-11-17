@@ -1,5 +1,5 @@
 ---
-title: When a student comes seeking career advice
+title: 🔴 When a student comes seeking career advice
 ---
 
 *Guiding future paths*

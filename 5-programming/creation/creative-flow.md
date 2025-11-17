@@ -1,5 +1,5 @@
 ---
-title: When the creative flow is strong
+title: 🔴 When the creative flow is strong
 ---
 
 *In the zone*

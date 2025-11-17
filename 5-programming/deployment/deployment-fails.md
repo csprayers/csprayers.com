@@ -1,5 +1,5 @@
 ---
-title: When deployment fails
+title: 🔴 When deployment fails
 ---
 
 *Rollback and recovery*

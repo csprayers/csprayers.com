@@ -1,5 +1,5 @@
 ---
-title: Writing a syllabus
+title: 🔴 Writing a syllabus
 ---
 
 *Setting expectations and structure*

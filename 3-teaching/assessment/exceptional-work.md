@@ -1,5 +1,5 @@
 ---
-title: When you witness exceptional work
+title: 🔴 When you witness exceptional work
 ---
 
 *When students excel*

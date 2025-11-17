@@ -1,5 +1,5 @@
 ---
-title: Updating course materials for a new semester
+title: 🔴 Updating course materials for a new semester
 ---
 
 *Refreshing for a new semester*

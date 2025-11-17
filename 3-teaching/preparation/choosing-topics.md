@@ -1,5 +1,5 @@
 ---
-title: Choosing which topics to include/exclude
+title: 🔴 Choosing which topics to include/exclude
 ---
 
 *Making difficult curriculum decisions*

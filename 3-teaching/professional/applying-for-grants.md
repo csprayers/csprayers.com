@@ -1,5 +1,5 @@
 ---
-title: Applying for grants
+title: 🔴 Applying for grants
 ---
 
 *Seeking funding for research*

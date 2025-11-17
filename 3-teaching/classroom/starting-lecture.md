@@ -1,5 +1,5 @@
 ---
-title: Starting a lecture
+title: 🔴 Starting a lecture
 ---
 
 *Opening the class session*

@@ -1,5 +1,5 @@
 ---
-title: Watching a mentee surpass you
+title: 🔴 Watching a mentee surpass you
 ---
 
 *Celebrating their growth*

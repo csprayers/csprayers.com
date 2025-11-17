@@ -1,5 +1,5 @@
 ---
-title: Building something beautiful and functional
+title: 🔴 Building something beautiful and functional
 ---
 
 *Creating functional elegance*

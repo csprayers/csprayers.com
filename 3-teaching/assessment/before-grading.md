@@ -1,5 +1,5 @@
 ---
-title: Before grading a large stack of assignments
+title: 🔴 Before grading a large stack of assignments
 ---
 
 *Facing a large stack of assignments*

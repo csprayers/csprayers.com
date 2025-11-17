@@ -1,5 +1,5 @@
 ---
-title: Creating an assignment or project
+title: 🔴 Creating an assignment or project
 ---
 
 *Designing meaningful work*

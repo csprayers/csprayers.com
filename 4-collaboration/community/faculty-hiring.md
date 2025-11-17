@@ -1,5 +1,5 @@
 ---
-title: During faculty hiring decisions
+title: 🔴 During faculty hiring decisions
 ---
 
 *Choosing new colleagues*

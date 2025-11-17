@@ -1,5 +1,5 @@
 ---
-title: When you must assign a failing grade
+title: 🔴 When you must assign a failing grade
 ---
 
 *A difficult decision*

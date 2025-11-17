@@ -1,5 +1,5 @@
 ---
-title: When the mentoring relationship is difficult
+title: 🔴 When the mentoring relationship is difficult
 ---
 
 *In a struggling relationship*

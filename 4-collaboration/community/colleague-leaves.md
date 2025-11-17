@@ -1,5 +1,5 @@
 ---
-title: When a colleague leaves or retires
+title: 🔴 When a colleague leaves or retires
 ---
 
 *Saying goodbye*

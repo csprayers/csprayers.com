@@ -1,5 +1,5 @@
 ---
-title: Preparing for a faculty meeting
+title: 🔴 Preparing for a faculty meeting
 ---
 
 *Preparing for departmental business*

@@ -1,5 +1,5 @@
 ---
-title: The last few minutes of class
+title: 🔴 The last few minutes of class
 ---
 
 *Closing the session*

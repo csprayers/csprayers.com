@@ -1,5 +1,5 @@
 ---
-title: Designing a system or algorithm
+title: 🔴 Designing a system or algorithm
 ---
 
 *Planning the structure*

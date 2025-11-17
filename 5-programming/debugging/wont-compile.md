@@ -1,5 +1,5 @@
 ---
-title: When the code won't compile
+title: 🔴 When the code won't compile
 ---
 
 *Facing compilation errors*

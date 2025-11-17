@@ -1,5 +1,5 @@
 ---
-title: Monitoring a live system
+title: 🔴 Monitoring a live system
 ---
 
 *Keeping watch*

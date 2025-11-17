@@ -1,5 +1,5 @@
 ---
-title: Integration testing
+title: 🔴 Integration testing
 ---
 
 *Testing the whole system*

@@ -1,5 +1,5 @@
 ---
-title: Demonstrating live coding (and hoping it works)
+title: 🔴 Demonstrating live coding (and hoping it works)
 ---
 
 *And hoping it works*

@@ -1,5 +1,5 @@
 ---
-title: Being assigned an advisor
+title: 🔴 Being assigned an advisor
 ---
 
 *Starting with a mentor*

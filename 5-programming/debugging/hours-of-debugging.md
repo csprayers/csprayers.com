@@ -1,5 +1,5 @@
 ---
-title: When you've been debugging for hours
+title: 🔴 When you've been debugging for hours
 ---
 
 *In exhaustion and frustration*

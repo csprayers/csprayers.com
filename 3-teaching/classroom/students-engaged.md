@@ -1,5 +1,5 @@
 ---
-title: When students are particularly engaged
+title: 🔴 When students are particularly engaged
 ---
 
 *The joy of active learning*

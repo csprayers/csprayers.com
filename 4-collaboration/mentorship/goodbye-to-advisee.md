@@ -1,5 +1,5 @@
 ---
-title: Saying goodbye to a graduating advisee
+title: 🔴 Saying goodbye to a graduating advisee
 ---
 
 *At the end of mentorship*

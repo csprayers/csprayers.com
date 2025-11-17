@@ -1,5 +1,5 @@
 ---
-title: Preparing a lecture
+title: 🔴 Preparing a lecture
 ---
 
 *Crafting today's lesson*

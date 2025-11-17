@@ -1,5 +1,5 @@
 ---
-title: Submitting a research paper
+title: 🔴 Submitting a research paper
 ---
 
 *Offering your work for review*

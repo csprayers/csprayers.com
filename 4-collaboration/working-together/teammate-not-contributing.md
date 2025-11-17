@@ -1,5 +1,5 @@
 ---
-title: When your teammate isn't pulling their weight
+title: 🔴 When your teammate isn't pulling their weight
 ---
 
 *Carrying extra weight*

@@ -1,5 +1,5 @@
 ---
-title: When you must address academic dishonesty
+title: 🔴 When you must address academic dishonesty
 ---
 
 *A painful conversation*

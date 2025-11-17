@@ -1,5 +1,5 @@
 ---
-title: Responding to a system failure
+title: 🔴 Responding to a system failure
 ---
 
 *In crisis mode*

@@ -1,5 +1,5 @@
 ---
-title: During a hackathon
+title: 🔴 During a hackathon
 ---
 
 *In intense collaborative creation*

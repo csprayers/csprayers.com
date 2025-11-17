@@ -1,5 +1,5 @@
 ---
-title: When research hits a dead end
+title: 🔴 When research hits a dead end
 ---
 
 *In scholarly frustration*

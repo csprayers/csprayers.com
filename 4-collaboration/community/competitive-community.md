@@ -1,5 +1,5 @@
 ---
-title: When your research community feels competitive rather than collegial
+title: 🔴 When your research community feels competitive rather than collegial
 ---
 
 *Rather than collegial*

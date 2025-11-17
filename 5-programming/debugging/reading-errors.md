@@ -1,5 +1,5 @@
 ---
-title: Reading error messages
+title: 🔴 Reading error messages
 ---
 
 *Interpreting what went wrong*

@@ -1,5 +1,5 @@
 ---
-title: Dealing with legacy code
+title: 🔴 Dealing with legacy code
 ---
 
 *Inheriting others' work*

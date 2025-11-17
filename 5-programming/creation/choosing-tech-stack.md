@@ -1,5 +1,5 @@
 ---
-title: Choosing a tech stack or architecture
+title: 🔴 Choosing a tech stack or architecture
 ---
 
 *Making architectural decisions*

@@ -1,5 +1,5 @@
 ---
-title: When you're not pulling your weight
+title: 🔴 When you're not pulling your weight
 ---
 
 *Facing your own shortcomings*

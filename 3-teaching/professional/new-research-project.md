@@ -1,5 +1,5 @@
 ---
-title: Starting a new research project
+title: 🔴 Starting a new research project
 ---
 
 *At the beginning of inquiry*

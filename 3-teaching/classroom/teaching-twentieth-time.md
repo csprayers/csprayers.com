@@ -1,5 +1,5 @@
 ---
-title: Teaching the same material for the 20th time
+title: 🔴 Teaching the same material for the 20th time
 ---
 
 *For the twentieth time*

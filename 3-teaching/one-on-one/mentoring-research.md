@@ -1,5 +1,5 @@
 ---
-title: Mentoring a student's research project
+title: 🔴 Mentoring a student's research project
 ---
 
 *Guiding independent work*

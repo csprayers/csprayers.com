@@ -1,5 +1,5 @@
 ---
-title: Attending Grace Hopper or similar conference
+title: 🔴 Attending Grace Hopper or similar conference
 ---
 
 *Celebrating women in computing*

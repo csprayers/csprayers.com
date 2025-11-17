@@ -1,5 +1,5 @@
 ---
-title: Writing the first line of code
+title: 🔴 Writing the first line of code
 ---
 
 *The initial commit*

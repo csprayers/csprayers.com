@@ -1,5 +1,5 @@
 ---
-title: Receiving a paper rejection
+title: 🔴 Receiving a paper rejection
 ---
 
 *Processing scholarly disappointment*

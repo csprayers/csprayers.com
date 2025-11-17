@@ -1,5 +1,5 @@
 ---
-title: Before a department meeting
+title: 🔴 Before a department meeting
 ---
 
 *Gathering as colleagues*

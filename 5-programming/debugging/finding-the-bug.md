@@ -1,5 +1,5 @@
 ---
-title: When you find the bug (relief and sheepishness)
+title: 🔴 When you find the bug (relief and sheepishness)
 ---
 
 *Relief and sheepishness*

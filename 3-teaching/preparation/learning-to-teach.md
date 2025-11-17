@@ -1,5 +1,5 @@
 ---
-title: Learning new material to teach it
+title: 🔴 Learning new material to teach it
 ---
 
 *Staying ahead of students*

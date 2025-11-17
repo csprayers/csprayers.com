@@ -1,5 +1,5 @@
 ---
-title: Calculating final grades
+title: 🔴 Calculating final grades
 ---
 
 *Making final determinations*

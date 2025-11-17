@@ -1,5 +1,5 @@
 ---
-title: When all tests pass (joy!)
+title: 🔴 When all tests pass (joy!)
 ---
 
 *Joy and relief*

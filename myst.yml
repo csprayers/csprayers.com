@@ -201,130 +201,80 @@ project:
             - file: 4-collaboration/mentorship/mentee-surpasses.md
             - file: 4-collaboration/mentorship/goodbye-to-advisee.md
 
-    # - title: V. The Practice of Programming
-    #   children:
-    #     - title: Creation
-    #       children:
-    #         - file: prayers/programming/creation/starting-new-project.md
-    #           title: Starting a new project
-    #         - file: prayers/programming/creation/first-line-of-code.md
-    #           title: Writing the first line of code
-    #         - file: prayers/programming/creation/choosing-tech-stack.md
-    #           title: Choosing a tech stack or architecture
-    #         - file: prayers/programming/creation/designing-system.md
-    #           title: Designing a system or algorithm
-    #         - file: prayers/programming/creation/creative-flow.md
-    #           title: When the creative flow is strong
-    #         - file: prayers/programming/creation/building-beautiful.md
-    #           title: Building something beautiful and functional
+    - title: V. The Practice of Programming
+      children:
+        - title: Creation
+          children:
+            - file: 5-programming/creation/starting-new-project.md
+            - file: 5-programming/creation/first-line-of-code.md
+            - file: 5-programming/creation/choosing-tech-stack.md
+            - file: 5-programming/creation/designing-system.md
+            - file: 5-programming/creation/creative-flow.md
+            - file: 5-programming/creation/building-beautiful.md
 
-    #     - title: Debugging & Problem-Solving
-    #       children:
-    #         - file: prayers/programming/debugging/wont-compile.md
-    #           title: When the code won't compile
-    #         - file: prayers/programming/debugging/runtime-error.md
-    #           title: Facing a runtime error
-    #         - file: prayers/programming/debugging/hunting-bug.md
-    #           title: Hunting a subtle bug
-    #         - file: prayers/programming/debugging/hours-of-debugging.md
-    #           title: When you've been debugging for hours
-    #         - file: prayers/programming/debugging/reading-errors.md
-    #           title: Reading error messages
-    #         - file: prayers/programming/debugging/stack-overflow-error.md
-    #           title: Stack overflow (the bad kind)
-    #         - file: prayers/programming/debugging/memory-issues.md
-    #           title: Memory leaks and segmentation faults
-    #         - file: prayers/programming/debugging/finding-the-bug.md
-    #           title: When you find the bug (relief and sheepishness)
-    #         - file: prayers/programming/debugging/legacy-code.md
-    #           title: Dealing with legacy code
-    #         - file: prayers/programming/debugging/refactoring.md
-    #           title: Refactoring messy code
+        - title: Debugging & Problem-Solving
+          children:
+            - file: 5-programming/debugging/wont-compile.md
+            - file: 5-programming/debugging/runtime-error.md
+            - file: 5-programming/debugging/hunting-bug.md
+            - file: 5-programming/debugging/hours-of-debugging.md
+            - file: 5-programming/debugging/reading-errors.md
+            - file: 5-programming/debugging/stack-overflow-error.md
+            - file: 5-programming/debugging/memory-issues.md
+            - file: 5-programming/debugging/finding-the-bug.md
+            - file: 5-programming/debugging/legacy-code.md
+            - file: 5-programming/debugging/refactoring.md
 
-    #     - title: Testing
-    #       children:
-    #         - file: prayers/programming/testing/writing-tests.md
-    #           title: Writing tests
-    #         - file: prayers/programming/testing/all-tests-pass.md
-    #           title: When all tests pass (joy!)
-    #         - file: prayers/programming/testing/tests-fail.md
-    #           title: When tests fail (discovering what you missed)
-    #         - file: prayers/programming/testing/integration-testing.md
-    #           title: Integration testing
-    #         - file: prayers/programming/testing/user-testing.md
-    #           title: User testing
+        - title: Testing
+          children:
+            - file: 5-programming/testing/writing-tests.md
+            - file: 5-programming/testing/all-tests-pass.md
+            - file: 5-programming/testing/tests-fail.md
+            - file: 5-programming/testing/integration-testing.md
+            - file: 5-programming/testing/user-testing.md
 
-    #     - title: Deployment & Maintenance
-    #       children:
-    #         - file: prayers/programming/deployment/deploying-production.md
-    #           title: Deploying to production
-    #         - file: prayers/programming/deployment/deployment-fails.md
-    #           title: When deployment fails
-    #         - file: prayers/programming/deployment/monitoring-system.md
-    #           title: Monitoring a live system
-    #         - file: prayers/programming/deployment/system-failure.md
-    #           title: Responding to a system failure
-    #         - file: prayers/programming/deployment/maintaining-old-code.md
-    #           title: Maintaining code years after writing it
+        - title: Deployment & Maintenance
+          children:
+            - file: 5-programming/deployment/deploying-production.md
+            - file: 5-programming/deployment/deployment-fails.md
+            - file: 5-programming/deployment/monitoring-system.md
+            - file: 5-programming/deployment/system-failure.md
+            - file: 5-programming/deployment/maintaining-old-code.md
 
-    # - title: VI. Moments of Struggle & Doubt
-    #   children:
-    #     - title: Personal Challenges
-    #       children:
-    #         - file: prayers/struggle/personal/imposter-syndrome.md
-    #           title: Imposter syndrome
-    #         - file: prayers/struggle/personal/comparison.md
-    #           title: Comparison with peers
-    #         - file: prayers/struggle/personal/not-technical-enough.md
-    #           title: Feeling "not technical enough"
-    #         - file: prayers/struggle/personal/not-creative-enough.md
-    #           title: Feeling "not creative enough"
-    #         - file: prayers/struggle/personal/wrong-field.md
-    #           title: When you wonder if you chose the wrong field
-    #         - file: prayers/struggle/personal/burnout.md
-    #           title: During burnout
-    #         - file: prayers/struggle/personal/work-life-balance.md
-    #           title: When work-life balance is lost
-    #         - file: prayers/struggle/personal/late-nights-exhaustion.md
-    #           title: Late nights and exhaustion
-    #         - file: prayers/struggle/personal/missing-personal-events.md
-    #           title: Missing important personal events for deadlines
+    - title: VI. Moments of Struggle & Doubt
+      children:
+        - title: Personal Challenges
+          children:
+            - file: 6-struggle/personal/imposter-syndrome.md
+            - file: 6-struggle/personal/comparison.md
+            - file: 6-struggle/personal/not-technical-enough.md
+            - file: 6-struggle/personal/not-creative-enough.md
+            - file: 6-struggle/personal/wrong-field.md
+            - file: 6-struggle/personal/burnout.md
+            - file: 6-struggle/personal/work-life-balance.md
+            - file: 6-struggle/personal/late-nights-exhaustion.md
+            - file: 6-struggle/personal/missing-personal-events.md
 
-    #     - title: Failure & Setback
-    #       children:
-    #         - file: prayers/struggle/failure/failing-exam.md
-    #           title: Failing an exam or course
-    #         - file: prayers/struggle/failure/no-internship.md
-    #           title: Not getting an internship
-    #         - file: prayers/struggle/failure/grad-school-rejection.md
-    #           title: Rejection from graduate school
-    #         - file: prayers/struggle/failure/paper-rejection.md
-    #           title: Paper rejection
-    #         - file: prayers/struggle/failure/grant-denial.md
-    #           title: Grant denial
-    #         - file: prayers/struggle/failure/not-getting-tenure.md
-    #           title: Not getting tenure
-    #         - file: prayers/struggle/failure/project-fails.md
-    #           title: A project that completely fails
-    #         - file: prayers/struggle/failure/costly-mistake.md
-    #           title: Making a costly mistake in production
-    #         - file: prayers/struggle/failure/laid-off.md
-    #           title: Being laid off
+        - title: Failure & Setback
+          children:
+            - file: 6-struggle/failure/failing-exam.md
+            - file: 6-struggle/failure/no-internship.md
+            - file: 6-struggle/failure/grad-school-rejection.md
+            - file: 6-struggle/failure/paper-rejection.md
+            - file: 6-struggle/failure/grant-denial.md
+            - file: 6-struggle/failure/not-getting-tenure.md
+            - file: 6-struggle/failure/project-fails.md
+            - file: 6-struggle/failure/costly-mistake.md
+            - file: 6-struggle/failure/laid-off.md
 
-    #     - title: Ethical Struggles
-    #       children:
-    #         - file: prayers/struggle/ethical/code-used-unethically.md
-    #           title: Discovering your code will be used unethically
-    #         - file: prayers/struggle/ethical/pressure-to-compromise.md
-    #           title: Pressure to cut corners or compromise
-    #         - file: prayers/struggle/ethical/reporting-dishonesty.md
-    #           title: When you must report academic dishonesty
-    #         - file: prayers/struggle/ethical/ai-causing-harm.md
-    #           title: Seeing AI/technology cause harm
-    #         - file: prayers/struggle/ethical/innovation-responsibility.md
-    #           title: Balancing innovation with responsibility
-    #         - file: prayers/struggle/ethical/asked-to-build-wrong.md
-    #           title: When asked to build something you believe is wrong
+        - title: Ethical Struggles
+          children:
+            - file: 6-struggle/ethical/code-used-unethically.md
+            - file: 6-struggle/ethical/pressure-to-compromise.md
+            - file: 6-struggle/ethical/reporting-dishonesty.md
+            - file: 6-struggle/ethical/ai-causing-harm.md
+            - file: 6-struggle/ethical/innovation-responsibility.md
+            - file: 6-struggle/ethical/asked-to-build-wrong.md
 
     # - title: VII. Ethical & Vocational Formation
     #   children:

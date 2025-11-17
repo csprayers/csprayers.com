@@ -1,5 +1,5 @@
 ---
-title: Stack overflow (the bad kind)
+title: 🔴 Stack overflow (the bad kind)
 ---
 
 *The bad kind*

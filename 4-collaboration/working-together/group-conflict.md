@@ -1,5 +1,5 @@
 ---
-title: During a group project (when conflict arises)
+title: 🔴 During a group project (when conflict arises)
 ---
 
 *When tensions arise*

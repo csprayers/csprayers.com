@@ -1,5 +1,5 @@
 ---
-title: Beginning a group project (with hope)
+title: 🔴 Beginning a group project (with hope)
 ---
 
 *With hope and anticipation*
