@@ -506,20 +506,43 @@ This collection offers prayers for every season, struggle, and celebration in th
 
 ---
 
-## [XII. The Life of the Mind](prayers/mind/index.md)
+## XII. The Life of the Mind
 
-### [Wonder & Beauty](prayers/mind/wonder/index.md)
-Elegant algorithms and computational artistry
+### Wonder & Beauty
 
-### [Limits & Mystery](prayers/mind/limits/index.md)
-What computers cannot do and questions without answers
+*Elegant algorithms and computational artistry*
 
-### [Integration](prayers/mind/integration/index.md)
-Faith, technology, liberal arts, and human flourishing
+- 🔴 [Artistry Of Design](12-mind/wonder/artistry-of-design.md)
+- 🔴 [Beautiful Algorithm](12-mind/wonder/beautiful-algorithm.md)
+- 🔴 [Complexity Becomes Simple](12-mind/wonder/complexity-becomes-simple.md)
+- 🔴 [Computational Thinking](12-mind/wonder/computational-thinking.md)
+- 🔴 [Elegant Code](12-mind/wonder/elegant-code.md)
+- 🔴 [Mathematics Beneath](12-mind/wonder/mathematics-beneath.md)
+
+### Limits & Mystery
+
+*What computers cannot do and questions without answers*
+
+- 🔴 [Consciousness And Ai](12-mind/limits/consciousness-and-ai.md)
+- 🔴 [Halting Problem](12-mind/limits/halting-problem.md)
+- 🔴 [Limits Of Computation](12-mind/limits/limits-of-computation.md)
+- 🔴 [Questions Tech Cant Answer](12-mind/limits/questions-tech-cant-answer.md)
+- 🔴 [Undecidability](12-mind/limits/undecidability.md)
+- 🔴 [What Computers Cant Do](12-mind/limits/what-computers-cant-do.md)
+
+### Integration
+
+*Faith, technology, liberal arts, and human flourishing*
+
+- 🔴 [CS Liberal Arts](12-mind/integration/cs-liberal-arts.md)
+- 🔴 [CS Other Disciplines](12-mind/integration/cs-other-disciplines.md)
+- 🔴 [Faith And Technology](12-mind/integration/faith-and-technology.md)
+- 🔴 [Science Humanities](12-mind/integration/science-humanities.md)
+- 🔴 [Tech Human Flourishing](12-mind/integration/tech-human-flourishing.md)
 
 ---
 
-## [XIII. Special Occasions](prayers/occasions/index.md)
+## XIII. Special Occasions
 
 ### [Celebrations](prayers/occasions/celebrations/index.md)
 Hackathons, publications, theses, and first job offers

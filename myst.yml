@@ -419,59 +419,59 @@ project:
             - file: 11-relationships/with-family/loved-ones-support.md
             - file: 11-relationships/with-family/when-they-dont.md
 
-    # - title: XII. The Life of the Mind
-    #   children:
-    #     - title: Wonder & Beauty
-    #       children:
-    #         - file: prayers/mind/wonder/elegant-code.md
-    #         - file: prayers/mind/wonder/beautiful-algorithm.md
-    #         - file: prayers/mind/wonder/mathematics-beneath.md
-    #         - file: prayers/mind/wonder/complexity-becomes-simple.md
-    #         - file: prayers/mind/wonder/computational-thinking.md
-    #         - file: prayers/mind/wonder/artistry-of-design.md
+    - title: XII. The Life of the Mind
+      children:
+        - title: Wonder & Beauty
+          children:
+            - file: 12-mind/wonder/elegant-code.md
+            - file: 12-mind/wonder/beautiful-algorithm.md
+            - file: 12-mind/wonder/mathematics-beneath.md
+            - file: 12-mind/wonder/complexity-becomes-simple.md
+            - file: 12-mind/wonder/computational-thinking.md
+            - file: 12-mind/wonder/artistry-of-design.md
 
-    #     - title: Limits & Mystery
-    #       children:
-    #         - file: prayers/mind/limits/limits-of-computation.md
-    #         - file: prayers/mind/limits/undecidability.md
-    #         - file: prayers/mind/limits/halting-problem.md
-    #         - file: prayers/mind/limits/what-computers-cant-do.md
-    #         - file: prayers/mind/limits/consciousness-and-ai.md
-    #         - file: prayers/mind/limits/questions-tech-cant-answer.md
+        - title: Limits & Mystery
+          children:
+            - file: 12-mind/limits/limits-of-computation.md
+            - file: 12-mind/limits/undecidability.md
+            - file: 12-mind/limits/halting-problem.md
+            - file: 12-mind/limits/what-computers-cant-do.md
+            - file: 12-mind/limits/consciousness-and-ai.md
+            - file: 12-mind/limits/questions-tech-cant-answer.md
 
-    #     - title: Integration
-    #       children:
-    #         - file: prayers/mind/integration/cs-other-disciplines.md
-    #         - file: prayers/mind/integration/faith-and-technology.md
-    #         - file: prayers/mind/integration/cs-liberal-arts.md
-    #         - file: prayers/mind/integration/science-humanities.md
-    #         - file: prayers/mind/integration/tech-human-flourishing.md
+        - title: Integration
+          children:
+            - file: 12-mind/integration/cs-other-disciplines.md
+            - file: 12-mind/integration/faith-and-technology.md
+            - file: 12-mind/integration/cs-liberal-arts.md
+            - file: 12-mind/integration/science-humanities.md
+            - file: 12-mind/integration/tech-human-flourishing.md
 
     # - title: XIII. Special Occasions
     #   children:
     #     - title: Celebrations
     #       children:
-    #         - file: prayers/occasions/celebrations/winning-hackathon.md
-    #         - file: prayers/occasions/celebrations/publishing-first-paper.md
-    #         - file: prayers/occasions/celebrations/defending-thesis.md
-    #         - file: prayers/occasions/celebrations/first-job-offer.md
-    #         - file: prayers/occasions/celebrations/launching-product.md
-    #         - file: prayers/occasions/celebrations/first-hello-world.md
-    #         - file: prayers/occasions/celebrations/department-celebrations.md
+    #         - file: 13-occasions/celebrations/winning-hackathon.md
+    #         - file: 13-occasions/celebrations/publishing-first-paper.md
+    #         - file: 13-occasions/celebrations/defending-thesis.md
+    #         - file: 13-occasions/celebrations/first-job-offer.md
+    #         - file: 13-occasions/celebrations/launching-product.md
+    #         - file: 13-occasions/celebrations/first-hello-world.md
+    #         - file: 13-occasions/celebrations/department-celebrations.md
 
     #     - title: Commemorations
     #       children:
-    #         - file: prayers/occasions/commemorations/cs-pioneer-passes.md
-    #         - file: prayers/occasions/commemorations/honoring-those-before.md
-    #         - file: prayers/occasions/commemorations/history-of-computing.md
-    #         - file: prayers/occasions/commemorations/key-moments.md
+    #         - file: 13-occasions/commemorations/cs-pioneer-passes.md
+    #         - file: 13-occasions/commemorations/honoring-those-before.md
+    #         - file: 13-occasions/commemorations/history-of-computing.md
+    #         - file: 13-occasions/commemorations/key-moments.md
 
     #     - title: Lament
     #       children:
-    #         - file: prayers/occasions/lament/tech-used-for-harm.md
-    #         - file: prayers/occasions/lament/ai-ethics-failures.md
-    #         - file: prayers/occasions/lament/data-breaches.md
-    #         - file: prayers/occasions/lament/algorithms-perpetuate-injustice.md
-    #         - file: prayers/occasions/lament/techs-role-in-isolation.md
-    #         - file: prayers/occasions/lament/dark-side-social-media.md
-    #         - file: prayers/occasions/lament/innovation-outpaces-wisdom.md
+    #         - file: 13-occasions/lament/tech-used-for-harm.md
+    #         - file: 13-occasions/lament/ai-ethics-failures.md
+    #         - file: 13-occasions/lament/data-breaches.md
+    #         - file: 13-occasions/lament/algorithms-perpetuate-injustice.md
+    #         - file: 13-occasions/lament/techs-role-in-isolation.md
+    #         - file: 13-occasions/lament/dark-side-social-media.md
+    #         - file: 13-occasions/lament/innovation-outpaces-wisdom.md
