@@ -461,19 +461,48 @@ This collection offers prayers for every season, struggle, and celebration in th
 
 ---
 
-## [XI. Relationships & Humanity](prayers/relationships/index.md)
+## XI. Relationships & Humanity
 
-### [With Students](prayers/relationships/with-students/index.md)
-For professors caring for the whole person
+### With Students
 
-### [With Professors](prayers/relationships/with-professors/index.md)
-For students grateful for mentorship
+*For professors caring for the whole person*
 
-### [With Peers](prayers/relationships/with-peers/index.md)
-Friendship, competition, and mutual support
+- 🔴 [Celebrating Success](11-relationships/with-students/celebrating-success.md)
+- 🔴 [Firm But Loving](11-relationships/with-students/firm-but-loving.md)
+- 🔴 [Grieving With Students](11-relationships/with-students/grieving-with-students.md)
+- 🔴 [Mental Health](11-relationships/with-students/mental-health.md)
+- 🔴 [Struggling Personally](11-relationships/with-students/struggling-personally.md)
+- 🔴 [Student Discovers Calling](11-relationships/with-students/student-discovers-calling.md)
 
-### [With Family & Friends](prayers/relationships/with-family/index.md)
-Bridging CS and non-CS worlds
+### With Professors
+
+*For students grateful for mentorship*
+
+- 🔴 [Disappointing Professor](11-relationships/with-professors/disappointing-professor.md)
+- 🔴 [Extraordinary Care](11-relationships/with-professors/extraordinary-care.md)
+- 🔴 [Gratitude For Mentorship](11-relationships/with-professors/gratitude-for-mentorship.md)
+- 🔴 [Professors Are Human](11-relationships/with-professors/professors-are-human.md)
+
+### With Peers
+
+*Friendship, competition, and mutual support*
+
+- 🔴 [Celebrating Others](11-relationships/with-peers/celebrating-others.md)
+- 🔴 [Healthy Competition](11-relationships/with-peers/healthy-competition.md)
+- 🔴 [Making Friends](11-relationships/with-peers/making-friends.md)
+- 🔴 [Mutual Learning](11-relationships/with-peers/mutual-learning.md)
+- 🔴 [Professional Jealousy](11-relationships/with-peers/professional-jealousy.md)
+- 🔴 [Supporting Peers](11-relationships/with-peers/supporting-peers.md)
+
+### With Family & Friends
+
+*Bridging CS and non-CS worlds*
+
+- 🔴 [Loved Ones Support](11-relationships/with-family/loved-ones-support.md)
+- 🔴 [Missing Family Time](11-relationships/with-family/missing-family-time.md)
+- 🔴 [Non CS Dont Understand](11-relationships/with-family/non-cs-dont-understand.md)
+- 🔴 [Trying To Explain](11-relationships/with-family/trying-to-explain.md)
+- 🔴 [When They Dont](11-relationships/with-family/when-they-dont.md)
 
 ---
 

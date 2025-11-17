@@ -384,150 +384,94 @@ project:
             - file: 10-rhythms/seasonal/summer-research.md
             - file: 10-rhythms/seasonal/summer-rest.md
 
-    # - title: XI. Relationships & Humanity
-    #   children:
-    #     - title: With Students (For Professors)
-    #       children:
-    #         - file: prayers/relationships/with-students/struggling-personally.md
-    #           title: When a student is struggling personally
-    #         - file: prayers/relationships/with-students/student-discovers-calling.md
-    #           title: Watching a student discover their calling
-    #         - file: prayers/relationships/with-students/firm-but-loving.md
-    #           title: When you must be firm but loving
-    #         - file: prayers/relationships/with-students/celebrating-success.md
-    #           title: Celebrating student success
-    #         - file: prayers/relationships/with-students/grieving-with-students.md
-    #           title: Grieving with students in loss
-    #         - file: prayers/relationships/with-students/mental-health.md
-    #           title: When a student opens up about mental health
+    - title: XI. Relationships & Humanity
+      children:
+        - title: With Students (For Professors)
+          children:
+            - file: 11-relationships/with-students/struggling-personally.md
+            - file: 11-relationships/with-students/student-discovers-calling.md
+            - file: 11-relationships/with-students/firm-but-loving.md
+            - file: 11-relationships/with-students/celebrating-success.md
+            - file: 11-relationships/with-students/grieving-with-students.md
+            - file: 11-relationships/with-students/mental-health.md
 
-    #     - title: With Professors (For Students)
-    #       children:
-    #         - file: prayers/relationships/with-professors/extraordinary-care.md
-    #           title: When a professor shows extraordinary care
-    #         - file: prayers/relationships/with-professors/disappointing-professor.md
-    #           title: When you disappoint a professor you respect
-    #         - file: prayers/relationships/with-professors/professors-are-human.md
-    #           title: Learning to see professors as human
-    #         - file: prayers/relationships/with-professors/gratitude-for-mentorship.md
-    #           title: Gratitude for mentorship
+        - title: With Professors (For Students)
+          children:
+            - file: 11-relationships/with-professors/extraordinary-care.md
+            - file: 11-relationships/with-professors/disappointing-professor.md
+            - file: 11-relationships/with-professors/professors-are-human.md
+            - file: 11-relationships/with-professors/gratitude-for-mentorship.md
 
-    #     - title: With Peers
-    #       children:
-    #         - file: prayers/relationships/with-peers/making-friends.md
-    #           title: Making friends through CS
-    #         - file: prayers/relationships/with-peers/professional-jealousy.md
-    #           title: Professional jealousy
-    #         - file: prayers/relationships/with-peers/celebrating-others.md
-    #           title: Celebrating others' success
-    #         - file: prayers/relationships/with-peers/supporting-peer.md
-    #           title: Supporting a struggling peer
-    #         - file: prayers/relationships/with-peers/healthy-competition.md
-    #           title: Healthy competition
-    #         - file: prayers/relationships/with-peers/mutual-learning.md
-    #           title: Collaboration and mutual learning
+        - title: With Peers
+          children:
+            - file: 11-relationships/with-peers/making-friends.md
+            - file: 11-relationships/with-peers/professional-jealousy.md
+            - file: 11-relationships/with-peers/celebrating-others.md
+            - file: 11-relationships/with-peers/supporting-peer.md
+            - file: 11-relationships/with-peers/healthy-competition.md
+            - file: 11-relationships/with-peers/mutual-learning.md
 
-    #     - title: With Family & Friends
-    #       children:
-    #         - file: prayers/relationships/with-family/non-cs-dont-understand.md
-    #           title: When non-CS people don't understand your work
-    #         - file: prayers/relationships/with-family/missing-family-time.md
-    #           title: Missing family time for deadlines
-    #         - file: prayers/relationships/with-family/trying-to-explain.md
-    #           title: Trying to explain what you do
-    #         - file: prayers/relationships/with-family/loved-ones-support.md
-    #           title: When loved ones support you
-    #         - file: prayers/relationships/with-family/when-they-dont.md
-    #           title: When they don't
+        - title: With Family & Friends
+          children:
+            - file: 11-relationships/with-family/non-cs-dont-understand.md
+            - file: 11-relationships/with-family/missing-family-time.md
+            - file: 11-relationships/with-family/trying-to-explain.md
+            - file: 11-relationships/with-family/loved-ones-support.md
+            - file: 11-relationships/with-family/when-they-dont.md
 
     # - title: XII. The Life of the Mind
     #   children:
     #     - title: Wonder & Beauty
     #       children:
     #         - file: prayers/mind/wonder/elegant-code.md
-    #           title: Encountering elegant code
     #         - file: prayers/mind/wonder/beautiful-algorithm.md
-    #           title: Understanding a beautiful algorithm
     #         - file: prayers/mind/wonder/mathematics-beneath.md
-    #           title: Seeing the mathematics beneath computation
     #         - file: prayers/mind/wonder/complexity-becomes-simple.md
-    #           title: When complexity becomes simple
     #         - file: prayers/mind/wonder/computational-thinking.md
-    #           title: Appreciating computational thinking
     #         - file: prayers/mind/wonder/artistry-of-design.md
-    #           title: The artistry of good design
 
     #     - title: Limits & Mystery
     #       children:
     #         - file: prayers/mind/limits/limits-of-computation.md
-    #           title: Realizing the limits of computation
     #         - file: prayers/mind/limits/undecidability.md
-    #           title: Encountering undecidability
     #         - file: prayers/mind/limits/halting-problem.md
-    #           title: Grappling with the halting problem
     #         - file: prayers/mind/limits/what-computers-cant-do.md
-    #           title: Understanding what computers can't do
     #         - file: prayers/mind/limits/consciousness-and-ai.md
-    #           title: The mystery of consciousness and AI
     #         - file: prayers/mind/limits/questions-tech-cant-answer.md
-    #           title: Questions technology can't answer
 
     #     - title: Integration
     #       children:
     #         - file: prayers/mind/integration/cs-other-disciplines.md
-    #           title: Connecting CS to other disciplines
     #         - file: prayers/mind/integration/faith-and-technology.md
-    #           title: Faith and technology
     #         - file: prayers/mind/integration/cs-liberal-arts.md
-    #           title: CS and the liberal arts
     #         - file: prayers/mind/integration/science-humanities.md
-    #           title: Science and the humanities
     #         - file: prayers/mind/integration/tech-human-flourishing.md
-    #           title: Technology and human flourishing
 
     # - title: XIII. Special Occasions
     #   children:
     #     - title: Celebrations
     #       children:
     #         - file: prayers/occasions/celebrations/winning-hackathon.md
-    #           title: Winning a hackathon
     #         - file: prayers/occasions/celebrations/publishing-first-paper.md
-    #           title: Publishing your first paper
     #         - file: prayers/occasions/celebrations/defending-thesis.md
-    #           title: Defending a thesis
     #         - file: prayers/occasions/celebrations/first-job-offer.md
-    #           title: Getting your first job offer
     #         - file: prayers/occasions/celebrations/launching-product.md
-    #           title: Launching a successful product
     #         - file: prayers/occasions/celebrations/first-hello-world.md
-    #           title: A student's first "Hello, World!"
     #         - file: prayers/occasions/celebrations/department-celebrations.md
-    #           title: Department celebrations
 
     #     - title: Commemorations
     #       children:
     #         - file: prayers/occasions/commemorations/cs-pioneer-passes.md
-    #           title: When a pioneer in CS passes away
     #         - file: prayers/occasions/commemorations/honoring-those-before.md
-    #           title: Honoring those who came before
     #         - file: prayers/occasions/commemorations/history-of-computing.md
-    #           title: Celebrating the history of computing
     #         - file: prayers/occasions/commemorations/key-moments.md
-    #           title: Remembering key moments in CS history
 
     #     - title: Lament
     #       children:
     #         - file: prayers/occasions/lament/tech-used-for-harm.md
-    #           title: When technology is used for harm
     #         - file: prayers/occasions/lament/ai-ethics-failures.md
-    #           title: AI ethics failures in the news
     #         - file: prayers/occasions/lament/data-breaches.md
-    #           title: Data breaches and privacy violations
     #         - file: prayers/occasions/lament/algorithms-perpetuate-injustice.md
-    #           title: When algorithms perpetuate injustice
     #         - file: prayers/occasions/lament/techs-role-in-isolation.md
-    #           title: Technology's role in isolation
     #         - file: prayers/occasions/lament/dark-side-social-media.md
-    #           title: The dark side of social media
     #         - file: prayers/occasions/lament/innovation-outpaces-wisdom.md
-    #           title: When innovation outpaces wisdom
