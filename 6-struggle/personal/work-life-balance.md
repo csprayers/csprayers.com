@@ -69,4 +69,3 @@ date: 2025-12-8
 > For our lives belong completely to you, Lord.
 >
 > Amen.
-
