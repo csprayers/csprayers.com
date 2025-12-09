@@ -184,7 +184,7 @@ This collection offers prayers for every season, struggle, and celebration in th
 - 🔴 [Paper Rejection](3-teaching/professional/paper-rejection.md)
 - 🔴 [Presenting Conference](3-teaching/professional/presenting-conference.md)
 - 🔴 [Research Dead End](3-teaching/professional/research-dead-end.md)
-- 🔴 [Reviewing Papers](3-teaching/professional/reviewing-papers.md)
+- 🟡 [Reviewing Papers](3-teaching/professional/reviewing-papers.md)
 - 🔴 [Submitting Paper](3-teaching/professional/submitting-paper.md)
 - 🔴 [Tenure Review](3-teaching/professional/tenure-review.md)
 
