@@ -18,7 +18,7 @@ Whether you're starting a new semester, debugging stubborn code, wrestling with 
 Explore our [collection of Prayers](prayers.md), including:
 
 - [A Prayer for the Beginning of a Semester](prayers/1-academic-year/beginnings/first-day-student.md) - For professors and students as a new term begins
-- [Grasping Big-O notation and complexity](prayers/2-learning/intellectual-struggle/big-o-notation.md)
+- [Grasping Big-O notation and complexity](prayers/2-learning/intellectual-struggle/big-o-notation.md) - For students wrestling with understanding algorithm complexity
 - [Reviewing others' papers](prayers/3-teaching/professional/reviewing-papers.md) - For the professor asked to review a colleague's scholarly work
 - [Morning coffee before coding](prayers/10-rhythms/daily/morning-coffee.md) - Starting the day with God before programming
 <!-- - [A Prayer Before Debugging](prayers/5-programming/debugging/hunting-bug.md) - When the code will not run, and the error is hidden -->
