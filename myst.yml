@@ -31,6 +31,7 @@ project:
       children:
         - title: Beginnings
           children:
+            - file: ./1-academic-year/beginnings/revising-course.md
             - file: ./1-academic-year/beginnings/first-day-student.md
             - file: ./1-academic-year/beginnings/first-day-professor.md
             - file: ./1-academic-year/beginnings/new-course.md
@@ -55,6 +56,7 @@ project:
             - file: ./1-academic-year/endings/graduation-students.md
             - file: ./1-academic-year/endings/graduation-professors.md
             - file: ./1-academic-year/endings/end-of-year.md
+            - file: ./1-academic-year/endings/receiving-evaluations.md
 
         - title: Transitions
           children:
@@ -397,6 +399,7 @@ project:
 
         - title: With Professors (For Students)
           children:
+            - file: 11-relationships/with-professors/professor-retires.md
             - file: 11-relationships/with-professors/extraordinary-care.md
             - file: 11-relationships/with-professors/disappointing-professor.md
             - file: 11-relationships/with-professors/professors-are-human.md

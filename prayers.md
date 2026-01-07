@@ -22,7 +22,8 @@ This collection offers prayers for every season, struggle, and celebration in th
 
 *The first days, new courses, and fresh starts*
 
-- 🔴 [The First Day (For Students)](./1-academic-year/beginnings/first-day-student.md)
+- 🟢 [Revising a Course](./1-academic-year/beginnings/revising-course.md)
+- 🟡 [The First Day (For Students)](./1-academic-year/beginnings/first-day-student.md)
 - 🔴 [The First Day (For Professors)](./1-academic-year/beginnings/first-day-professor.md)
 - 🔴 [Beginning a New Course](./1-academic-year/beginnings/new-course.md)
 - 🔴 [Starting a Capstone Project](./1-academic-year/beginnings/capstone-project.md)
@@ -51,6 +52,7 @@ This collection offers prayers for every season, struggle, and celebration in th
 - 🔴 [Graduation Day (For Students)](1-academic-year/endings/graduation-students.md)
 - 🔴 [Graduation Day (For Professors)](1-academic-year/endings/graduation-professors.md)
 - 🔴 [End of Academic Year](1-academic-year/endings/end-of-year.md)
+- 🟢 [Receiving Course Evaluations](1-academic-year/endings/receiving-evaluations.md)
 
 ### Transitions
 
@@ -294,7 +296,7 @@ This collection offers prayers for every season, struggle, and celebration in th
 - 🔴 [Missing Personal Events](6-struggle/personal/missing-personal-events.md)
 - 🔴 [Not Creative Enough](6-struggle/personal/not-creative-enough.md)
 - 🔴 [Not Technical Enough](6-struggle/personal/not-technical-enough.md)
-- 🔴 [Work Life Balance](6-struggle/personal/work-life-balance.md)
+- � [Work Life Balance](6-struggle/personal/work-life-balance.md)
 - 🔴 [Wrong Field](6-struggle/personal/wrong-field.md)
 
 ### Failure & Setback
@@ -481,6 +483,7 @@ This collection offers prayers for every season, struggle, and celebration in th
 - 🔴 [Disappointing Professor](11-relationships/with-professors/disappointing-professor.md)
 - 🔴 [Extraordinary Care](11-relationships/with-professors/extraordinary-care.md)
 - 🔴 [Gratitude For Mentorship](11-relationships/with-professors/gratitude-for-mentorship.md)
+- 🟢 [Professor Retires](11-relationships/with-professors/professor-retires.md)
 - 🔴 [Professors Are Human](11-relationships/with-professors/professors-are-human.md)
 
 ### With Peers
