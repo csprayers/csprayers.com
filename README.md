@@ -20,10 +20,16 @@ At build time, `scripts/build_index.py` (run automatically by `quarto render` as
 
 Deployment is via GitHub Actions (`.github/workflows/deploy.yml`) to GitHub Pages on every push to `main`.
 
-## Writing a New Prayer
+## Contributing (for visitors)
+
+Visitors contribute through the **Contribute** page on the site — a form (backed by [Formspree](https://formspree.io)) that emails each submission to the curator. The "contribute" links on the All Prayers page pre-fill the form with the topic. No GitHub account needed.
+
+When a good submission arrives by email, create the prayer file for it (see below) and push.
+
+## Writing a New Prayer (for maintainers)
 
 1. Find the topic in `catalog.yml` and note its `file:` path.
-2. Create that file (or select "contribute" next to the topic on the [All Prayers](https://csprayers.com/prayers.html) page, which opens a pre-filled GitHub editor):
+2. Create that file:
 
    ```markdown
    ---

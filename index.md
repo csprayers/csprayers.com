@@ -11,7 +11,7 @@ Medieval books of hours gathered prayers for the rhythms of ordinary days. This 
 
 ::: {.doorways}
 [Browse the prayers](prayers.qmd){.doorway}
-[Contribute a prayer](https://github.com/csprayers/csprayers.com){.doorway}
+[Contribute a prayer](contribute.qmd){.doorway}
 :::
 
 [A prayer for the morning]{.featured-label}

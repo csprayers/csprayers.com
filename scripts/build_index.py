@@ -15,25 +15,6 @@ import urllib.parse
 import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-REPO = "https://github.com/csprayers/csprayers.com"
-
-PRAYER_TEMPLATE = """---
-title: "{title}"
-author: Your Name
-date: {date}
-status: draft
----
-
-*A sentence describing the moment this prayer is for*
-
----
-
-> Write the prayer here,
->
-> line by line,
->
-> Amen.
-"""
 
 
 def load_catalog():
@@ -55,10 +36,8 @@ def file_status(path):
 
 
 def contribute_url(topic):
-    fname = topic["file"]
-    value = PRAYER_TEMPLATE.format(title=topic["title"], date="YYYY-MM-DD")
-    q = urllib.parse.urlencode({"filename": fname, "value": value})
-    return f"{REPO}/new/main?{q}"
+    q = urllib.parse.urlencode({"topic": topic["title"], "file": topic["file"]})
+    return f"contribute.html?{q}"
 
 
 def topic_line(topic):
@@ -90,8 +69,8 @@ def build_prayers_page(sections):
         "---",
         "",
         "Written prayers appear as links. The rest are moments still waiting "
-        "for words — select “contribute” to write one (it opens a "
-        "pre-filled editor on GitHub).",
+        "for words — select “contribute” next to any of them to "
+        "[send us yours](contribute.qmd).",
         "",
     ]
     for sec in sections:
@@ -128,6 +107,7 @@ def build_sidebar(sections):
     add(0, "- href: index.md")
     add(0, "  text: Home")
     add(0, "- prayers.qmd")
+    add(0, "- contribute.qmd")
     for sec in sections:
         entries = []
         for t in sec.get("topics", []):

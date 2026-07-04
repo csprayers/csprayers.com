@@ -1,0 +1,79 @@
+---
+title: Contribute a Prayer
+subtitle: Lend your words to a moment still waiting for them
+---
+
+::: {.invitation}
+Every prayer in this collection was written by a student or teacher of computing. If a moment on the [All Prayers](prayers.qmd) page speaks to you — or one we haven't thought of — we would be glad to receive your words. Submissions are reviewed before publication and credited to you.
+:::
+
+```{=html}
+<form class="contribute-form" action="https://formspree.io/f/mgojrqwq" method="POST">
+  <input type="hidden" name="_subject" value="CS Prayers: new prayer submission">
+  <input type="hidden" name="catalog-file" id="catalog-file" value="">
+  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+
+  <label for="name">Your name</label>
+  <input type="text" id="name" name="name" required>
+
+  <label for="email">Your email</label>
+  <input type="email" id="email" name="_replyto" required>
+
+  <label for="moment">The moment this prayer is for</label>
+  <input type="text" id="moment" name="moment" placeholder="e.g. Midterm season, or a moment of your own" required>
+
+  <label for="context">A one-line setting <span class="optional">(optional)</span></label>
+  <input type="text" id="context" name="context" placeholder="e.g. As a new semester begins">
+
+  <label for="prayer">The prayer</label>
+  <textarea id="prayer" name="prayer" rows="12" placeholder="Write the prayer here, line by line…" required></textarea>
+
+  <button type="submit" class="doorway">Send the prayer</button>
+  <p class="form-error" id="form-error" hidden>
+    Something went wrong sending your prayer. Please try again — or email it to us instead.
+  </p>
+</form>
+
+<div class="thank-you" id="thank-you" hidden>
+  <div class="thank-you-ornament">❦</div>
+  <p class="thank-you-lead">Thank you — your prayer has been received.</p>
+  <p>We will read it with care, and if it joins the collection it will be
+  published with your name. Grace and peace to you.</p>
+  <p class="thank-you-verse"><em>“Let the words of my mouth and the meditation
+  of my heart be acceptable in your sight, O&nbsp;Lord.”</em> — Psalm 19:14</p>
+</div>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  if (params.get("topic")) document.getElementById("moment").value = params.get("topic");
+  if (params.get("file")) document.getElementById("catalog-file").value = params.get("file");
+
+  const form = document.querySelector(".contribute-form");
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    document.getElementById("form-error").hidden = true;
+    const button = form.querySelector("button");
+    button.disabled = true;
+    button.textContent = "Sending…";
+    try {
+      const resp = await fetch(form.action, {
+        method: "POST",
+        body: new FormData(form),
+        headers: { Accept: "application/json" },
+      });
+      if (!resp.ok) throw new Error("send failed");
+      form.hidden = true;
+      document.getElementById("thank-you").hidden = false;
+      document.getElementById("thank-you").scrollIntoView({ behavior: "smooth", block: "center" });
+    } catch (err) {
+      document.getElementById("form-error").hidden = false;
+      button.disabled = false;
+      button.textContent = "Send the prayer";
+    }
+  });
+</script>
+```
+
+::: {.colophon}
+Comfortable with Git? You may also [contribute directly on GitHub](https://github.com/csprayers/csprayers.com).
+:::

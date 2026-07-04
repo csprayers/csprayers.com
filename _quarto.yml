@@ -20,6 +20,8 @@ website:
         text: Home
       - href: prayers.qmd
         text: All Prayers
+      - href: contribute.qmd
+        text: Contribute
       - icon: github
         href: https://github.com/csprayers/csprayers.com
   sidebar:
@@ -30,6 +32,7 @@ website:
       - href: index.md
         text: Home
       - prayers.qmd
+      - contribute.qmd
       - section: "I. The Rhythms of the Academic Year"
         contents:
         - 1-academic-year/beginnings/revising-course.md

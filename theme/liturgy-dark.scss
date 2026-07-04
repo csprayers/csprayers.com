@@ -262,6 +262,102 @@ li:hover > a.contribute {
   vertical-align: 0.12em;
 }
 
+// ————— Contribute form —————
+.contribute-form {
+  max-width: 34em;
+  margin: 2.5rem auto 1.5rem;
+
+  label {
+    display: block;
+    font-family: $headings-font-family;
+    font-size: 1.05rem;
+    color: $rose;
+    margin: 1.4rem 0 0.35rem;
+
+    .optional {
+      font-size: 0.85rem;
+      color: $candle-soft;
+      font-style: italic;
+    }
+  }
+
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    font-family: $font-family-sans-serif;
+    font-size: 1rem;
+    color: $candlelight;
+    background: $night-raised;
+    border: 1px solid rgba($gold, 0.45);
+    border-radius: 2px;
+    padding: 0.55rem 0.8rem;
+
+    &:focus {
+      outline: none;
+      border-color: $gold;
+      box-shadow: 0 0 0 3px rgba($gold, 0.12);
+    }
+
+    &::placeholder {
+      color: rgba($candle-soft, 0.6);
+      font-style: italic;
+    }
+  }
+
+  button.doorway {
+    display: block;
+    margin: 2.2rem auto 0;
+    font-family: $headings-font-family;
+    font-size: 1.15rem;
+    letter-spacing: 0.03em;
+    color: $rose;
+    background: transparent;
+    padding: 0.65rem 1.7rem;
+    border: 1px solid rgba($gold, 0.55);
+    border-radius: 2px;
+    cursor: pointer;
+    transition: background 0.15s ease;
+
+    &:hover {
+      background: $night-raised;
+      border-color: $gold;
+    }
+  }
+}
+
+// ————— Thank-you message (after form submission) —————
+.thank-you {
+  text-align: center;
+  max-width: 32em;
+  margin: 3.5rem auto;
+
+  .thank-you-ornament {
+    color: $gold;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+  }
+
+  .thank-you-lead {
+    font-family: $headings-font-family;
+    font-size: 1.5rem;
+    color: $rose;
+  }
+
+  .thank-you-verse {
+    color: $candle-soft;
+    font-size: 0.98rem;
+    margin-top: 2rem;
+  }
+}
+
+.form-error {
+  text-align: center;
+  color: $rose;
+  font-style: italic;
+  margin-top: 1.2rem;
+}
+
 // ————— Callouts —————
 .callout {
   background: $night-raised;
