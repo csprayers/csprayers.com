@@ -30,4 +30,6 @@ Medieval books of hours gathered prayers for the rhythms of ordinary days. This 
 
 ::: {.colophon}
 *"For from him and through him and for him are all things. To him be the glory forever! Amen."* — Romans 11:36
+
+Curated by [Eric Araújo](https://ericaraujo.com), professor of Computer Science at Calvin University.
 :::

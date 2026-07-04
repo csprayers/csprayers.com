@@ -57,7 +57,7 @@ website:
         - 11-relationships/with-professors/professor-retires.md
       # END GENERATED SIDEBAR
   page-footer:
-    center: '*"The heavens declare the glory of God" — Psalm 19:1* · A project curated by Eric Araújo, Calvin University'
+    center: '*"The heavens declare the glory of God" — Psalm 19:1* · A project curated by [Eric Araújo](https://ericaraujo.com), Calvin University'
 
 format:
   html:
