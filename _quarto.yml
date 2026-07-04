@@ -27,7 +27,8 @@ website:
     collapse-level: 2
     contents:
       # BEGIN GENERATED SIDEBAR — do not edit by hand; run scripts/build_index.py
-      - index.md
+      - href: index.md
+        text: Home
       - prayers.qmd
       - section: "I. The Rhythms of the Academic Year"
         contents:

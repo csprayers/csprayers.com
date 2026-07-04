@@ -167,6 +167,65 @@ img.front-image {
   box-shadow: 0 6px 24px rgba($ink, 0.12);
 }
 
+// ————— Homepage —————
+.invitation {
+  text-align: center;
+  max-width: 36em;
+  margin: 0 auto 1rem;
+  font-size: 1.12rem;
+}
+
+.doorways {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin: 2.5rem 0 3.5rem;
+
+  .doorway {
+    font-family: $headings-font-family;
+    font-size: 1.15rem;
+    letter-spacing: 0.03em;
+    color: $burgundy;
+    padding: 0.65rem 1.7rem;
+    border: 1px solid rgba($gold, 0.65);
+    border-bottom: 1px solid rgba($gold, 0.65);
+    border-radius: 2px;
+    transition: background 0.15s ease;
+
+    &:hover {
+      background: $parchment-deep;
+      border-color: $gold;
+      color: $burgundy;
+    }
+  }
+}
+
+.featured-label {
+  display: block;
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.22em;
+  color: $gold;
+  font-size: 0.95rem;
+  margin-bottom: -1.25rem;
+}
+
+.featured-more {
+  display: block;
+  text-align: center;
+  font-size: 0.95rem;
+  margin-top: -1.25rem;
+  border-bottom: none !important;
+}
+
+.colophon {
+  text-align: center;
+  color: $ink-soft;
+  margin-top: 3.5rem;
+  font-size: 1rem;
+}
+
 // ————— All Prayers index: unwritten topics —————
 .unwritten {
   color: #a3988a;           // quiet warm gray

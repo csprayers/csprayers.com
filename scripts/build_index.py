@@ -125,7 +125,8 @@ def build_sidebar(sections):
     def add(indent, text):
         lines.append("      " + "  " * indent + text)
 
-    add(0, "- index.md")
+    add(0, "- href: index.md")
+    add(0, "  text: Home")
     add(0, "- prayers.qmd")
     for sec in sections:
         entries = []

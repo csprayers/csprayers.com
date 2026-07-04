@@ -1,32 +1,33 @@
 ---
-title: Start Here!
+title: A Book of Hours for Computing
+subtitle: Prayers for those who study, teach, and practice computer science
 ---
 
 ![](front.png){fig-alt="Prayers for Computer Science" .front-image}
 
-Welcome to a collection of prayers written for those who study, teach, and practice the craft of computing. I am Eric Araujo, professor of Computer Science at Calvin University and the curator of this collection. You are invited to explore, use, and contribute to these prayers as you seek to integrate your faith with your work in computer science.
+::: {.invitation}
+Medieval books of hours gathered prayers for the rhythms of ordinary days. This is one for ours — for first days and finals week, for debugging and deploying, for the long grind and the quiet breakthrough. You are invited to bring your whole self — mind, heart, and soul — before God.
+:::
 
-## About This Collection
+::: {.doorways}
+[Browse the prayers](prayers.qmd){.doorway}
+[Contribute a prayer](https://github.com/csprayers/csprayers.com){.doorway}
+:::
 
-In the discipline of Computer Science, we encounter profound questions about logic, creation, beauty, and human flourishing. These prayers are offered as a resource for students and professors who wish to integrate their faith with their intellectual work.
+[A prayer for the morning]{.featured-label}
 
-Whether you're starting a new semester, debugging stubborn code, wrestling with imposter syndrome, or preparing to teach a difficult concept, these prayers invite you to bring your whole self—mind, heart, and soul—before God.
+> Good morning, King of the Universe
+>
+> As I sip from my cup and think about the day ahead, you remind me that you are always present
+>
+> I thank you for the great duty of finding order in the code I create
+>
+> May my code be creative, effective, hospitable
+>
+> May my code be a reflection of the love I have for you and for my neighbor
 
-## Browse the Prayers
+[from *Morning coffee before coding*](10-rhythms/daily/morning-coffee.md){.featured-more}
 
-Explore our [collection of Prayers](prayers.qmd), including:
-
-- [A Prayer for the Beginning of a Semester](1-academic-year/beginnings/first-day-student.md) - For professors and students as a new term begins
-- [Grasping Big-O notation and complexity](2-learning/intellectual-struggle/big-o-notation.md) - For students wrestling with understanding algorithm complexity
-- [Reviewing others' papers](3-teaching/professional/reviewing-papers.md) - For the professor asked to review a colleague's scholarly work
-- [Morning coffee before coding](10-rhythms/daily/morning-coffee.md) - Starting the day with God before programming
-
-Many more moments are still waiting for words. Visit the [All Prayers](prayers.qmd) page to see them all — and to contribute one of your own.
-
----
-
-*"The heavens declare the glory of God; the skies proclaim the work of his hands."*
-— Psalm 19:1
-
-*"For from him and through him and for him are all things. To him be the glory forever! Amen."*
-— Romans 11:36
+::: {.colophon}
+*"For from him and through him and for him are all things. To him be the glory forever! Amen."* — Romans 11:36
+:::
