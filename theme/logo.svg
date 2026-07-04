@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- CS Prayers mark: cross between code brackets, illuminated-manuscript style -->
+  <defs>
+    <radialGradient id="parch" cx="50%" cy="42%" r="70%">
+      <stop offset="0%" stop-color="#fdfaf3"/>
+      <stop offset="100%" stop-color="#f3ecdd"/>
+    </radialGradient>
+  </defs>
+
+  <!-- parchment roundel with double gold ring -->
+  <circle cx="256" cy="256" r="242" fill="url(#parch)" stroke="#b08d3f" stroke-width="8"/>
+  <circle cx="256" cy="256" r="222" fill="none" stroke="#b08d3f" stroke-width="2.5"/>
+
+  <!-- four gold quatrefoil dots on the ring -->
+  <g fill="#b08d3f">
+    <circle cx="256" cy="22" r="7"/>
+    <circle cx="256" cy="490" r="7"/>
+    <circle cx="22" cy="256" r="7"/>
+    <circle cx="490" cy="256" r="7"/>
+  </g>
+
+  <!-- angle brackets -->
+  <g fill="none" stroke="#6e1c2e" stroke-width="30" stroke-linecap="square">
+    <polyline points="178,178 104,256 178,334"/>
+    <polyline points="334,178 408,256 334,334"/>
+  </g>
+
+  <!-- latin cross with gently flared (serif) ends -->
+  <g fill="#6e1c2e">
+    <path d="M 243 138
+             L 269 138
+             L 265 214 L 313 210
+             L 313 236
+             L 265 232 L 269 374
+             L 243 374
+             L 247 232 L 199 236
+             L 199 210
+             L 247 214 Z"/>
+  </g>
+  <!-- gold inlay line down the cross -->
+  <line x1="256" y1="150" x2="256" y2="362" stroke="#b08d3f" stroke-width="3"/>
+  <line x1="210" y1="223" x2="302" y2="223" stroke="#b08d3f" stroke-width="3"/>
+</svg>

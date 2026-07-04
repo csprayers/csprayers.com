@@ -14,15 +14,14 @@ Whether you're starting a new semester, debugging stubborn code, wrestling with 
 
 ## Browse the Prayers
 
-Explore our [collection of Prayers](prayers.md), including:
+Explore our [collection of Prayers](prayers.qmd), including:
 
 - [A Prayer for the Beginning of a Semester](1-academic-year/beginnings/first-day-student.md) - For professors and students as a new term begins
 - [Grasping Big-O notation and complexity](2-learning/intellectual-struggle/big-o-notation.md) - For students wrestling with understanding algorithm complexity
 - [Reviewing others' papers](3-teaching/professional/reviewing-papers.md) - For the professor asked to review a colleague's scholarly work
 - [Morning coffee before coding](10-rhythms/daily/morning-coffee.md) - Starting the day with God before programming
-<!-- - [A Prayer Before Debugging](prayers/5-programming/debugging/hunting-bug.md) - When the code will not run, and the error is hidden -->
-<!-- - [A Prayer for the Student Facing Imposter Syndrome](prayers/struggle/personal/imposter-syndrome.md) - When you feel you do not belong -->
-<!-- - [A Prayer Before Teaching a Difficult Concept](prayers/teaching/preparation/preparing-lecture.md) - For the professor preparing to explain what is hard -->
+
+Many more moments are still waiting for words. Visit the [All Prayers](prayers.qmd) page to see them all — and to contribute one of your own.
 
 ---
 

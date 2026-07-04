@@ -1,0 +1,753 @@
+sections:
+- title: I. The Rhythms of the Academic Year
+  subsections:
+  - title: Beginnings
+    topics:
+    - title: Revising a Course
+      file: 1-academic-year/beginnings/revising-course.md
+    - title: The First Day (For Students)
+      file: 1-academic-year/beginnings/first-day-student.md
+    - title: The First Day (For Professors)
+      file: 1-academic-year/beginnings/first-day-professor.md
+    - title: Beginning a New Course
+      file: 1-academic-year/beginnings/new-course.md
+    - title: Starting a Capstone Project
+      file: 1-academic-year/beginnings/capstone-project.md
+    - title: Beginning Graduate Studies
+      file: 1-academic-year/beginnings/graduate-studies.md
+    - title: Starting Your First Faculty Position
+      file: 1-academic-year/beginnings/first-faculty-position.md
+    - title: Beginning a Sabbatical
+      file: 1-academic-year/beginnings/sabbatical.md
+    blurb: The first days, new courses, and fresh starts
+  - title: Middles
+    topics:
+    - title: Midterm Season
+      file: 1-academic-year/middles/midterm-season.md
+    - title: Before Spring Break
+      file: 1-academic-year/middles/before-spring-break.md
+    - title: When the Semester Feels Endless
+      file: 1-academic-year/middles/endless-semester.md
+    - title: During a Challenging Unit
+      file: 1-academic-year/middles/challenging-unit.md
+    - title: The Grind of Weeks 6-10
+      file: 1-academic-year/middles/the-grind.md
+    blurb: Midterm pressure, exhaustion, and the long weeks
+  - title: Endings
+    topics:
+    - title: Final Exam Week (For Students)
+      file: 1-academic-year/endings/final-exam-week-students.md
+    - title: Final Exam Week (For Professors)
+      file: 1-academic-year/endings/final-exam-week-professors.md
+    - title: Submitting Final Grades
+      file: 1-academic-year/endings/submitting-grades.md
+    - title: The Last Class Meeting
+      file: 1-academic-year/endings/last-class.md
+    - title: Graduation Day (For Students)
+      file: 1-academic-year/endings/graduation-students.md
+    - title: Graduation Day (For Professors)
+      file: 1-academic-year/endings/graduation-professors.md
+    - title: End of Academic Year
+      file: 1-academic-year/endings/end-of-year.md
+    - title: Receiving Course Evaluations
+      file: 1-academic-year/endings/receiving-evaluations.md
+    blurb: Finals, grading, graduation, and closure
+  - title: Transitions
+    topics:
+    - title: Choosing Computer Science
+      file: 1-academic-year/transitions/choosing-cs-major.md
+    - title: Switching to CS
+      file: 1-academic-year/transitions/switching-to-cs.md
+    - title: Declaring a CS Minor
+      file: 1-academic-year/transitions/declaring-minor.md
+    - title: The Summer Between
+      file: 1-academic-year/transitions/summer-between-years.md
+    - title: From Undergraduate to Graduate
+      file: 1-academic-year/transitions/undergrad-to-grad.md
+    - title: From Student to Professional
+      file: 1-academic-year/transitions/student-to-professional.md
+    - title: From Academia to Industry
+      file: 1-academic-year/transitions/academia-to-industry.md
+    - title: From Industry to Academia
+      file: 1-academic-year/transitions/industry-to-academia.md
+    - title: Retirement from Teaching
+      file: 1-academic-year/transitions/retirement.md
+    blurb: Choosing majors, changing careers, and life shifts
+- title: II. The Work of Learning (For Students)
+  subsections:
+  - title: Intellectual Struggle
+    topics:
+    - title: When a Concept Won't Click
+      file: 2-learning/intellectual-struggle/concept-wont-click.md
+    - title: Before Reading Dense Material
+      file: 2-learning/intellectual-struggle/dense-textbook.md
+    - title: Facing an Impossible Problem Set
+      file: 2-learning/intellectual-struggle/impossible-problem-set.md
+    - title: When Everyone Else Seems to Understand
+      file: 2-learning/intellectual-struggle/everyone-else-understands.md
+    - title: Learning a New Programming Language
+      file: 2-learning/intellectual-struggle/new-programming-language.md
+    - title: Encountering Proofs
+      file: 2-learning/intellectual-struggle/proofs-first-time.md
+    - title: Wrestling with Recursion
+      file: 2-learning/intellectual-struggle/recursion.md
+    - title: Understanding Pointers and Memory
+      file: 2-learning/intellectual-struggle/pointers-and-memory.md
+    - title: Grasping Big-O Notation
+      file: 2-learning/intellectual-struggle/big-o-notation.md
+    - title: Making Sense of Functional Programming
+      file: 2-learning/intellectual-struggle/functional-programming.md
+    blurb: When concepts won't click and confusion reigns
+  - title: Breakthrough Moments
+    topics:
+    - title: When Understanding Finally Dawns
+      file: 2-learning/breakthrough/understanding-dawns.md
+    - title: Completing a Challenging Assignment
+      file: 2-learning/breakthrough/completing-challenge.md
+    - title: First Successful Compile and Run
+      file: 2-learning/breakthrough/first-compile-and-run.md
+    - title: Solving What Seemed Impossible
+      file: 2-learning/breakthrough/solving-beyond-you.md
+    - title: Making Unexpected Connections
+      file: 2-learning/breakthrough/unexpected-connection.md
+    - title: Understanding Why
+      file: 2-learning/breakthrough/why-it-works.md
+    blurb: Understanding dawns and problems solved
+  - title: Daily Work
+    topics:
+    - title: Late Night Coding
+      file: 2-learning/daily-work/late-night-coding.md
+    - title: Opening Your Laptop to Work
+      file: 2-learning/daily-work/opening-laptop.md
+    - title: Before Office Hours
+      file: 2-learning/daily-work/office-hours.md
+    - title: Before Asking a Question in Class
+      file: 2-learning/daily-work/asking-question.md
+    - title: Reviewing Notes After Lecture
+      file: 2-learning/daily-work/reviewing-notes.md
+    - title: During a Study Group
+      file: 2-learning/daily-work/study-group.md
+    - title: Reading Documentation
+      file: 2-learning/daily-work/reading-documentation.md
+    blurb: Coding sessions, study groups, and office hours
+  - title: Assessment
+    topics:
+    - title: Before Taking an Exam
+      file: 2-learning/assessment/before-exam.md
+    - title: During an Exam
+      file: 2-learning/assessment/during-exam.md
+    - title: After a Disappointing Grade
+      file: 2-learning/assessment/disappointing-grade.md
+    - title: After an Encouraging Grade
+      file: 2-learning/assessment/encouraging-grade.md
+    - title: Waiting for Grades
+      file: 2-learning/assessment/waiting-for-grades.md
+    - title: Before a Code Review
+      file: 2-learning/assessment/code-review.md
+    - title: During a Technical Interview
+      file: 2-learning/assessment/technical-interview.md
+    blurb: Exams, grades, interviews, and evaluation
+- title: III. The Work of Teaching (For Professors)
+  subsections:
+  - title: Preparation
+    topics:
+    - title: Planning New Course
+      file: 3-teaching/preparation/planning-new-course.md
+    - title: Writing Syllabus
+      file: 3-teaching/preparation/writing-syllabus.md
+    - title: Preparing Lecture
+      file: 3-teaching/preparation/preparing-lecture.md
+    - title: Creating Assignment
+      file: 3-teaching/preparation/creating-assignment.md
+    - title: Designing Exam
+      file: 3-teaching/preparation/designing-exam.md
+    - title: Choosing Topics
+      file: 3-teaching/preparation/choosing-topics.md
+    - title: Updating Materials
+      file: 3-teaching/preparation/updating-materials.md
+    - title: Learning To Teach
+      file: 3-teaching/preparation/learning-to-teach.md
+    blurb: Planning courses, lectures, and assignments
+  - title: In the Classroom
+    topics:
+    - title: Before Class Begins
+      file: 3-teaching/classroom/before-class-begins.md
+    - title: Starting Lecture
+      file: 3-teaching/classroom/starting-lecture.md
+    - title: Students Not Following
+      file: 3-teaching/classroom/students-not-following.md
+    - title: Question Unknown Answer
+      file: 3-teaching/classroom/question-unknown-answer.md
+    - title: Teaching Twentieth Time
+      file: 3-teaching/classroom/teaching-twentieth-time.md
+    - title: Students Engaged
+      file: 3-teaching/classroom/students-engaged.md
+    - title: Students Checked Out
+      file: 3-teaching/classroom/students-checked-out.md
+    - title: Live Coding
+      file: 3-teaching/classroom/live-coding.md
+    - title: Last Minutes
+      file: 3-teaching/classroom/last-minutes.md
+    blurb: Teaching moments, student engagement, and live coding
+  - title: One-on-One Moments
+    topics:
+    - title: Before Office Hours
+      file: 3-teaching/one-on-one/before-office-hours.md
+    - title: Struggling Student
+      file: 3-teaching/one-on-one/struggling-student.md
+    - title: Career Advice
+      file: 3-teaching/one-on-one/career-advice.md
+    - title: Recommendation Letter
+      file: 3-teaching/one-on-one/recommendation-letter.md
+    - title: Mentoring Research
+      file: 3-teaching/one-on-one/mentoring-research.md
+    - title: Academic Dishonesty
+      file: 3-teaching/one-on-one/academic-dishonesty.md
+  - title: Assessment & Feedback
+    topics:
+    - title: Before Grading
+      file: 3-teaching/assessment/before-grading.md
+    - title: While Grading
+      file: 3-teaching/assessment/while-grading.md
+    - title: Writing Feedback
+      file: 3-teaching/assessment/writing-feedback.md
+    - title: Calculating Grades
+      file: 3-teaching/assessment/calculating-grades.md
+    - title: Failing Grade
+      file: 3-teaching/assessment/failing-grade.md
+    - title: Exceptional Work
+      file: 3-teaching/assessment/exceptional-work.md
+    blurb: Grading, feedback, and evaluation
+  - title: Professional Life
+    topics:
+    - title: Faculty Meeting
+      file: 3-teaching/professional/faculty-meeting.md
+    - title: Tenure Review
+      file: 3-teaching/professional/tenure-review.md
+    - title: Submitting Paper
+      file: 3-teaching/professional/submitting-paper.md
+    - title: Paper Rejection
+      file: 3-teaching/professional/paper-rejection.md
+    - title: Presenting Conference
+      file: 3-teaching/professional/presenting-conference.md
+    - title: New Research Project
+      file: 3-teaching/professional/new-research-project.md
+    - title: Research Dead End
+      file: 3-teaching/professional/research-dead-end.md
+    - title: Applying For Grants
+      file: 3-teaching/professional/applying-for-grants.md
+    - title: Reviewing Papers
+      file: 3-teaching/professional/reviewing-papers.md
+    - title: Balancing Teaching Research
+      file: 3-teaching/professional/balancing-teaching-research.md
+    blurb: Research, tenure, conferences, and balance
+- title: IV. Collaboration & Community
+  subsections:
+  - title: Working Together
+    topics:
+    - title: Beginning Group Project
+      file: 4-collaboration/working-together/beginning-group-project.md
+    - title: Group Conflict
+      file: 4-collaboration/working-together/group-conflict.md
+    - title: Pair Programming
+      file: 4-collaboration/working-together/pair-programming.md
+    - title: Giving Code Review
+      file: 4-collaboration/working-together/giving-code-review.md
+    - title: Receiving Code Review
+      file: 4-collaboration/working-together/receiving-code-review.md
+    - title: First Open Source
+      file: 4-collaboration/working-together/first-open-source.md
+    - title: Teammate Not Contributing
+      file: 4-collaboration/working-together/teammate-not-contributing.md
+    - title: You Not Contributing
+      file: 4-collaboration/working-together/you-not-contributing.md
+    blurb: Group projects, pair programming, and teamwork
+  - title: Academic Community
+    topics:
+    - title: Department Meeting
+      file: 4-collaboration/community/department-meeting.md
+    - title: Faculty Hiring
+      file: 4-collaboration/community/faculty-hiring.md
+    - title: Welcoming Colleague
+      file: 4-collaboration/community/welcoming-colleague.md
+    - title: Colleague Leaves
+      file: 4-collaboration/community/colleague-leaves.md
+    - title: CS Conference
+      file: 4-collaboration/community/cs-conference.md
+    - title: Hackathon
+      file: 4-collaboration/community/hackathon.md
+    - title: Grace Hopper
+      file: 4-collaboration/community/grace-hopper.md
+    - title: Competitive Community
+      file: 4-collaboration/community/competitive-community.md
+    blurb: Departments, conferences, and scholarly fellowship
+  - title: Mentorship
+    topics:
+    - title: Taking Advisee
+      file: 4-collaboration/mentorship/taking-advisee.md
+    - title: Assigned Advisor
+      file: 4-collaboration/mentorship/assigned-advisor.md
+    - title: Mentoring Clicks
+      file: 4-collaboration/mentorship/mentoring-clicks.md
+    - title: Difficult Mentoring
+      file: 4-collaboration/mentorship/difficult-mentoring.md
+    - title: Mentee Surpasses
+      file: 4-collaboration/mentorship/mentee-surpasses.md
+    - title: Goodbye To Advisee
+      file: 4-collaboration/mentorship/goodbye-to-advisee.md
+    blurb: Advisor-advisee relationships
+- title: V. The Practice of Programming
+  subsections:
+  - title: Creation
+    topics:
+    - title: Starting New Project
+      file: 5-programming/creation/starting-new-project.md
+    - title: First Line Of Code
+      file: 5-programming/creation/first-line-of-code.md
+    - title: Choosing Tech Stack
+      file: 5-programming/creation/choosing-tech-stack.md
+    - title: Designing System
+      file: 5-programming/creation/designing-system.md
+    - title: Creative Flow
+      file: 5-programming/creation/creative-flow.md
+    - title: Building Beautiful
+      file: 5-programming/creation/building-beautiful.md
+    blurb: Starting projects, designing systems, and creative flow
+  - title: Debugging & Problem-Solving
+    topics:
+    - title: Wont Compile
+      file: 5-programming/debugging/wont-compile.md
+    - title: Runtime Error
+      file: 5-programming/debugging/runtime-error.md
+    - title: Hunting Bug
+      file: 5-programming/debugging/hunting-bug.md
+    - title: Hours Of Debugging
+      file: 5-programming/debugging/hours-of-debugging.md
+    - title: Reading Errors
+      file: 5-programming/debugging/reading-errors.md
+    - title: Stack Overflow Error
+      file: 5-programming/debugging/stack-overflow-error.md
+    - title: Memory Issues
+      file: 5-programming/debugging/memory-issues.md
+    - title: Finding The Bug
+      file: 5-programming/debugging/finding-the-bug.md
+    - title: Legacy Code
+      file: 5-programming/debugging/legacy-code.md
+    - title: Refactoring
+      file: 5-programming/debugging/refactoring.md
+    blurb: Hunting bugs, reading errors, and finding solutions
+  - title: Testing
+    topics:
+    - title: Writing Tests
+      file: 5-programming/testing/writing-tests.md
+    - title: All Tests Pass
+      file: 5-programming/testing/all-tests-pass.md
+    - title: Tests Fail
+      file: 5-programming/testing/tests-fail.md
+    - title: Integration Testing
+      file: 5-programming/testing/integration-testing.md
+    - title: User Testing
+      file: 5-programming/testing/user-testing.md
+    blurb: Writing tests, passes and failures
+  - title: Deployment & Maintenance
+    topics:
+    - title: Deploying Production
+      file: 5-programming/deployment/deploying-production.md
+    - title: Deployment Fails
+      file: 5-programming/deployment/deployment-fails.md
+    - title: Monitoring System
+      file: 5-programming/deployment/monitoring-system.md
+    - title: System Failure
+      file: 5-programming/deployment/system-failure.md
+    - title: Maintaining Old Code
+      file: 5-programming/deployment/maintaining-old-code.md
+    blurb: Production, monitoring, and long-term care
+- title: VI. Moments of Struggle & Doubt
+  subsections:
+  - title: Personal Challenges
+    topics:
+    - title: Imposter Syndrome
+      file: 6-struggle/personal/imposter-syndrome.md
+    - title: Comparison
+      file: 6-struggle/personal/comparison.md
+    - title: Not Technical Enough
+      file: 6-struggle/personal/not-technical-enough.md
+    - title: Not Creative Enough
+      file: 6-struggle/personal/not-creative-enough.md
+    - title: Wrong Field
+      file: 6-struggle/personal/wrong-field.md
+    - title: Burnout
+      file: 6-struggle/personal/burnout.md
+    - title: When work-life balance is lost
+      file: 6-struggle/personal/work-life-balance.md
+    - title: Late Nights Exhaustion
+      file: 6-struggle/personal/late-nights-exhaustion.md
+    - title: Missing Personal Events
+      file: 6-struggle/personal/missing-personal-events.md
+    blurb: Imposter syndrome, burnout, and exhaustion
+  - title: Failure & Setback
+    topics:
+    - title: Failing Exam
+      file: 6-struggle/failure/failing-exam.md
+    - title: No Internship
+      file: 6-struggle/failure/no-internship.md
+    - title: Grad School Rejection
+      file: 6-struggle/failure/grad-school-rejection.md
+    - title: Paper Rejection
+      file: 6-struggle/failure/paper-rejection.md
+    - title: Grant Denial
+      file: 6-struggle/failure/grant-denial.md
+    - title: Not Getting Tenure
+      file: 6-struggle/failure/not-getting-tenure.md
+    - title: Project Fails
+      file: 6-struggle/failure/project-fails.md
+    - title: Costly Mistake
+      file: 6-struggle/failure/costly-mistake.md
+    - title: Laid Off
+      file: 6-struggle/failure/laid-off.md
+    blurb: Rejection, mistakes, and career setbacks
+  - title: Ethical Struggles
+    topics:
+    - title: Code Used Unethically
+      file: 6-struggle/ethical/code-used-unethically.md
+    - title: Pressure To Compromise
+      file: 6-struggle/ethical/pressure-to-compromise.md
+    - title: Reporting Dishonesty
+      file: 6-struggle/ethical/reporting-dishonesty.md
+    - title: AI Causing Harm
+      file: 6-struggle/ethical/ai-causing-harm.md
+    - title: Innovation Responsibility
+      file: 6-struggle/ethical/innovation-responsibility.md
+    - title: Asked To Build Wrong
+      file: 6-struggle/ethical/asked-to-build-wrong.md
+    blurb: When code is misused and integrity is tested
+- title: VII. Ethical & Vocational Formation
+  subsections:
+  - title: Wisdom & Discernment
+    topics:
+    - title: Architectural Decisions
+      file: 7-formation/wisdom/architectural-decisions.md
+    - title: Accessibility
+      file: 7-formation/wisdom/accessibility.md
+    - title: Algorithmic Bias
+      file: 7-formation/wisdom/algorithmic-bias.md
+    - title: Data Privacy
+      file: 7-formation/wisdom/data-privacy.md
+    - title: Deploying Ai
+      file: 7-formation/wisdom/deploying-ai.md
+    - title: Vulnerable Populations
+      file: 7-formation/wisdom/vulnerable-populations.md
+    - title: Profit Vs Ethics
+      file: 7-formation/wisdom/profit-vs-ethics.md
+    - title: Environmental Impact
+      file: 7-formation/wisdom/environmental-impact.md
+    blurb: Algorithmic bias, privacy, accessibility, and responsibility
+  - title: Vocation & Calling
+    topics:
+    - title: Discerning Cs
+      file: 7-formation/vocation/discerning-cs.md
+    - title: Choosing Specialization
+      file: 7-formation/vocation/choosing-specialization.md
+    - title: Industry Or Academia
+      file: 7-formation/vocation/industry-or-academia.md
+    - title: Competing Job Offers
+      file: 7-formation/vocation/competing-job-offers.md
+    - title: Is This Calling
+      file: 7-formation/vocation/is-this-calling.md
+    - title: Skills Serve Others
+      file: 7-formation/vocation/skills-serve-others.md
+    - title: Money Or Meaning
+      file: 7-formation/vocation/money-or-meaning.md
+    blurb: Discerning your path and finding meaning
+  - title: Character Formation
+    topics:
+    - title: Humbled By Unknowing
+      file: 7-formation/character/humbled-by-unknowing.md
+    - title: Learning From Mistakes
+      file: 7-formation/character/learning-from-mistakes.md
+    - title: Receiving Criticism
+      file: 7-formation/character/receiving-criticism.md
+    - title: Patience Through Debugging
+      file: 7-formation/character/patience-through-debugging.md
+    - title: Perseverance
+      file: 7-formation/character/perseverance.md
+    - title: Humility In Collaboration
+      file: 7-formation/character/humility-in-collaboration.md
+    blurb: Humility, patience, perseverance, and grace
+- title: VIII. Specific CS Domains & Concepts
+  subsections:
+  - title: Core Areas
+    topics:
+    - title: Data Structures
+      file: 8-domains/core-areas/data-structures.md
+    - title: Algorithms
+      file: 8-domains/core-areas/algorithms.md
+    - title: Computer Architecture
+      file: 8-domains/core-areas/computer-architecture.md
+    - title: Theory Of Computation
+      file: 8-domains/core-areas/theory-of-computation.md
+    - title: Database Design
+      file: 8-domains/core-areas/database-design.md
+    - title: Operating Systems
+      file: 8-domains/core-areas/operating-systems.md
+    - title: Networks
+      file: 8-domains/core-areas/networks.md
+    - title: Compilers
+      file: 8-domains/core-areas/compilers.md
+    blurb: Data structures, algorithms, architecture, and theory
+  - title: Specialized Fields
+    topics:
+    - title: Beginning Ai Ml
+      file: 8-domains/specialized/beginning-ai-ml.md
+    - title: First Neural Network
+      file: 8-domains/specialized/first-neural-network.md
+    - title: Large Language Models
+      file: 8-domains/specialized/large-language-models.md
+    - title: Computer Graphics
+      file: 8-domains/specialized/computer-graphics.md
+    - title: Cybersecurity
+      file: 8-domains/specialized/cybersecurity.md
+    - title: Hci
+      file: 8-domains/specialized/hci.md
+    - title: Software Engineering
+      file: 8-domains/specialized/software-engineering.md
+    - title: Embedded Systems
+      file: 8-domains/specialized/embedded-systems.md
+    blurb: AI/ML, graphics, cybersecurity, HCI, and robotics
+  - title: Mathematical Foundations
+    topics:
+    - title: Discrete Math
+      file: 8-domains/mathematical/discrete-math.md
+    - title: Probability Statistics
+      file: 8-domains/mathematical/probability-statistics.md
+    - title: Linear Algebra
+      file: 8-domains/mathematical/linear-algebra.md
+    - title: Formal Methods
+      file: 8-domains/mathematical/formal-methods.md
+    - title: Graph Theory
+      file: 8-domains/mathematical/graph-theory.md
+    - title: Cryptography
+      file: 8-domains/mathematical/cryptography.md
+    blurb: Discrete math, probability, linear algebra, and cryptography
+- title: IX. Technology & Tools
+  blurb: Git, IDEs, terminals, servers, and infrastructure
+  topics:
+  - title: First Git
+    file: 9-tools/first-git.md
+  - title: Dev Environment
+    file: 9-tools/dev-environment.md
+  - title: Command Line
+    file: 9-tools/command-line.md
+  - title: Working In Terminal
+    file: 9-tools/working-in-terminal.md
+  - title: Using Ide
+    file: 9-tools/using-ide.md
+  - title: Keyboard Shortcuts
+    file: 9-tools/keyboard-shortcuts.md
+  - title: Servers Down
+    file: 9-tools/servers-down.md
+  - title: Database Corruption
+    file: 9-tools/database-corruption.md
+  - title: Lost Work
+    file: 9-tools/lost-work.md
+  - title: Backup Recovery
+    file: 9-tools/backup-recovery.md
+  - title: Cloud Computing
+    file: 9-tools/cloud-computing.md
+- title: X. Seasons & Daily Rhythms
+  subsections:
+  - title: Daily Moments
+    topics:
+    - title: Morning Coffee
+      file: 10-rhythms/daily/morning-coffee.md
+    - title: Afternoon Slump
+      file: 10-rhythms/daily/afternoon-slump.md
+    - title: Late Night Coding
+      file: 10-rhythms/daily/late-night-coding.md
+    - title: Walking Away
+      file: 10-rhythms/daily/walking-away.md
+    - title: Returning Fresh
+      file: 10-rhythms/daily/returning-fresh.md
+    - title: Commute To Campus
+      file: 10-rhythms/daily/commute-to-campus.md
+    - title: Arriving Lab
+      file: 10-rhythms/daily/arriving-lab.md
+    - title: Closing Laptop
+      file: 10-rhythms/daily/closing-laptop.md
+    blurb: Morning coffee, afternoon slumps, and closing your laptop
+  - title: Weekly Rhythms
+    topics:
+    - title: Monday Morning
+      file: 10-rhythms/weekly/monday-morning.md
+    - title: Wednesday Hump
+      file: 10-rhythms/weekly/wednesday-hump.md
+    - title: Friday Afternoon
+      file: 10-rhythms/weekly/friday-afternoon.md
+    - title: Weekend Work
+      file: 10-rhythms/weekly/weekend-work.md
+    - title: Weekend Rest
+      file: 10-rhythms/weekly/weekend-rest.md
+    blurb: Monday beginnings, Wednesday humps, Friday endings
+  - title: Seasonal Moments
+    topics:
+    - title: Fall Semester Energy
+      file: 10-rhythms/seasonal/fall-semester-energy.md
+    - title: Winter Darkness
+      file: 10-rhythms/seasonal/winter-darkness.md
+    - title: Spring Renewal
+      file: 10-rhythms/seasonal/spring-renewal.md
+    - title: Summer Research
+      file: 10-rhythms/seasonal/summer-research.md
+    - title: Summer Rest
+      file: 10-rhythms/seasonal/summer-rest.md
+    blurb: Fall energy, winter darkness, spring renewal, summer work
+- title: XI. Relationships & Humanity
+  subsections:
+  - title: With Students (For Professors)
+    topics:
+    - title: Struggling Personally
+      file: 11-relationships/with-students/struggling-personally.md
+    - title: Student Discovers Calling
+      file: 11-relationships/with-students/student-discovers-calling.md
+    - title: Firm But Loving
+      file: 11-relationships/with-students/firm-but-loving.md
+    - title: Celebrating Success
+      file: 11-relationships/with-students/celebrating-success.md
+    - title: Grieving With Students
+      file: 11-relationships/with-students/grieving-with-students.md
+    - title: Mental Health
+      file: 11-relationships/with-students/mental-health.md
+  - title: With Professors (For Students)
+    topics:
+    - title: Professor Retires
+      file: 11-relationships/with-professors/professor-retires.md
+    - title: Extraordinary Care
+      file: 11-relationships/with-professors/extraordinary-care.md
+    - title: Disappointing Professor
+      file: 11-relationships/with-professors/disappointing-professor.md
+    - title: Professors Are Human
+      file: 11-relationships/with-professors/professors-are-human.md
+    - title: Gratitude For Mentorship
+      file: 11-relationships/with-professors/gratitude-for-mentorship.md
+  - title: With Peers
+    topics:
+    - title: Making Friends
+      file: 11-relationships/with-peers/making-friends.md
+    - title: Professional Jealousy
+      file: 11-relationships/with-peers/professional-jealousy.md
+    - title: Celebrating Others
+      file: 11-relationships/with-peers/celebrating-others.md
+    - title: Supporting a struggling peer
+      file: 11-relationships/with-peers/supporting-peer.md
+    - title: Healthy Competition
+      file: 11-relationships/with-peers/healthy-competition.md
+    - title: Mutual Learning
+      file: 11-relationships/with-peers/mutual-learning.md
+    - title: Supporting Peers
+      file: 11-relationships/with-peers/supporting-peers.md
+    blurb: Friendship, competition, and mutual support
+  - title: With Family & Friends
+    topics:
+    - title: Non CS Dont Understand
+      file: 11-relationships/with-family/non-cs-dont-understand.md
+    - title: Missing Family Time
+      file: 11-relationships/with-family/missing-family-time.md
+    - title: Trying To Explain
+      file: 11-relationships/with-family/trying-to-explain.md
+    - title: Loved Ones Support
+      file: 11-relationships/with-family/loved-ones-support.md
+    - title: When They Dont
+      file: 11-relationships/with-family/when-they-dont.md
+    blurb: Bridging CS and non-CS worlds
+- title: XII. The Life of the Mind
+  subsections:
+  - title: Wonder & Beauty
+    topics:
+    - title: Elegant Code
+      file: 12-mind/wonder/elegant-code.md
+    - title: Beautiful Algorithm
+      file: 12-mind/wonder/beautiful-algorithm.md
+    - title: Mathematics Beneath
+      file: 12-mind/wonder/mathematics-beneath.md
+    - title: Complexity Becomes Simple
+      file: 12-mind/wonder/complexity-becomes-simple.md
+    - title: Computational Thinking
+      file: 12-mind/wonder/computational-thinking.md
+    - title: Artistry Of Design
+      file: 12-mind/wonder/artistry-of-design.md
+    blurb: Elegant algorithms and computational artistry
+  - title: Limits & Mystery
+    topics:
+    - title: Limits Of Computation
+      file: 12-mind/limits/limits-of-computation.md
+    - title: Undecidability
+      file: 12-mind/limits/undecidability.md
+    - title: Halting Problem
+      file: 12-mind/limits/halting-problem.md
+    - title: What Computers Cant Do
+      file: 12-mind/limits/what-computers-cant-do.md
+    - title: Consciousness And Ai
+      file: 12-mind/limits/consciousness-and-ai.md
+    - title: Questions Tech Cant Answer
+      file: 12-mind/limits/questions-tech-cant-answer.md
+    blurb: What computers cannot do and questions without answers
+  - title: Integration
+    topics:
+    - title: CS Other Disciplines
+      file: 12-mind/integration/cs-other-disciplines.md
+    - title: Faith And Technology
+      file: 12-mind/integration/faith-and-technology.md
+    - title: CS Liberal Arts
+      file: 12-mind/integration/cs-liberal-arts.md
+    - title: Science Humanities
+      file: 12-mind/integration/science-humanities.md
+    - title: Tech Human Flourishing
+      file: 12-mind/integration/tech-human-flourishing.md
+    blurb: Faith, technology, liberal arts, and human flourishing
+- title: XIII. Special Occasions
+  subsections:
+  - title: Celebrations
+    topics:
+    - title: Winning Hackathon
+      file: 13-occasions/celebrations/winning-hackathon.md
+    - title: Publishing First Paper
+      file: 13-occasions/celebrations/publishing-first-paper.md
+    - title: Defending Thesis
+      file: 13-occasions/celebrations/defending-thesis.md
+    - title: First Job Offer
+      file: 13-occasions/celebrations/first-job-offer.md
+    - title: Launching Product
+      file: 13-occasions/celebrations/launching-product.md
+    - title: First Hello World
+      file: 13-occasions/celebrations/first-hello-world.md
+    - title: Department Celebrations
+      file: 13-occasions/celebrations/department-celebrations.md
+    blurb: Hackathons, publications, theses, and first job offers
+  - title: Commemorations
+    topics:
+    - title: CS Pioneer Passes
+      file: 13-occasions/commemorations/cs-pioneer-passes.md
+    - title: Honoring Those Before
+      file: 13-occasions/commemorations/honoring-those-before.md
+    - title: History Of Computing
+      file: 13-occasions/commemorations/history-of-computing.md
+    - title: Key Moments
+      file: 13-occasions/commemorations/key-moments.md
+    blurb: Honoring pioneers and CS history
+  - title: Lament
+    topics:
+    - title: Tech Used For Harm
+      file: 13-occasions/lament/tech-used-for-harm.md
+    - title: AI Ethics Failures
+      file: 13-occasions/lament/ai-ethics-failures.md
+    - title: Data Breaches
+      file: 13-occasions/lament/data-breaches.md
+    - title: Algorithms Perpetuate Injustice
+      file: 13-occasions/lament/algorithms-perpetuate-injustice.md
+    - title: Techs Role In Isolation
+      file: 13-occasions/lament/techs-role-in-isolation.md
+    - title: Dark Side Social Media
+      file: 13-occasions/lament/dark-side-social-media.md
+    - title: Innovation Outpaces Wisdom
+      file: 13-occasions/lament/innovation-outpaces-wisdom.md
+    blurb: When technology harms and innovation outpaces wisdom

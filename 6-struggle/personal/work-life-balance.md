@@ -1,7 +1,8 @@
 ---
-title: 🟡 When work-life balance is lost
+title: When work-life balance is lost
 author: Ryan Deaton
 date: 2025-12-8
+status: draft
 ---
 
 *Out of equilibrium*

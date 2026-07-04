@@ -1,7 +1,8 @@
 ---
-title: 🟢 For Preparing or Revising a Course
+title: For Preparing or Revising a Course
 author: Kenneth Arnold
 date: 2026-01-06
+status: final
 ---
 
 *For preparing or revising a course*

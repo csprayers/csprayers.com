@@ -1,7 +1,8 @@
 ---
-title: 🟡 Reviewing others' papers
+title: Reviewing others' papers
 author: Ken Arnold
 date: 2025-11-14
+status: draft
 ---
 
 *Serving the scholarly community*

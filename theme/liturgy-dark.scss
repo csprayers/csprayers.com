@@ -1,17 +1,17 @@
 /*-- scss:defaults --*/
 
-// ————— Contemplative / liturgical palette —————
-$parchment:      #faf6ed;
-$parchment-deep: #f3ecdd;
-$ink:            #33291f;
-$ink-soft:       #5c5143;
-$burgundy:       #6e1c2e;
-$burgundy-soft:  #8a3a4b;
-$gold:           #b08d3f;
+// ————— Candlelit / night-office palette —————
+$night:          #1d1712;   // warm near-black, like a dark chapel
+$night-raised:   #2a2219;   // panels, callouts
+$candlelight:    #e8ddc8;   // main text, warm parchment glow
+$candle-soft:    #b3a68e;   // secondary text
+$rose:           #d29aa5;   // headings/links — burgundy lifted for contrast
+$rose-soft:      #b97f8b;
+$gold:           #c9a44f;   // slightly brighter gold for dark ground
 
-$body-bg:        $parchment;
-$body-color:     $ink;
-$link-color:     $burgundy;
+$body-bg:        $night;
+$body-color:     $candlelight;
+$link-color:     $rose;
 $link-decoration: none;
 
 $font-family-sans-serif: "EB Garamond", "Iowan Old Style", Georgia, serif;
@@ -20,9 +20,9 @@ $font-size-root: 19px;
 $headings-font-weight: 500;
 $line-height-base: 1.75;
 
-$navbar-bg: $parchment;
-$navbar-fg: $ink;
-$footer-bg: $parchment-deep;
+$navbar-bg: $night;
+$navbar-fg: $candlelight;
+$footer-bg: #17120e;
 
 /*-- scss:rules --*/
 
@@ -34,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-  color: $burgundy;
+  color: $rose;
   letter-spacing: 0.02em;
 }
 
@@ -45,23 +45,21 @@ h1.title {
   margin-bottom: 0.25rem;
 }
 
-// Author + date under title, quiet and centered
 .quarto-title-meta {
   justify-content: center;
   text-align: center;
-  color: $ink-soft;
+  color: $candle-soft;
   font-style: italic;
   margin-bottom: 2.5rem;
 
   .quarto-title-meta-heading {
-    display: none;   // hide "AUTHOR" / "PUBLISHED" labels
+    display: none;
   }
   .quarto-title-meta-contents {
     font-size: 0.95rem;
   }
 }
 
-// Ornamental rule under the page title
 #title-block-header::after {
   content: "❦";
   display: block;
@@ -71,7 +69,7 @@ h1.title {
   margin: 0.5rem auto 0;
 }
 
-// ————— The prayers themselves (blockquotes) —————
+// ————— The prayers themselves —————
 .content blockquote {
   border-left: none;
   background: none;
@@ -80,23 +78,21 @@ h1.title {
   max-width: 34em;
   font-size: 1.12rem;
   line-height: 1.9;
-  color: $ink;
+  color: $candlelight;
 
   p {
     margin-bottom: 0.4rem;
   }
 }
 
-// The italic line before the prayer ("As a new semester begins")
 .content > p > em:only-child,
 .content > section > p > em:only-child {
   display: block;
   text-align: center;
-  color: $ink-soft;
+  color: $candle-soft;
   font-size: 1.05rem;
 }
 
-// Horizontal rules become small ornaments
 .content hr {
   border: none;
   text-align: center;
@@ -118,7 +114,7 @@ h1.title {
 
   .navbar-brand {
     font-size: 1.25rem;
-    color: $burgundy;
+    color: $rose;
   }
   .nav-link {
     font-size: 1.02rem;
@@ -131,55 +127,54 @@ h1.title {
   .sidebar-item-section > .sidebar-item-container > a {
     font-family: $headings-font-family;
     font-weight: 600;
-    color: $burgundy;
+    color: $rose;
   }
   .sidebar-link.active {
-    color: $burgundy;
+    color: $rose;
     font-weight: 600;
   }
 }
 
-// Page prev/next footer nav
 .page-navigation {
   .nav-page a {
-    color: $burgundy-soft;
+    color: $rose-soft;
   }
 }
 
 // ————— Links —————
 .content a {
-  color: $burgundy;
-  border-bottom: 1px solid rgba($gold, 0.5);
+  color: $rose;
+  border-bottom: 1px solid rgba($gold, 0.45);
 
   &:hover {
-    color: $burgundy-soft;
+    color: lighten($rose, 8%);
     border-bottom-color: $gold;
   }
 }
 
-// ————— Front image —————
+// ————— Front image: an illuminated plate on a dark desk —————
 .front-image img,
 img.front-image {
   display: block;
   margin: 0 auto 2rem;
   max-width: min(720px, 100%);
   border-radius: 4px;
-  box-shadow: 0 6px 24px rgba($ink, 0.12);
+  box-shadow: 0 0 40px rgba($gold, 0.12), 0 8px 30px rgba(black, 0.5);
 }
 
 // ————— All Prayers index: unwritten topics —————
 .unwritten {
-  color: #a3988a;           // quiet warm gray
+  color: #7e7261;          // quiet gray-brown against the dark ground
 }
 
 li:has(> .unwritten)::marker {
-  color: #cfc5b2;           // mute the bullet as well
+  color: #52483a;
 }
 
 a.contribute {
   font-size: 0.72em;
   font-style: italic;
-  color: rgba($gold, 0.85);
+  color: rgba($gold, 0.8);
   border-bottom: none;
   margin-left: 0.6em;
   letter-spacing: 0.04em;
@@ -200,7 +195,7 @@ li:hover > a.contribute {
   font-size: 0.68em;
   font-variant: small-caps;
   letter-spacing: 0.08em;
-  color: $ink-soft;
+  color: $candle-soft;
   border: 1px solid rgba($gold, 0.5);
   border-radius: 3px;
   padding: 0 0.4em 0.1em;
@@ -208,17 +203,17 @@ li:hover > a.contribute {
   vertical-align: 0.12em;
 }
 
-// ————— Callouts (symbol legend) —————
+// ————— Callouts —————
 .callout {
-  background: $parchment-deep;
-  border-color: rgba($gold, 0.6) !important;
+  background: $night-raised;
+  border-color: rgba($gold, 0.5) !important;
   border-radius: 4px;
 }
 
 // ————— Footer —————
 .nav-footer {
   border-top: 1px solid rgba($gold, 0.35);
-  color: $ink-soft;
+  color: $candle-soft;
   font-style: italic;
   padding: 1.25rem 0;
 }

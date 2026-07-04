@@ -1,7 +1,8 @@
 ---
-title: 🟢 After Receiving Student Evaluations (Professor)
+title: After Receiving Student Evaluations (Professor)
 author: Eric Araújo
 date: 2026-01-06
+status: final
 ---
 
 *After the results of student evaluations are received*

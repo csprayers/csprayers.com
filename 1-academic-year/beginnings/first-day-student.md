@@ -1,7 +1,8 @@
 ---
-title: 🟡 The first day of a new semester (students)
+title: The first day of a new semester (students)
 author: Ryan Deaton
 date: 2025-12-08
+status: draft
 ---
 
 *As a new semester begins*

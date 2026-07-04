@@ -1,4 +1,3 @@
 _site/
 .quarto/
-_build/
-node_modules/
+prayers.qmd

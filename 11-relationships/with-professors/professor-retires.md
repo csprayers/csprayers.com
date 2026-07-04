@@ -1,7 +1,8 @@
 ---
-title: 🟢 When a Professor You Look Up to Retires
+title: When a Professor You Look Up to Retires
 author: Ryan Deaton
 date: 2026-01-06
+status: final
 ---
 
 *For when one of my professors retire*

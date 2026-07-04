@@ -1,7 +1,8 @@
 ---
-title: 🟡 Grasping Big-O notation and complexity
+title: Grasping Big-O notation and complexity
 author: Eric Araújo
 date: 2025-11-12
+status: draft
 ---
 
 *Understanding computational complexity*

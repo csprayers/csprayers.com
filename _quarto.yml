@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  pre-render: scripts/build_index.py
+
 website:
   title: Prayers for Computer Science
   favicon: icon.png
@@ -14,435 +16,52 @@ website:
     logo: icon.png
     title: CS Prayers
     right:
-    - href: index.md
-      text: Home
-    - href: prayers.md
-      text: All Prayers
-    - icon: github
-      href: https://github.com/csprayers/csprayers.com
+      - href: index.md
+        text: Home
+      - href: prayers.qmd
+        text: All Prayers
+      - icon: github
+        href: https://github.com/csprayers/csprayers.com
   sidebar:
     style: floating
-    collapse-level: 1
+    collapse-level: 2
     contents:
-    - index.md
-    - prayers.md
-    - section: I. The Rhythms of the Academic Year
-      contents:
-      - section: Beginnings
+      # BEGIN GENERATED SIDEBAR — do not edit by hand; run scripts/build_index.py
+      - index.md
+      - prayers.qmd
+      - section: "I. The Rhythms of the Academic Year"
         contents:
         - 1-academic-year/beginnings/revising-course.md
         - 1-academic-year/beginnings/first-day-student.md
-        - 1-academic-year/beginnings/first-day-professor.md
-        - 1-academic-year/beginnings/new-course.md
-        - 1-academic-year/beginnings/capstone-project.md
-        - 1-academic-year/beginnings/graduate-studies.md
-        - 1-academic-year/beginnings/first-faculty-position.md
-        - 1-academic-year/beginnings/sabbatical.md
-      - section: Middles
-        contents:
-        - 1-academic-year/middles/midterm-season.md
-        - 1-academic-year/middles/before-spring-break.md
-        - 1-academic-year/middles/endless-semester.md
-        - 1-academic-year/middles/challenging-unit.md
-        - 1-academic-year/middles/the-grind.md
-      - section: Endings
-        contents:
-        - 1-academic-year/endings/final-exam-week-students.md
-        - 1-academic-year/endings/final-exam-week-professors.md
-        - 1-academic-year/endings/submitting-grades.md
-        - 1-academic-year/endings/last-class.md
-        - 1-academic-year/endings/graduation-students.md
-        - 1-academic-year/endings/graduation-professors.md
-        - 1-academic-year/endings/end-of-year.md
         - 1-academic-year/endings/receiving-evaluations.md
-      - section: Transitions
+      - section: "II. The Work of Learning (For Students)"
         contents:
-        - 1-academic-year/transitions/choosing-cs-major.md
-        - 1-academic-year/transitions/switching-to-cs.md
-        - 1-academic-year/transitions/declaring-minor.md
-        - 1-academic-year/transitions/summer-between-years.md
-        - 1-academic-year/transitions/undergrad-to-grad.md
-        - 1-academic-year/transitions/student-to-professional.md
-        - 1-academic-year/transitions/academia-to-industry.md
-        - 1-academic-year/transitions/industry-to-academia.md
-        - 1-academic-year/transitions/retirement.md
-    - section: II. The Work of Learning (For Students)
-      contents:
-      - section: Intellectual Struggle
-        contents:
-        - 2-learning/intellectual-struggle/concept-wont-click.md
-        - 2-learning/intellectual-struggle/dense-textbook.md
-        - 2-learning/intellectual-struggle/impossible-problem-set.md
-        - 2-learning/intellectual-struggle/everyone-else-understands.md
-        - 2-learning/intellectual-struggle/new-programming-language.md
-        - 2-learning/intellectual-struggle/proofs-first-time.md
-        - 2-learning/intellectual-struggle/recursion.md
-        - 2-learning/intellectual-struggle/pointers-and-memory.md
         - 2-learning/intellectual-struggle/big-o-notation.md
-        - 2-learning/intellectual-struggle/functional-programming.md
-      - section: Breakthrough Moments
+      - section: "III. The Work of Teaching (For Professors)"
         contents:
-        - 2-learning/breakthrough/understanding-dawns.md
-        - 2-learning/breakthrough/completing-challenge.md
-        - 2-learning/breakthrough/first-compile-and-run.md
-        - 2-learning/breakthrough/solving-beyond-you.md
-        - 2-learning/breakthrough/unexpected-connection.md
-        - 2-learning/breakthrough/why-it-works.md
-      - section: Daily Work
-        contents:
-        - 2-learning/daily-work/late-night-coding.md
-        - 2-learning/daily-work/opening-laptop.md
-        - 2-learning/daily-work/office-hours.md
-        - 2-learning/daily-work/asking-question.md
-        - 2-learning/daily-work/reviewing-notes.md
-        - 2-learning/daily-work/study-group.md
-        - 2-learning/daily-work/reading-documentation.md
-      - section: Assessment
-        contents:
-        - 2-learning/assessment/before-exam.md
-        - 2-learning/assessment/during-exam.md
-        - 2-learning/assessment/disappointing-grade.md
-        - 2-learning/assessment/encouraging-grade.md
-        - 2-learning/assessment/waiting-for-grades.md
-        - 2-learning/assessment/code-review.md
-        - 2-learning/assessment/technical-interview.md
-    - section: III. The Work of Teaching (For Professors)
-      contents:
-      - section: Preparation
-        contents:
-        - 3-teaching/preparation/planning-new-course.md
-        - 3-teaching/preparation/writing-syllabus.md
-        - 3-teaching/preparation/preparing-lecture.md
-        - 3-teaching/preparation/creating-assignment.md
-        - 3-teaching/preparation/designing-exam.md
-        - 3-teaching/preparation/choosing-topics.md
-        - 3-teaching/preparation/updating-materials.md
-        - 3-teaching/preparation/learning-to-teach.md
-      - section: In the Classroom
-        contents:
-        - 3-teaching/classroom/before-class-begins.md
-        - 3-teaching/classroom/starting-lecture.md
-        - 3-teaching/classroom/students-not-following.md
-        - 3-teaching/classroom/question-unknown-answer.md
-        - 3-teaching/classroom/teaching-twentieth-time.md
-        - 3-teaching/classroom/students-engaged.md
-        - 3-teaching/classroom/students-checked-out.md
-        - 3-teaching/classroom/live-coding.md
-        - 3-teaching/classroom/last-minutes.md
-      - section: One-on-One Moments
-        contents:
-        - 3-teaching/one-on-one/before-office-hours.md
-        - 3-teaching/one-on-one/struggling-student.md
-        - 3-teaching/one-on-one/career-advice.md
-        - 3-teaching/one-on-one/recommendation-letter.md
-        - 3-teaching/one-on-one/mentoring-research.md
-        - 3-teaching/one-on-one/academic-dishonesty.md
-      - section: Assessment & Feedback
-        contents:
-        - 3-teaching/assessment/before-grading.md
-        - 3-teaching/assessment/while-grading.md
-        - 3-teaching/assessment/writing-feedback.md
-        - 3-teaching/assessment/calculating-grades.md
-        - 3-teaching/assessment/failing-grade.md
-        - 3-teaching/assessment/exceptional-work.md
-      - section: Professional Life
-        contents:
-        - 3-teaching/professional/faculty-meeting.md
-        - 3-teaching/professional/tenure-review.md
-        - 3-teaching/professional/submitting-paper.md
-        - 3-teaching/professional/paper-rejection.md
-        - 3-teaching/professional/presenting-conference.md
-        - 3-teaching/professional/new-research-project.md
-        - 3-teaching/professional/research-dead-end.md
-        - 3-teaching/professional/applying-for-grants.md
         - 3-teaching/professional/reviewing-papers.md
-        - 3-teaching/professional/balancing-teaching-research.md
-    - section: IV. Collaboration & Community
-      contents:
-      - section: Working Together
+      - section: "VI. Moments of Struggle & Doubt"
         contents:
-        - 4-collaboration/working-together/beginning-group-project.md
-        - 4-collaboration/working-together/group-conflict.md
-        - 4-collaboration/working-together/pair-programming.md
-        - 4-collaboration/working-together/giving-code-review.md
-        - 4-collaboration/working-together/receiving-code-review.md
-        - 4-collaboration/working-together/first-open-source.md
-        - 4-collaboration/working-together/teammate-not-contributing.md
-        - 4-collaboration/working-together/you-not-contributing.md
-      - section: Academic Community
-        contents:
-        - 4-collaboration/community/department-meeting.md
-        - 4-collaboration/community/faculty-hiring.md
-        - 4-collaboration/community/welcoming-colleague.md
-        - 4-collaboration/community/colleague-leaves.md
-        - 4-collaboration/community/cs-conference.md
-        - 4-collaboration/community/hackathon.md
-        - 4-collaboration/community/grace-hopper.md
-        - 4-collaboration/community/competitive-community.md
-      - section: Mentorship
-        contents:
-        - 4-collaboration/mentorship/taking-advisee.md
-        - 4-collaboration/mentorship/assigned-advisor.md
-        - 4-collaboration/mentorship/mentoring-clicks.md
-        - 4-collaboration/mentorship/difficult-mentoring.md
-        - 4-collaboration/mentorship/mentee-surpasses.md
-        - 4-collaboration/mentorship/goodbye-to-advisee.md
-    - section: V. The Practice of Programming
-      contents:
-      - section: Creation
-        contents:
-        - 5-programming/creation/starting-new-project.md
-        - 5-programming/creation/first-line-of-code.md
-        - 5-programming/creation/choosing-tech-stack.md
-        - 5-programming/creation/designing-system.md
-        - 5-programming/creation/creative-flow.md
-        - 5-programming/creation/building-beautiful.md
-      - section: Debugging & Problem-Solving
-        contents:
-        - 5-programming/debugging/wont-compile.md
-        - 5-programming/debugging/runtime-error.md
-        - 5-programming/debugging/hunting-bug.md
-        - 5-programming/debugging/hours-of-debugging.md
-        - 5-programming/debugging/reading-errors.md
-        - 5-programming/debugging/stack-overflow-error.md
-        - 5-programming/debugging/memory-issues.md
-        - 5-programming/debugging/finding-the-bug.md
-        - 5-programming/debugging/legacy-code.md
-        - 5-programming/debugging/refactoring.md
-      - section: Testing
-        contents:
-        - 5-programming/testing/writing-tests.md
-        - 5-programming/testing/all-tests-pass.md
-        - 5-programming/testing/tests-fail.md
-        - 5-programming/testing/integration-testing.md
-        - 5-programming/testing/user-testing.md
-      - section: Deployment & Maintenance
-        contents:
-        - 5-programming/deployment/deploying-production.md
-        - 5-programming/deployment/deployment-fails.md
-        - 5-programming/deployment/monitoring-system.md
-        - 5-programming/deployment/system-failure.md
-        - 5-programming/deployment/maintaining-old-code.md
-    - section: VI. Moments of Struggle & Doubt
-      contents:
-      - section: Personal Challenges
-        contents:
-        - 6-struggle/personal/imposter-syndrome.md
-        - 6-struggle/personal/comparison.md
-        - 6-struggle/personal/not-technical-enough.md
-        - 6-struggle/personal/not-creative-enough.md
-        - 6-struggle/personal/wrong-field.md
-        - 6-struggle/personal/burnout.md
         - 6-struggle/personal/work-life-balance.md
-        - 6-struggle/personal/late-nights-exhaustion.md
-        - 6-struggle/personal/missing-personal-events.md
-      - section: Failure & Setback
-        contents:
-        - 6-struggle/failure/failing-exam.md
-        - 6-struggle/failure/no-internship.md
-        - 6-struggle/failure/grad-school-rejection.md
-        - 6-struggle/failure/paper-rejection.md
-        - 6-struggle/failure/grant-denial.md
-        - 6-struggle/failure/not-getting-tenure.md
-        - 6-struggle/failure/project-fails.md
-        - 6-struggle/failure/costly-mistake.md
-        - 6-struggle/failure/laid-off.md
-      - section: Ethical Struggles
-        contents:
-        - 6-struggle/ethical/code-used-unethically.md
-        - 6-struggle/ethical/pressure-to-compromise.md
-        - 6-struggle/ethical/reporting-dishonesty.md
-        - 6-struggle/ethical/ai-causing-harm.md
-        - 6-struggle/ethical/innovation-responsibility.md
-        - 6-struggle/ethical/asked-to-build-wrong.md
-    - section: VII. Ethical & Vocational Formation
-      contents:
-      - section: Wisdom & Discernment
-        contents:
-        - 7-formation/wisdom/architectural-decisions.md
-        - 7-formation/wisdom/accessibility.md
-        - 7-formation/wisdom/algorithmic-bias.md
-        - 7-formation/wisdom/data-privacy.md
-        - 7-formation/wisdom/deploying-ai.md
-        - 7-formation/wisdom/vulnerable-populations.md
-        - 7-formation/wisdom/profit-vs-ethics.md
-        - 7-formation/wisdom/environmental-impact.md
-      - section: Vocation & Calling
-        contents:
-        - 7-formation/vocation/discerning-cs.md
-        - 7-formation/vocation/choosing-specialization.md
-        - 7-formation/vocation/industry-or-academia.md
-        - 7-formation/vocation/competing-job-offers.md
-        - 7-formation/vocation/is-this-calling.md
-        - 7-formation/vocation/skills-serve-others.md
-        - 7-formation/vocation/money-or-meaning.md
-      - section: Character Formation
-        contents:
-        - 7-formation/character/humbled-by-unknowing.md
-        - 7-formation/character/learning-from-mistakes.md
-        - 7-formation/character/receiving-criticism.md
-        - 7-formation/character/patience-through-debugging.md
-        - 7-formation/character/perseverance.md
-        - 7-formation/character/humility-in-collaboration.md
-    - section: VIII. Specific CS Domains & Concepts
-      contents:
-      - section: Core Areas
-        contents:
-        - 8-domains/core-areas/data-structures.md
-        - 8-domains/core-areas/algorithms.md
-        - 8-domains/core-areas/computer-architecture.md
-        - 8-domains/core-areas/theory-of-computation.md
-        - 8-domains/core-areas/database-design.md
-        - 8-domains/core-areas/operating-systems.md
-        - 8-domains/core-areas/networks.md
-        - 8-domains/core-areas/compilers.md
-      - section: Specialized Fields
-        contents:
-        - 8-domains/specialized/beginning-ai-ml.md
-        - 8-domains/specialized/first-neural-network.md
-        - 8-domains/specialized/large-language-models.md
-        - 8-domains/specialized/computer-graphics.md
-        - 8-domains/specialized/cybersecurity.md
-        - 8-domains/specialized/hci.md
-        - 8-domains/specialized/software-engineering.md
-        - 8-domains/specialized/embedded-systems.md
-      - section: Mathematical Foundations
-        contents:
-        - 8-domains/mathematical/discrete-math.md
-        - 8-domains/mathematical/probability-statistics.md
-        - 8-domains/mathematical/linear-algebra.md
-        - 8-domains/mathematical/formal-methods.md
-        - 8-domains/mathematical/graph-theory.md
-        - 8-domains/mathematical/cryptography.md
-    - section: IX. Technology & Tools
-      contents:
-      - 9-tools/first-git.md
-      - 9-tools/dev-environment.md
-      - 9-tools/command-line.md
-      - 9-tools/working-in-terminal.md
-      - 9-tools/using-ide.md
-      - 9-tools/keyboard-shortcuts.md
-      - 9-tools/servers-down.md
-      - 9-tools/database-corruption.md
-      - 9-tools/lost-work.md
-      - 9-tools/backup-recovery.md
-      - 9-tools/cloud-computing.md
-    - section: X. Seasons & Daily Rhythms
-      contents:
-      - section: Daily Moments
+      - section: "X. Seasons & Daily Rhythms"
         contents:
         - 10-rhythms/daily/morning-coffee.md
-        - 10-rhythms/daily/afternoon-slump.md
-        - 10-rhythms/daily/late-night-coding.md
-        - 10-rhythms/daily/walking-away.md
-        - 10-rhythms/daily/returning-fresh.md
-        - 10-rhythms/daily/commute-to-campus.md
-        - 10-rhythms/daily/arriving-lab.md
-        - 10-rhythms/daily/closing-laptop.md
-      - section: Weekly Rhythms
-        contents:
-        - 10-rhythms/weekly/monday-morning.md
-        - 10-rhythms/weekly/wednesday-hump.md
-        - 10-rhythms/weekly/friday-afternoon.md
-        - 10-rhythms/weekly/weekend-work.md
-        - 10-rhythms/weekly/weekend-rest.md
-      - section: Seasonal Moments
-        contents:
-        - 10-rhythms/seasonal/fall-semester-energy.md
-        - 10-rhythms/seasonal/winter-darkness.md
-        - 10-rhythms/seasonal/spring-renewal.md
-        - 10-rhythms/seasonal/summer-research.md
-        - 10-rhythms/seasonal/summer-rest.md
-    - section: XI. Relationships & Humanity
-      contents:
-      - section: With Students (For Professors)
-        contents:
-        - 11-relationships/with-students/struggling-personally.md
-        - 11-relationships/with-students/student-discovers-calling.md
-        - 11-relationships/with-students/firm-but-loving.md
-        - 11-relationships/with-students/celebrating-success.md
-        - 11-relationships/with-students/grieving-with-students.md
-        - 11-relationships/with-students/mental-health.md
-      - section: With Professors (For Students)
+      - section: "XI. Relationships & Humanity"
         contents:
         - 11-relationships/with-professors/professor-retires.md
-        - 11-relationships/with-professors/extraordinary-care.md
-        - 11-relationships/with-professors/disappointing-professor.md
-        - 11-relationships/with-professors/professors-are-human.md
-        - 11-relationships/with-professors/gratitude-for-mentorship.md
-      - section: With Peers
-        contents:
-        - 11-relationships/with-peers/making-friends.md
-        - 11-relationships/with-peers/professional-jealousy.md
-        - 11-relationships/with-peers/celebrating-others.md
-        - 11-relationships/with-peers/supporting-peer.md
-        - 11-relationships/with-peers/healthy-competition.md
-        - 11-relationships/with-peers/mutual-learning.md
-      - section: With Family & Friends
-        contents:
-        - 11-relationships/with-family/non-cs-dont-understand.md
-        - 11-relationships/with-family/missing-family-time.md
-        - 11-relationships/with-family/trying-to-explain.md
-        - 11-relationships/with-family/loved-ones-support.md
-        - 11-relationships/with-family/when-they-dont.md
-    - section: XII. The Life of the Mind
-      contents:
-      - section: Wonder & Beauty
-        contents:
-        - 12-mind/wonder/elegant-code.md
-        - 12-mind/wonder/beautiful-algorithm.md
-        - 12-mind/wonder/mathematics-beneath.md
-        - 12-mind/wonder/complexity-becomes-simple.md
-        - 12-mind/wonder/computational-thinking.md
-        - 12-mind/wonder/artistry-of-design.md
-      - section: Limits & Mystery
-        contents:
-        - 12-mind/limits/limits-of-computation.md
-        - 12-mind/limits/undecidability.md
-        - 12-mind/limits/halting-problem.md
-        - 12-mind/limits/what-computers-cant-do.md
-        - 12-mind/limits/consciousness-and-ai.md
-        - 12-mind/limits/questions-tech-cant-answer.md
-      - section: Integration
-        contents:
-        - 12-mind/integration/cs-other-disciplines.md
-        - 12-mind/integration/faith-and-technology.md
-        - 12-mind/integration/cs-liberal-arts.md
-        - 12-mind/integration/science-humanities.md
-        - 12-mind/integration/tech-human-flourishing.md
-    - section: XIII. Special Occasions
-      contents:
-      - section: Celebrations
-        contents:
-        - 13-occasions/celebrations/winning-hackathon.md
-        - 13-occasions/celebrations/publishing-first-paper.md
-        - 13-occasions/celebrations/defending-thesis.md
-        - 13-occasions/celebrations/first-job-offer.md
-        - 13-occasions/celebrations/launching-product.md
-        - 13-occasions/celebrations/first-hello-world.md
-        - 13-occasions/celebrations/department-celebrations.md
-      - section: Commemorations
-        contents:
-        - 13-occasions/commemorations/cs-pioneer-passes.md
-        - 13-occasions/commemorations/honoring-those-before.md
-        - 13-occasions/commemorations/history-of-computing.md
-        - 13-occasions/commemorations/key-moments.md
-      - section: Lament
-        contents:
-        - 13-occasions/lament/tech-used-for-harm.md
-        - 13-occasions/lament/ai-ethics-failures.md
-        - 13-occasions/lament/data-breaches.md
-        - 13-occasions/lament/algorithms-perpetuate-injustice.md
-        - 13-occasions/lament/techs-role-in-isolation.md
-        - 13-occasions/lament/dark-side-social-media.md
-        - 13-occasions/lament/innovation-outpaces-wisdom.md
+      # END GENERATED SIDEBAR
   page-footer:
     center: '*"The heavens declare the glory of God" — Psalm 19:1* · A project curated by Eric Araújo, Calvin University'
+
 format:
   html:
     theme:
-      - cosmo
-      - theme/liturgy.scss
+      light:
+        - cosmo
+        - theme/liturgy.scss
+      dark:
+        - cosmo
+        - theme/liturgy-dark.scss
     toc: false
     grid:
       sidebar-width: 320px

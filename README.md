@@ -6,69 +6,58 @@ A collection of prayers for those who study, teach, and practice the craft of co
 
 This website offers prayers for every season, struggle, and celebration in the life of computer science students and professors. From the first day of class to defending a thesis, from debugging frustrating code to experiencing breakthrough moments, these prayers invite us to bring our whole selves before God.
 
-## Structure
+## How the Site Works
 
-The prayers are organized into 13 major categories:
+The site is built with [Quarto](https://quarto.org). Two kinds of content drive it:
 
-1. **The Rhythms of the Academic Year** - Beginnings, middles, endings, and transitions
-2. **The Work of Learning** - For students: intellectual struggle, breakthroughs, daily work, assessment
-3. **The Work of Teaching** - For professors: preparation, classroom, mentorship, research
-4. **Collaboration & Community** - Working together, academic community, mentorship
-5. **The Practice of Programming** - Creation, debugging, testing, deployment
-6. **Moments of Struggle & Doubt** - Personal challenges, failure, ethical struggles
-7. **Ethical & Vocational Formation** - Wisdom, calling, character
-8. **Specific CS Domains** - Core areas, specialized fields, mathematical foundations
-9. **Technology & Tools** - Git, IDEs, infrastructure
-10. **Seasons & Daily Rhythms** - Daily, weekly, and seasonal patterns
-11. **Relationships & Humanity** - With students, professors, peers, family
-12. **The Life of the Mind** - Wonder, limits, integration
-13. **Special Occasions** - Celebrations, commemorations, lament
+- **Prayer files** (`*.md` in the numbered section folders) — one file per *written* prayer. Only written prayers have files.
+- **`catalog.yml`** — the complete map of all planned prayer topics (sections, subsections, blurbs, titles).
 
-## Getting Started
+At build time, `scripts/build_index.py` (run automatically by `quarto render` as a pre-render step) compares the catalog with the files on disk and generates:
 
-### Prerequisites
+- `prayers.qmd` — the All Prayers page: written prayers are links; unwritten topics appear muted, each with a "contribute" link that opens a pre-filled editor on GitHub.
+- The sidebar in `_quarto.yml` (between the `GENERATED SIDEBAR` markers) — listing only written prayers.
 
-- Node.js (v16 or higher)
-- npm
+Deployment is via GitHub Actions (`.github/workflows/deploy.yml`) to GitHub Pages on every push to `main`.
 
-### Installation
+## Writing a New Prayer
+
+1. Find the topic in `catalog.yml` and note its `file:` path.
+2. Create that file (or select "contribute" next to the topic on the [All Prayers](https://csprayers.com/prayers.html) page, which opens a pre-filled GitHub editor):
+
+   ```markdown
+   ---
+   title: "The Title of the Prayer"
+   author: Your Name
+   date: 2026-07-04
+   status: draft        # or: final
+   ---
+
+   *A sentence describing the moment this prayer is for*
+
+   ---
+
+   > The prayer itself,
+   >
+   > written line by line as blockquotes,
+   >
+   > Amen.
+   ```
+
+3. Commit and push (or open a pull request). The site rebuilds itself — the new prayer appears in the sidebar and becomes a link on the All Prayers page automatically.
+
+To add a brand-new topic, add an entry to `catalog.yml`.
+
+## Local Development
+
+Requires [Quarto](https://quarto.org/docs/get-started/) and Python 3 with `pyyaml`.
 
 ```bash
-npm install
+quarto preview     # local dev server
+quarto render      # build into _site/
 ```
 
-### Development
-
-Start the development server:
-
-```bash
-npm start
-```
-
-This will launch a local MyST server at `http://localhost:3000`
-
-### Building
-
-Build the static site:
-
-```bash
-npm run build
-```
-
-The built site will be in the `_build/html` directory.
-
-## Contributing
-
-We welcome contributions! Each prayer page includes a link to submit a pull request directly on GitHub.
-
-### Adding a New Prayer
-
-1. Navigate to the appropriate prayer file
-2. Click the "Submit a pull request" link
-3. Replace the placeholder text with your prayer
-4. Submit your pull request for review
-
-### Prayer Writing Guidelines
+## Prayer Writing Guidelines
 
 - Prayers should be appropriate for both students and professors
 - Use inclusive language
@@ -80,24 +69,18 @@ We welcome contributions! Each prayer page includes a link to submit a pull requ
 
 ```
 csprayers.com/
-├── myst.yml              # MyST configuration
-├── package.json          # Node dependencies
+├── _quarto.yml           # Quarto site config (sidebar section is generated)
+├── catalog.yml           # Map of all prayer topics, written and unwritten
+├── scripts/
+│   └── build_index.py    # Generates prayers.qmd + sidebar from catalog.yml
+├── theme/
+│   ├── liturgy.scss      # Site theme (colors, typography)
+│   ├── logo.svg          # Logo source (icon.png is rendered from it)
+│   └── front.svg         # Front-page art source (front.png)
 ├── index.md              # Homepage
-├── prayers.md            # Main prayer index
-└── prayers/              # Prayer content
-    ├── academic-year/
-    ├── learning/
-    ├── teaching/
-    ├── collaboration/
-    ├── programming/
-    ├── struggle/
-    ├── formation/
-    ├── domains/
-    ├── tools/
-    ├── rhythms/
-    ├── relationships/
-    ├── mind/
-    └── occasions/
+├── 1-academic-year/      # Written prayers, one .md file each,
+├── 2-learning/           #   organized by section
+└── ...
 ```
 
 ## License
