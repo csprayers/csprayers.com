@@ -169,6 +169,50 @@ img.front-image {
 }
 
 // ————— Homepage —————
+// the hero carries its own ornament; suppress the title-block ❦ here
+body:has(.hero) #title-block-header::after {
+  content: none;
+}
+
+.hero {
+  text-align: center;
+  margin: 1.5rem 0 1.5rem;
+
+  .hero-mark {
+    width: min(460px, 88%);
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .mark-primary {
+    stroke: $burgundy;
+  }
+  .mark-gold {
+    stroke: $gold;
+  }
+  .mark-gold-fill {
+    fill: $gold;
+  }
+
+  .hero-title {
+    font-family: $headings-font-family;
+    color: $burgundy;
+    font-size: 2.6rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    margin: 0.75rem 0 0.25rem;
+    border: none;
+  }
+
+  .hero-subtitle {
+    color: $ink-soft;
+    font-style: italic;
+    font-size: 1.15rem;
+    margin-bottom: 2.5rem;
+  }
+}
+
 .invitation {
   text-align: center;
   max-width: 36em;
