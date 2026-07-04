@@ -8,6 +8,7 @@ $ink-soft:       #5c5143;
 $burgundy:       #6e1c2e;
 $burgundy-soft:  #8a3a4b;
 $gold:           #b08d3f;
+$gold-text:      #826a24;   // darker gold for text (WCAG AA on parchment)
 
 $body-bg:        $parchment;
 $body-color:     $ink;
@@ -206,7 +207,7 @@ img.front-image {
   text-align: center;
   font-variant: small-caps;
   letter-spacing: 0.22em;
-  color: $gold;
+  color: $gold-text;
   font-size: 0.95rem;
   margin-bottom: -1.25rem;
 }
@@ -228,7 +229,7 @@ img.front-image {
 
 // ————— All Prayers index: unwritten topics —————
 .unwritten {
-  color: #a3988a;           // quiet warm gray
+  color: #766c5e;           // quiet warm gray (AA compliant)
 }
 
 li:has(> .unwritten)::marker {
@@ -238,21 +239,14 @@ li:has(> .unwritten)::marker {
 a.contribute {
   font-size: 0.72em;
   font-style: italic;
-  color: rgba($gold, 0.85);
+  color: $gold-text;
   border-bottom: none;
   margin-left: 0.6em;
   letter-spacing: 0.04em;
-  opacity: 0.55;
-  transition: opacity 0.15s ease;
 
   &:hover {
-    color: $gold;
-    border-bottom: 1px dotted $gold;
+    border-bottom: 1px dotted $gold-text;
   }
-}
-
-li:hover > a.contribute {
-  opacity: 1;
 }
 
 .draft-tag {
@@ -381,4 +375,10 @@ li:hover > a.contribute {
 // ————— Search —————
 .aa-DetachedSearchButton {
   background: transparent;
+}
+
+// ————— Accessibility: readable breadcrumbs —————
+.quarto-title-breadcrumbs .breadcrumb-item a,
+.quarto-title-breadcrumbs .breadcrumb-item.active a {
+  color: $ink-soft !important;
 }

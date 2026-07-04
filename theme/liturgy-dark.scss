@@ -223,7 +223,7 @@ img.front-image {
 
 // ————— All Prayers index: unwritten topics —————
 .unwritten {
-  color: #7e7261;          // quiet gray-brown against the dark ground
+  color: #9b8f7d;          // quiet gray-brown (AA compliant on dark)
 }
 
 li:has(> .unwritten)::marker {
@@ -233,21 +233,14 @@ li:has(> .unwritten)::marker {
 a.contribute {
   font-size: 0.72em;
   font-style: italic;
-  color: rgba($gold, 0.8);
+  color: $gold;
   border-bottom: none;
   margin-left: 0.6em;
   letter-spacing: 0.04em;
-  opacity: 0.55;
-  transition: opacity 0.15s ease;
 
   &:hover {
-    color: $gold;
     border-bottom: 1px dotted $gold;
   }
-}
-
-li:hover > a.contribute {
-  opacity: 1;
 }
 
 .draft-tag {
@@ -376,4 +369,10 @@ li:hover > a.contribute {
 // ————— Search —————
 .aa-DetachedSearchButton {
   background: transparent;
+}
+
+// ————— Accessibility: readable breadcrumbs —————
+.quarto-title-breadcrumbs .breadcrumb-item a,
+.quarto-title-breadcrumbs .breadcrumb-item.active a {
+  color: $candle-soft !important;
 }

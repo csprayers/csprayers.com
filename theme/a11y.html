@@ -1,0 +1,25 @@
+<script>
+  // Accessible names for Quarto chrome that lacks them
+  document.addEventListener("DOMContentLoaded", () => {
+    const label = (sel, text) => {
+      document.querySelectorAll(sel).forEach((el) => {
+        if (!el.getAttribute("aria-label")) el.setAttribute("aria-label", text);
+      });
+    };
+    label(".quarto-color-scheme-toggle", "Toggle dark mode");
+    label("a.navbar-brand-logo", "CS Prayers home");
+
+    // The search button is injected after load — watch for it briefly
+    const fixSearch = () => {
+      label(".aa-DetachedSearchButton", "Search");
+      label(".aa-Autocomplete", "Search the site");
+      document.querySelectorAll(".aa-Autocomplete input, .aa-Input").forEach((el) => {
+        if (!el.getAttribute("aria-label")) el.setAttribute("aria-label", "Search the site");
+      });
+    };
+    fixSearch();
+    const obs = new MutationObserver(fixSearch);
+    obs.observe(document.body, { childList: true, subtree: true });
+    setTimeout(() => obs.disconnect(), 4000);
+  });
+</script>
