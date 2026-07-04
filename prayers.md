@@ -7,8 +7,8 @@ subtitle: A Complete Map of Moments for Prayer in Computer Science Academia
 
 This collection offers prayers for every season, struggle, and celebration in the life of computer science students and professors.
 
-:::{admonition} Symbol Legend
-:class: tip
+::: {.callout-tip title="Symbol Legend"}
+
 - 🔴 Not available
 - 🟡 Draft
 - 🟢 Final
@@ -41,7 +41,7 @@ This collection offers prayers for every season, struggle, and celebration in th
 - 🔴 [During a Challenging Unit](./1-academic-year/middles/challenging-unit.md)
 - 🔴 [The Grind of Weeks 6-10](./1-academic-year/middles/the-grind.md)
 
-### [Endings](prayers/academic-year/endings/index.md)
+### Endings
 
 *Finals, grading, graduation, and closure*
 

@@ -1,0 +1,188 @@
+/*-- scss:defaults --*/
+
+// ————— Contemplative / liturgical palette —————
+$parchment:      #faf6ed;
+$parchment-deep: #f3ecdd;
+$ink:            #33291f;
+$ink-soft:       #5c5143;
+$burgundy:       #6e1c2e;
+$burgundy-soft:  #8a3a4b;
+$gold:           #b08d3f;
+
+$body-bg:        $parchment;
+$body-color:     $ink;
+$link-color:     $burgundy;
+$link-decoration: none;
+
+$font-family-sans-serif: "EB Garamond", "Iowan Old Style", Georgia, serif;
+$headings-font-family:   "Cormorant Garamond", "EB Garamond", Georgia, serif;
+$font-size-root: 19px;
+$headings-font-weight: 500;
+$line-height-base: 1.75;
+
+$navbar-bg: $parchment;
+$navbar-fg: $ink;
+$footer-bg: $parchment-deep;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
+// ————— General atmosphere —————
+body {
+  letter-spacing: 0.01em;
+}
+
+h1, h2, h3, h4 {
+  color: $burgundy;
+  letter-spacing: 0.02em;
+}
+
+h1.title {
+  font-size: 2.4rem;
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+// Author + date under title, quiet and centered
+.quarto-title-meta {
+  justify-content: center;
+  text-align: center;
+  color: $ink-soft;
+  font-style: italic;
+  margin-bottom: 2.5rem;
+
+  .quarto-title-meta-heading {
+    display: none;   // hide "AUTHOR" / "PUBLISHED" labels
+  }
+  .quarto-title-meta-contents {
+    font-size: 0.95rem;
+  }
+}
+
+// Ornamental rule under the page title
+#title-block-header::after {
+  content: "❦";
+  display: block;
+  text-align: center;
+  color: $gold;
+  font-size: 1.3rem;
+  margin: 0.5rem auto 0;
+}
+
+// ————— The prayers themselves (blockquotes) —————
+.content blockquote {
+  border-left: none;
+  background: none;
+  margin: 2.5rem auto;
+  padding: 0 1.5rem;
+  max-width: 34em;
+  font-size: 1.12rem;
+  line-height: 1.9;
+  color: $ink;
+
+  p {
+    margin-bottom: 0.4rem;
+  }
+}
+
+// The italic line before the prayer ("As a new semester begins")
+.content > p > em:only-child,
+.content > section > p > em:only-child {
+  display: block;
+  text-align: center;
+  color: $ink-soft;
+  font-size: 1.05rem;
+}
+
+// Horizontal rules become small ornaments
+.content hr {
+  border: none;
+  text-align: center;
+  margin: 2.25rem auto;
+  opacity: 1;
+
+  &::after {
+    content: "· · ·";
+    color: $gold;
+    font-size: 1.1rem;
+    letter-spacing: 0.6em;
+  }
+}
+
+// ————— Navigation —————
+.navbar {
+  border-bottom: 1px solid rgba($gold, 0.35);
+  font-family: $headings-font-family;
+
+  .navbar-brand {
+    font-size: 1.25rem;
+    color: $burgundy;
+  }
+  .nav-link {
+    font-size: 1.02rem;
+  }
+}
+
+.sidebar-navigation {
+  font-size: 0.92rem;
+
+  .sidebar-item-section > .sidebar-item-container > a {
+    font-family: $headings-font-family;
+    font-weight: 600;
+    color: $burgundy;
+  }
+  .sidebar-link.active {
+    color: $burgundy;
+    font-weight: 600;
+  }
+}
+
+// Page prev/next footer nav
+.page-navigation {
+  .nav-page a {
+    color: $burgundy-soft;
+  }
+}
+
+// ————— Links —————
+.content a {
+  color: $burgundy;
+  border-bottom: 1px solid rgba($gold, 0.5);
+
+  &:hover {
+    color: $burgundy-soft;
+    border-bottom-color: $gold;
+  }
+}
+
+// ————— Front image —————
+.front-image img,
+img.front-image {
+  display: block;
+  margin: 0 auto 2rem;
+  max-width: min(420px, 80%);
+  border-radius: 4px;
+  box-shadow: 0 6px 24px rgba($ink, 0.15);
+}
+
+// ————— Callouts (symbol legend) —————
+.callout {
+  background: $parchment-deep;
+  border-color: rgba($gold, 0.6) !important;
+  border-radius: 4px;
+}
+
+// ————— Footer —————
+.nav-footer {
+  border-top: 1px solid rgba($gold, 0.35);
+  color: $ink-soft;
+  font-style: italic;
+  padding: 1.25rem 0;
+}
+
+// ————— Search —————
+.aa-DetachedSearchButton {
+  background: transparent;
+}

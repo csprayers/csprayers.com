@@ -1,3 +1,4 @@
-.claude
-# MyST build outputs
-_build
+_site/
+.quarto/
+_build/
+node_modules/
