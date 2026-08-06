@@ -542,6 +542,8 @@ sections:
     file: 9-tools/working-in-terminal.md
   - title: Using Ide
     file: 9-tools/using-ide.md
+  - title: Before Agentic Coding
+    file: 9-tools/agentic-coding.md
   - title: Keyboard Shortcuts
     file: 9-tools/keyboard-shortcuts.md
   - title: Servers Down

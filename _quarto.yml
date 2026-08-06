@@ -49,6 +49,9 @@ website:
       - section: "VI. Moments of Struggle & Doubt"
         contents:
         - 6-struggle/personal/work-life-balance.md
+      - section: "IX. Technology & Tools"
+        contents:
+        - 9-tools/agentic-coding.md
       - section: "X. Seasons & Daily Rhythms"
         contents:
         - 10-rhythms/daily/morning-coffee.md
