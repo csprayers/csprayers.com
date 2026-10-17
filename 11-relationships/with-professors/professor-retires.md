@@ -5,7 +5,7 @@ date: 2026-01-06
 status: final
 ---
 
-*For when one of my professors retire*
+*For when one of my professors retires*
 
 ---
 
@@ -41,7 +41,7 @@ status: final
 > 
 > I thank you Father,
 > 
-> for the oppertunity to get to love and meet them,
+> for the opportunity to get to love and meet them,
 > 
 > To be mentored by them,
 > 
@@ -50,9 +50,9 @@ status: final
 > To have a chance to talk seriously with them about what matters to us,
 >
 > 
-> We thank you for the oppertunities you have given them,
+> We thank you for the opportunities you have given them,
 > 
-> That they may show how amazing our your deeds, Lord,
+> That they may show how amazing are your deeds, Lord,
 > 
 > And how we may delight in studying them.
 >
